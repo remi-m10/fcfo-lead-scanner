@@ -1,8 +1,136 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: No new leads - 2026-04-07
+Subject: fCFO Scanner: 3 new leads - 2026-04-07 (run 2)
 
-fCFO DAILY SCAN - 2026-04-07
-New: 0 | Skipped: 0
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+fCFO Lead Scanner — 2026-04-07 (deep scan run)
+31 queries across 20+ platforms | 52 previously seen listings
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-No new listings found across all 31 searches today.
-Seen listings database: 52 total tracked.
+SUMMARY: 3 PIPELINE | 4 FLAGGED | 10+ SKIPPED
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PIPELINE — 3 leads ready to pursue
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. PERFEOS — Fractional CFO
+   Company: Perfeos (perfeos.com)
+   Type: Marketing & advertising agency — video content, 500M+ followers
+         across influencer network, 1B+ views/month
+   Size: ~$2M revenue, 6 employees | Miami, FL
+   Commitment: 20 hrs/week | Remote (USA only)
+   Source: fractionaljobs.io
+   Posted: April 6, 2026 (yesterday — very fresh)
+   URL: https://www.fractionaljobs.io/ [search "Perfeos"]
+
+   ICP Signal: STRONG — marketing/advertising agency, tiny team, almost
+   certainly founder-led, no existing CFO, revenue within EUR 2-15M target.
+   Textbook Remi niche.
+   Action: Apply via fractionaljobs.io immediately — posted yesterday.
+
+──────────────────────────────────────────────────────────────
+
+2. DATA CURATION AI STARTUP (anonymous) — Fractional CFO
+   Company: Undisclosed (listed anonymously on fractionaljobs.io)
+   Type: B2B data services / AI infrastructure — curates large-scale data
+         sets for AI model training; top AI companies as customers
+   Revenue: ~$20M last year, targeting 5x growth (~$100M) this year
+   Stage: Pre-Series B — raising $50M+ in Q1/Q2 2026
+   Commitment: Not specified | Remote
+   Posted: Recent (exact date unclear)
+   URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-data-curation-ai-startup
+
+   ICP Signal: STRONG — significant revenue, no full-time CFO yet, urgent
+   fundraise imminent, transitioning to SaaS/usage-based model.
+   Role specifically needs: fundraising narrative, diligence prep, entity
+   structuring for Series B. This is a CFO-for-fundraise engagement.
+   Action: Apply via fractionaljobs.io. Lead pitch with Series B support
+   and SaaS model transition expertise.
+
+──────────────────────────────────────────────────────────────
+
+3. APPJAXX — CFO (possibly fractional)
+   Company: AppJaxx (appjaxx.com)
+   Type: Marketing agency — serves other marketing agencies, franchisors,
+         business brokers, B2B service providers via LinkedIn lead gen +
+         appointment-setting + CRM automation
+   Stage: Fast-growing; actively hiring full C-suite simultaneously
+          (CMO, CSO, COO, CFO all open at once = no existing finance infra)
+   Role: Financial planning, budgeting, forecasting, reporting, cost
+         management, capital efficiency
+   Source: Indeed / Glassdoor / Remotive (active April 2026)
+   URL (Indeed): https://www.indeed.com/cmp/Appjaxx/jobs/l-Remote
+   URL (Glassdoor): https://www.glassdoor.com/Job/united-states-appjaxx-jobs-SRCH_IL.0,13_IN1_KO14,21.htm
+
+   ICP Signal: STRONG — marketing agency serving marketing agencies + B2B,
+   hyper-growth phase, zero CFO infrastructure in place.
+   Caveat: May be posted as full-time. If so, reach out directly to propose
+   fractional engagement — their simultaneous C-suite hiring suggests they'd
+   welcome a fractional-to-perm arrangement.
+   Action: Apply to CFO listing + consider cold outreach to founder.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FLAGGED — 4 items (review manually)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4. DESTIFY — Fractional Chief Financial Officer
+   Company: Destify (destination wedding tech platform)
+   Commitment: 10-20 hrs/week | Remote | Reports to COO + Revenue team
+   Source: fractionaljobs.io
+   URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-destify
+   Flag: Not classic ICP (not agency/B2B), but direct hire, founder-facing,
+         confirmed CFO gap. If revenue is EUR 2-15M → worth a quick apply.
+
+──────────────────────────────────────────────────────────────
+
+5. MODERN SPROUT — Fractional Chief Financial Officer
+   Company: Modern Sprout (Chicago, IL)
+   Type: Consumer goods/design — garden lifestyle at Target, Whole Foods,
+         World Market, 2,000+ retailers
+   Commitment: 5 hrs/week | Remote | Reports directly to founders
+   Source: fractionaljobs.io
+   URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-modern-sprout
+   Flag: Founder-led, direct hire — but not B2B/agency niche. Micro-engagement
+         at 5 hrs/week. Low priority unless capacity allows.
+
+──────────────────────────────────────────────────────────────
+
+6. PLACE CORPORATE — Fractional CFO for Real Estate Teams
+   Company: PLACE Corporate (US prop-tech, $1B valuation)
+   Type: Real estate technology startup
+   Commitment: Unspecified | Remote (USA)
+   Source: Greenhouse
+   URL: https://boards.greenhouse.io/place/jobs/4094407005
+   Flag: Real estate sector (not core ICP), but large enough to afford
+         premium retainer. Check if Cyprus-based engagement is viable.
+
+──────────────────────────────────────────────────────────────
+
+7. NOVA ANALYTIC LABS — Part-Time Accountant/Bookkeeper/Fractional CFO
+   Company: Nova Analytic Labs (Portland, ME) — cannabis + env. testing lab
+   Commitment: Part-time | Remote (USA)
+   Source: RemoteRocketship
+   URL: https://www.remoterocketship.com/company/nova-analyticlabs/jobs/part-time-accountant-bookkeeper-fractional-cfo-united-states-remote/
+   Flag: Cannabis lab (not B2B ICP). Hybrid bookkeeper + CFO = small budget.
+         Date of posting unclear.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SKIPPED — 10+ listings
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Competitors / fCFO bench hiring:
+  flinder (UK), 10x Team (AI platform), Rehmann (accounting firm),
+  HyperGrowth Recruitment (UK fCFO services), Preferred CFO, CEFO Advisors,
+  Propeller Industries, Attivo Partners, Seafarer Consulting, The Cash Flow CFO
+
+Already seen (prior scans):
+  Optiml, Mahway, SPRCHRGR, Allied Talent Partners, Escalon, Charles River CFO,
+  BBG, Hovee, Accountingfly, DXA Group, Proview CFO, SMB Team, Treantly,
+  Mod Ventures, ProCFO Partners, Omega Accounting, Rankin McKenzie,
+  Aspire Partners, and all others from 2026-04-06 scan
+
+No net-new on: LinkedIn direct, TotalJobs, Reed.co.uk, WeWorkRemotely,
+  Himalayas, Wellfound (all duplicates of yesterday's entries)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Total seen listings after today: 59 | Next scan: 2026-04-08
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

@@ -17,7 +17,7 @@
     },
     {
       "id": "linkedin-3220878271",
-      "company": "RĀNA DEV",
+      "company": "R\u0100NA DEV",
       "title": "Fractional CFO",
       "portal": "LinkedIn",
       "first_seen": "2026-04-06"
@@ -364,6 +364,62 @@
       "title": "Directeur Financier CFO/DAF Part-Time",
       "portal": "WTTJ",
       "first_seen": "2026-04-06"
+    },
+    {
+      "id": "fractionaljobs-perfeos",
+      "company": "Perfeos",
+      "title": "Fractional CFO",
+      "portal": "fractionaljobs.io",
+      "status": "PIPELINE",
+      "first_seen": "2026-04-07"
+    },
+    {
+      "id": "fractionaljobs-datacuration-ai",
+      "company": "Data Curation AI Startup (anon)",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "status": "PIPELINE",
+      "first_seen": "2026-04-07"
+    },
+    {
+      "id": "indeed-appjaxx-cfo",
+      "company": "AppJaxx",
+      "title": "CFO / Fractional CFO",
+      "portal": "Indeed/Glassdoor",
+      "status": "PIPELINE",
+      "first_seen": "2026-04-07"
+    },
+    {
+      "id": "fractionaljobs-destify",
+      "company": "Destify",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "status": "FLAGGED",
+      "first_seen": "2026-04-07"
+    },
+    {
+      "id": "fractionaljobs-modernsprout",
+      "company": "Modern Sprout",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "status": "FLAGGED",
+      "first_seen": "2026-04-07"
+    },
+    {
+      "id": "greenhouse-place-4094407005",
+      "company": "PLACE Corporate",
+      "title": "Fractional CFO for Real Estate Teams",
+      "portal": "Greenhouse",
+      "status": "FLAGGED",
+      "first_seen": "2026-04-07"
+    },
+    {
+      "id": "remoterocketship-nova-analytic",
+      "company": "Nova Analytic Labs",
+      "title": "Part-Time Accountant - Bookkeeper - Fractional CFO",
+      "portal": "RemoteRocketship",
+      "status": "FLAGGED",
+      "first_seen": "2026-04-07"
     }
   ]
 }
