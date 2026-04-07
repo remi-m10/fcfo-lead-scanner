@@ -1,0 +1,6 @@
+To: remi@remimouton.com
+Subject: fCFO Scanner: No new leads - 2026-04-07
+
+fCFO DAILY SCAN - 2026-04-07
+
+No new leads found today. All 31 searches returned 0 new results (52 total listings tracked in seen_listings.json).
