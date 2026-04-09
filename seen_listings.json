@@ -1,5 +1,6 @@
 {
-  "last_scan": "2026-04-07",
+  "last_scan": "2026-04-09",
+  "total_seen": 65,
   "seen": [
     {
       "id": "linkedin-4379881837",
@@ -17,7 +18,7 @@
     },
     {
       "id": "linkedin-3220878271",
-      "company": "R\u0100NA DEV",
+      "company": "RĀNA DEV",
       "title": "Fractional CFO",
       "portal": "LinkedIn",
       "first_seen": "2026-04-06"
@@ -420,6 +421,54 @@
       "portal": "RemoteRocketship",
       "status": "FLAGGED",
       "first_seen": "2026-04-07"
+    },
+    {
+      "id": "fractionaljobs-b2b-biotech",
+      "company": "B2B Biotech Startup (anon)",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "status": "FLAGGED",
+      "first_seen": "2026-04-09"
+    },
+    {
+      "id": "fractionaljobs-consumer-health",
+      "company": "Consumer Health Startup (anon)",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "status": "FLAGGED",
+      "first_seen": "2026-04-09"
+    },
+    {
+      "id": "fractionaljobs-digital-health",
+      "company": "Digital Health Startup (anon)",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "status": "SKIPPED",
+      "first_seen": "2026-04-09"
+    },
+    {
+      "id": "fractionaljobs-padclimbing",
+      "company": "The Pad Climbing",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "status": "SKIPPED",
+      "first_seen": "2026-04-09"
+    },
+    {
+      "id": "fractionaljobs-silverlion",
+      "company": "Silver Lion Farms",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "status": "SKIPPED",
+      "first_seen": "2026-04-09"
+    },
+    {
+      "id": "fractionaljobs-goodtrouble",
+      "company": "Good Trouble",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "status": "SKIPPED",
+      "first_seen": "2026-04-09"
     }
   ]
 }
