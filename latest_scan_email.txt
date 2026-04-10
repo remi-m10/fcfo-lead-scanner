@@ -1,94 +1,80 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 2 new leads - 2026-04-09
+Subject: fCFO Scanner: 0 new leads - 2026-04-10
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-04-09
-31 queries across 20+ platforms | 59 previously seen listings
+fCFO Lead Scanner — 2026-04-10
+31 queries across 20+ platforms | 65 previously seen listings
 Note: DuckDuckGo blocked in this environment; leads sourced via WebSearch
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUMMARY: 0 PIPELINE | 2 FLAGGED | 4 SKIPPED
+SUMMARY: 0 PIPELINE | 0 FLAGGED | 3 SKIPPED
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 PIPELINE — 0 leads today
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-No new PIPELINE leads today. Reminder: 3 PIPELINE leads from April 7
-scan (Perfeos, Data Curation AI Startup, AppJaxx) are still active.
+No new PIPELINE leads today. Key PIPELINE leads from prior scans
+remain active — see carry-forward reminder below.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-FLAGGED — 2 items (review manually)
+FLAGGED — 0 items today
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-1. B2B BIOTECH STARTUP (anonymous) — Fractional CFO
-   Company: Undisclosed (listed anonymously on fractionaljobs.io)
-   Type: B2B biotech — sustainable biological pest control for commercial
-         agriculture; USDA-adjacent; rethinking pest control with innovative
-         bio-solutions for commercial farming
-   Stage: Raised ~$250M to date | 50+ employees globally
-   Need: Equity management (ESOP) + upcoming fundraise + strategic finance
-         to navigate toward profitability goals
-   Source: fractionaljobs.io
-   URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-b2b-biotech-startup
-
-   Flag: B2B, clear CFO gap, specific project scope (ESOP + fundraise) —
-         but biotech/regulated sector and scale ($250M raised) suggest a
-         premium full-time CFO may follow. The engagement is CFO-for-fundraise,
-         similar to the Data Curation AI Startup pattern. Worth reviewing if
-         open to biotech/agri-tech clients. Not core ICP but could be
-         high-value retainer.
-
-──────────────────────────────────────────────────────────────
-
-2. CONSUMER HEALTH STARTUP (anonymous) — Fractional CFO
-   Company: Undisclosed (listed anonymously on fractionaljobs.io)
-   Type: Tech-enabled healthcare service — bridges gap between hospital
-         discharge and follow-up care; operates a medical practice + technology
-         platform
-   Stage: Launched 1 year ago | 15 facilities in NY and NJ | Plans to expand
-          nationwide | Treated thousands of patients | Reduces ER re-admissions
-          by 70%
-   Need: Establish financial strategy, navigate healthcare industry complexity,
-         first-ever strategic finance leader at company
-   Source: fractionaljobs.io
-   URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-consumer-health-startup
-
-   Flag: Healthcare/regulated sector (not core ICP), but it's a fast-growing
-         startup (1 year old, 15 locations), direct hire, no existing CFO,
-         clearly founder-facing. The nationwide expansion plans suggest
-         meaningful revenue trajectory. Could be a substantial engagement if
-         comfortable with healthcare compliance context.
+No new FLAGGED items today. Two FLAGGED items from the April 9 scan
+(B2B Biotech Startup and Consumer Health Startup) remain unresolved.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SKIPPED — 4 listings
+SKIPPED — 3 listings today
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  Digital Health Startup (fractionaljobs.io) — Health system revenue via
-    insurance reimbursements (RPM/RTM/CCM). Regulated healthcare fintech. Skip.
+  1. FXSWEDE (fractionaljobs.io) — Fractional CFO / Finance and Operations
+     Swedish e-commerce company (Amazon marketplace + entering US retail
+     grocery stores with "Tress Wellness" brand). Role is operational
+     accounting (EDI invoicing, Walmart Retail Link, CVS portals). Not
+     strategic finance / not professional services ICP. Skip.
+     URL: https://www.fractionaljobs.io/jobs/chief-finance-officer-at-fxswede
 
-  The Pad Climbing (fractionaljobs.io) — Brick-and-mortar climbing gym
-    chain, membership-based. 2–5 hrs/week. B2C/fitness. Not ICP.
+  2. BOUTIQUE FRACTIONAL CFO FIRM (anon) — Fractional FP&A Lead (fractionaljobs.io)
+     Competitor-side listing: a fractional CFO firm hiring FP&A talent to
+     service their own clients (B2B SaaS, fintech, edtech, healthtech
+     startups, $1M–$20M). Not a company seeking a fCFO — supplier-side.
+     URL: https://www.fractionaljobs.io/jobs/fp-a-lead-at-a-boutique-fractional-cfo-firm
 
-  Silver Lion Farms (fractionaljobs.io) — Sustainable agriculture + cannabis
-    (USDA Organic hemp). Dual-entity. Cannabis = regulated banking complexity.
-    Not ICP.
-
-  Good Trouble (fractionaljobs.io) — Kentucky Straight Bourbon Whiskey,
-    beverage alcohol/CPG. 8–20 hrs/week. TTB-regulated sector. Not ICP.
+  3. UNKNOWN STARTUP EUROPE (Wellfound) — Fractional Fundraising Advisor / Startup CFO
+     Equity-only compensation (0.25%–0.75% equity, zero cash). Europe-based.
+     Date uncertain (possibly October 2025, potentially >3 months old).
+     Equity-only model not viable for fCFO cash-flow practice. Skip.
+     URL: https://wellfound.com/jobs/3522548-fractional-fundraising-advisor-startup-cfo-equity-based
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CARRY-FORWARD PIPELINE REMINDER (from 2026-04-07 scan)
+CARRY-FORWARD PIPELINE REMINDER (active leads from prior scans)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  1. PERFEOS — https://www.fractionaljobs.io/jobs/chief-financial-officer-at-perfeos
-     Marketing/advertising agency, $2M revenue, 20 hrs/week. Very fresh.
+From 2026-04-07 scan:
 
-  2. DATA CURATION AI STARTUP — https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-data-curation-ai-startup
-     $20M revenue, Series B ($50M+) imminent. CFO-for-fundraise play.
+  1. PERFEOS — Fractional CFO
+     Marketing/advertising agency, ~$2M revenue, 20 hrs/week.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-perfeos
 
-  3. APPJAXX — https://www.indeed.com/cmp/Appjaxx/jobs/l-Remote
+  2. DATA CURATION AI STARTUP — Fractional CFO
+     $20M revenue, Series B (~$50M+) imminent. CFO-for-fundraise play.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-data-curation-ai-startup
+
+  3. APPJAXX — CFO / Fractional CFO
      Marketing agency serving agencies + B2B, hyper-growth, zero CFO infra.
+     URL: https://www.indeed.com/cmp/Appjaxx/jobs/l-Remote
+
+From 2026-04-09 scan (FLAGGED — still unresolved):
+
+  4. B2B BIOTECH STARTUP (anon) — Fractional CFO
+     $250M raised, 50+ employees. ESOP + fundraise scope. Biotech/agri-tech.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-b2b-biotech-startup
+
+  5. CONSUMER HEALTH STARTUP (anon) — Fractional CFO
+     1 year old, 15 facilities (NY/NJ), nationwide expansion planned.
+     No existing CFO. Healthcare-adjacent but fast-growing.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-consumer-health-startup
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Total seen listings after today: 65 | Next scan: 2026-04-10
+Total seen listings after today: 68 | Next scan: 2026-04-11
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

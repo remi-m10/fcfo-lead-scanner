@@ -1,6 +1,6 @@
 {
-  "last_scan": "2026-04-09",
-  "total_seen": 65,
+  "last_scan": "2026-04-10",
+  "total_seen": 68,
   "seen": [
     {
       "id": "linkedin-4379881837",
@@ -469,6 +469,30 @@
       "portal": "fractionaljobs.io",
       "status": "SKIPPED",
       "first_seen": "2026-04-09"
+    },
+    {
+      "id": "fractionaljobs-fxswede",
+      "company": "Fxswede",
+      "title": "Fractional Chief Finance Officer / Finance and Operations",
+      "portal": "fractionaljobs.io",
+      "status": "SKIPPED",
+      "first_seen": "2026-04-10"
+    },
+    {
+      "id": "fractionaljobs-boutique-fcfo-fpa",
+      "company": "Boutique Fractional CFO Firm (anon)",
+      "title": "Fractional FP&A Lead",
+      "portal": "fractionaljobs.io",
+      "status": "SKIPPED",
+      "first_seen": "2026-04-10"
+    },
+    {
+      "id": "wellfound-3522548",
+      "company": "Unknown Startup (Europe)",
+      "title": "Fractional Fundraising Advisor / Startup CFO (Equity-Based)",
+      "portal": "Wellfound",
+      "status": "SKIPPED",
+      "first_seen": "2026-04-10"
     }
   ]
 }

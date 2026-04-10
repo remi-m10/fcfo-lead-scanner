@@ -1,54 +1,5 @@
 {
-  "date": "2026-04-09",
-  "new_count": 6,
-  "results": [
-    {
-      "id": "fractionaljobs-b2b-biotech",
-      "title": "Fractional Chief Financial Officer at A B2B Biotech Startup",
-      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-b2b-biotech-startup",
-      "portal": "fractionaljobs.io",
-      "first_seen": "2026-04-09",
-      "query": "site:fractionaljobs.io CFO 2026"
-    },
-    {
-      "id": "fractionaljobs-consumer-health",
-      "title": "Fractional Chief Financial Officer at A Consumer Health Startup",
-      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-consumer-health-startup",
-      "portal": "fractionaljobs.io",
-      "first_seen": "2026-04-09",
-      "query": "site:fractionaljobs.io CFO 2026"
-    },
-    {
-      "id": "fractionaljobs-digital-health",
-      "title": "Fractional Chief Financial Officer at A Digital Health Startup",
-      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-digital-health-startup",
-      "portal": "fractionaljobs.io",
-      "first_seen": "2026-04-09",
-      "query": "site:fractionaljobs.io CFO 2026"
-    },
-    {
-      "id": "fractionaljobs-padclimbing",
-      "title": "Fractional Chief Financial Officer at The Pad Climbing",
-      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-the-pad-climbing",
-      "portal": "fractionaljobs.io",
-      "first_seen": "2026-04-09",
-      "query": "site:fractionaljobs.io CFO 2026"
-    },
-    {
-      "id": "fractionaljobs-silverlion",
-      "title": "Fractional Chief Financial Officer at Silver Lion Farms",
-      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-silver-lion-farms",
-      "portal": "fractionaljobs.io",
-      "first_seen": "2026-04-09",
-      "query": "site:fractionaljobs.io CFO 2026"
-    },
-    {
-      "id": "fractionaljobs-goodtrouble",
-      "title": "Fractional Chief Financial Officer at Good Trouble",
-      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-good-trouble",
-      "portal": "fractionaljobs.io",
-      "first_seen": "2026-04-09",
-      "query": "site:fractionaljobs.io CFO 2026"
-    }
-  ]
+  "date": "2026-04-10",
+  "new_count": 0,
+  "results": []
 }
