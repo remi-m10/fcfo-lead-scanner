@@ -1,50 +1,65 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 0 new leads - 2026-04-10
+Subject: fCFO Scanner: 3 new leads - 2026-04-11
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-04-10
-31 queries across 20+ platforms | 65 previously seen listings
-Note: DuckDuckGo blocked in this environment; leads sourced via WebSearch
+fCFO Lead Scanner — 2026-04-11
+31 queries across 20+ platforms | 68 previously seen listings
+Note: DuckDuckGo blocked again; leads sourced via WebSearch on fractionaljobs.io
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUMMARY: 0 PIPELINE | 0 FLAGGED | 3 SKIPPED
+SUMMARY: 1 PIPELINE | 2 FLAGGED | 0 SKIPPED today
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-PIPELINE — 0 leads today
+PIPELINE — 1 new lead today
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-No new PIPELINE leads today. Key PIPELINE leads from prior scans
-remain active — see carry-forward reminder below.
+  1. FOREIGN VENTURE GROUP — Fractional CFO (fractionaljobs.io)
+     Digital transformation & consulting firm serving SMEs. Toronto,
+     Ontario, Canada (founded 2016). Services include digital marketing,
+     data analytics, web development, business consulting, HR, government
+     grants advisory, and process improvement. Categorized on BBB as
+     "Digital Marketing." No existing CFO mentioned. 5–10 hrs/week,
+     Remote (Canada), $120k–$130k FTE equivalent.
+     Strong ICP match: professional services / consulting firm, founder-
+     led/SME-focused, no CFO infrastructure, Canada geography, clear
+     fractional CFO need.
+     Note: Posting date not confirmed — treat as recent ("New Job" label
+     on fractionaljobs.io at time of scan).
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-foreign-venture-group
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-FLAGGED — 0 items today
+FLAGGED — 2 items today
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-No new FLAGGED items today. Two FLAGGED items from the April 9 scan
-(B2B Biotech Startup and Consumer Health Startup) remain unresolved.
+  1. MYTOLYFE BIOTHERAPEUTICS LTD — Fractional CFO (fractionaljobs.io)
+     Small biotech startup focused on mitochondrial disorder therapeutics
+     (small molecule drugs stimulating mitochondrial biogenesis). Requires
+     10+ yrs CFO experience in biotech/medical startups plus capital-
+     raising track record with HNW individuals, Family Offices, and VCTs.
+     No existing CFO mentioned. Posting date unclear.
+     Flagged because: biotech/life sciences is a specialized vertical
+     (similar reasoning as B2B Biotech Startup from Apr 9 scan); check
+     whether you serve early-stage biotech before engaging.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mytolyfe-biotherapeutics-ltd
+
+  2. MASHUP GROUP (Mashup Ireland AB) — Fractional CFO (fractionaljobs.io)
+     Publicly listed company (Nasdaq Stockholm, ticker: MASHUP) focused
+     on Irish SMEs — "Ideas, Capital, Talent" group. Dublin/London
+     footprint. Revenue ~€6.1M (H2 2024, +56% YoY); market cap ~$10.7M.
+     First profitable period (EBITDA positive H2 2024). CFO scope:
+     capital markets access, fundraising, financial strategy for a public
+     company. Posting date unclear.
+     Flagged because: publicly listed company (securities/regulatory
+     reporting obligations); non-standard ICP vs. private consulting/
+     agency. Could be interesting given SME focus and tiny size, but
+     public company compliance overhead is significant.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mashup-group
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SKIPPED — 3 listings today
+SKIPPED — 0 listings today
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  1. FXSWEDE (fractionaljobs.io) — Fractional CFO / Finance and Operations
-     Swedish e-commerce company (Amazon marketplace + entering US retail
-     grocery stores with "Tress Wellness" brand). Role is operational
-     accounting (EDI invoicing, Walmart Retail Link, CVS portals). Not
-     strategic finance / not professional services ICP. Skip.
-     URL: https://www.fractionaljobs.io/jobs/chief-finance-officer-at-fxswede
-
-  2. BOUTIQUE FRACTIONAL CFO FIRM (anon) — Fractional FP&A Lead (fractionaljobs.io)
-     Competitor-side listing: a fractional CFO firm hiring FP&A talent to
-     service their own clients (B2B SaaS, fintech, edtech, healthtech
-     startups, $1M–$20M). Not a company seeking a fCFO — supplier-side.
-     URL: https://www.fractionaljobs.io/jobs/fp-a-lead-at-a-boutique-fractional-cfo-firm
-
-  3. UNKNOWN STARTUP EUROPE (Wellfound) — Fractional Fundraising Advisor / Startup CFO
-     Equity-only compensation (0.25%–0.75% equity, zero cash). Europe-based.
-     Date uncertain (possibly October 2025, potentially >3 months old).
-     Equity-only model not viable for fCFO cash-flow practice. Skip.
-     URL: https://wellfound.com/jobs/3522548-fractional-fundraising-advisor-startup-cfo-equity-based
+No new items skipped today.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CARRY-FORWARD PIPELINE REMINDER (active leads from prior scans)
@@ -76,5 +91,5 @@ From 2026-04-09 scan (FLAGGED — still unresolved):
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-consumer-health-startup
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Total seen listings after today: 68 | Next scan: 2026-04-11
+Total seen listings after today: 71 | Next scan: 2026-04-12
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

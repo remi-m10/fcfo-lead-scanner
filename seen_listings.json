@@ -1,6 +1,6 @@
 {
-  "last_scan": "2026-04-10",
-  "total_seen": 68,
+  "last_scan": "2026-04-11",
+  "total_seen": 71,
   "seen": [
     {
       "id": "linkedin-4379881837",
@@ -493,6 +493,30 @@
       "portal": "Wellfound",
       "status": "SKIPPED",
       "first_seen": "2026-04-10"
+    },
+    {
+      "id": "fractionaljobs-foreignventuregroup",
+      "company": "Foreign Venture Group",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "status": "PIPELINE",
+      "first_seen": "2026-04-11"
+    },
+    {
+      "id": "fractionaljobs-mytolyfe",
+      "company": "MytoLyfe Biotherapeutics Ltd",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "status": "FLAGGED",
+      "first_seen": "2026-04-11"
+    },
+    {
+      "id": "fractionaljobs-mashupgroup",
+      "company": "MashUp Group (Mashup Ireland AB)",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "status": "FLAGGED",
+      "first_seen": "2026-04-11"
     }
   ]
 }

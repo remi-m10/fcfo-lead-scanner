@@ -1,5 +1,33 @@
 {
-  "date": "2026-04-10",
-  "new_count": 0,
-  "results": []
+  "date": "2026-04-11",
+  "new_count": 3,
+  "results": [
+    {
+      "id": "fractionaljobs-foreignventuregroup",
+      "title": "Fractional Chief Financial Officer",
+      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-foreign-venture-group",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-11",
+      "status": "PIPELINE",
+      "query": "fractionaljobs.io CFO scan"
+    },
+    {
+      "id": "fractionaljobs-mytolyfe",
+      "title": "Fractional Chief Financial Officer at MytoLyfe Biotherapeutics Ltd",
+      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mytolyfe-biotherapeutics-ltd",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-11",
+      "status": "FLAGGED",
+      "query": "fractionaljobs.io CFO scan"
+    },
+    {
+      "id": "fractionaljobs-mashupgroup",
+      "title": "Fractional Chief Financial Officer at MashUp Group",
+      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mashup-group",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-11",
+      "status": "FLAGGED",
+      "query": "fractionaljobs.io CFO scan"
+    }
+  ]
 }
