@@ -1,95 +1,112 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 3 new leads - 2026-04-11
+Subject: fCFO Scanner: 0 new PIPELINE leads - 2026-04-12
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-04-11
-31 queries across 20+ platforms | 68 previously seen listings
-Note: DuckDuckGo blocked again; leads sourced via WebSearch on fractionaljobs.io
+fCFO Lead Scanner — 2026-04-12
+31 queries across 20+ platforms | 71 previously seen listings
+Note: DuckDuckGo blocked again (0/31 queries returned results);
+leads sourced via WebSearch on fractionaljobs.io + general search.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUMMARY: 1 PIPELINE | 2 FLAGGED | 0 SKIPPED today
+SUMMARY: 0 PIPELINE | 1 FLAGGED | 4 SKIPPED today
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-PIPELINE — 1 new lead today
+PIPELINE — 0 new leads today
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  1. FOREIGN VENTURE GROUP — Fractional CFO (fractionaljobs.io)
-     Digital transformation & consulting firm serving SMEs. Toronto,
-     Ontario, Canada (founded 2016). Services include digital marketing,
-     data analytics, web development, business consulting, HR, government
-     grants advisory, and process improvement. Categorized on BBB as
-     "Digital Marketing." No existing CFO mentioned. 5–10 hrs/week,
-     Remote (Canada), $120k–$130k FTE equivalent.
-     Strong ICP match: professional services / consulting firm, founder-
-     led/SME-focused, no CFO infrastructure, Canada geography, clear
-     fractional CFO need.
-     Note: Posting date not confirmed — treat as recent ("New Job" label
-     on fractionaljobs.io at time of scan).
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-foreign-venture-group
+No new pipeline leads today.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-FLAGGED — 2 items today
+FLAGGED — 1 item today
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  1. MYTOLYFE BIOTHERAPEUTICS LTD — Fractional CFO (fractionaljobs.io)
-     Small biotech startup focused on mitochondrial disorder therapeutics
-     (small molecule drugs stimulating mitochondrial biogenesis). Requires
-     10+ yrs CFO experience in biotech/medical startups plus capital-
-     raising track record with HNW individuals, Family Offices, and VCTs.
-     No existing CFO mentioned. Posting date unclear.
-     Flagged because: biotech/life sciences is a specialized vertical
-     (similar reasoning as B2B Biotech Startup from Apr 9 scan); check
-     whether you serve early-stage biotech before engaging.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mytolyfe-biotherapeutics-ltd
-
-  2. MASHUP GROUP (Mashup Ireland AB) — Fractional CFO (fractionaljobs.io)
-     Publicly listed company (Nasdaq Stockholm, ticker: MASHUP) focused
-     on Irish SMEs — "Ideas, Capital, Talent" group. Dublin/London
-     footprint. Revenue ~€6.1M (H2 2024, +56% YoY); market cap ~$10.7M.
-     First profitable period (EBITDA positive H2 2024). CFO scope:
-     capital markets access, fundraising, financial strategy for a public
-     company. Posting date unclear.
-     Flagged because: publicly listed company (securities/regulatory
-     reporting obligations); non-standard ICP vs. private consulting/
-     agency. Could be interesting given SME focus and tiny size, but
-     public company compliance overhead is significant.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mashup-group
+  1. INTELLIHEALTH — Fractional CFO (fractionaljobs.io)
+     Health tech services company focused on diagnosing, treating, and
+     managing obesity and obesity-related diseases using software + clinical
+     care. Clients include employers, payers, hospital systems, and pharma
+     companies. CFO scope: financial strategy, investor relations with VC
+     board members, end-to-end fundraising for Series B and Series C rounds.
+     Posting date unclear.
+     Flagged because: health tech / clinical care — adjacent to regulated
+     healthcare sector. VC-backed with Series B/C fundraising mandate is
+     a stretch beyond typical fCFO ICP; also heavy investor relations
+     expectations. Check whether you serve health tech before engaging.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-intellihealth
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SKIPPED — 0 listings today
+SKIPPED — 4 listings today
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-No new items skipped today.
+  1. WECHEER (fractionaljobs.io) — Enterprise SaaS CRM for CPG brands.
+     Swiss company (Lausanne, founded 2016), ~$6.3M revenue, 49 employees,
+     operating in 14 countries. SaaS platform with AI, IoT, receipt scanning.
+     Skipped: SaaS company.
+
+  2. FXSWEDE (fractionaljobs.io) — Fractional CFO / Finance & Operations
+     for US Retail Grocery company. 10-20 hrs/week, remote.
+     Skipped: posting dated July 14, 2025 — over 9 months old.
+
+  3. CPG, F&B, AND RETAIL-FOCUSED SERVICES FIRM (fractionaljobs.io) —
+     Boutique fractional CFO & accounting firm specializing in F&B, CPG,
+     and retail. Looking for someone to handle 2-3 client engagements.
+     Posted February 17, 2026.
+     Skipped: competitor — another fCFO/accounting firm, not a client.
+
+  4. CFO LEVERAGE via NOVAEDGE (novaedge.page.gd) — Fractional CFO firm
+     serving nonprofits exclusively (charter schools, faith-based ministries,
+     social service agencies, advocacy groups). US-based, 15-30 hrs/week,
+     $85-100/hr.
+     Skipped: competitor — another fractional CFO firm, not a client.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CARRY-FORWARD PIPELINE REMINDER (active leads from prior scans)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+From 2026-04-11 scan:
+
+  1. FOREIGN VENTURE GROUP — Fractional CFO (fractionaljobs.io)
+     Digital transformation & consulting firm (Toronto, Canada, founded 2016).
+     Services: digital marketing, data analytics, web dev, business consulting,
+     HR, government grants advisory. No existing CFO. 5-10 hrs/week, remote.
+     Strong ICP match.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-foreign-venture-group
+
 From 2026-04-07 scan:
 
-  1. PERFEOS — Fractional CFO
+  2. PERFEOS — Fractional CFO (fractionaljobs.io)
      Marketing/advertising agency, ~$2M revenue, 20 hrs/week.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-perfeos
 
-  2. DATA CURATION AI STARTUP — Fractional CFO
+  3. DATA CURATION AI STARTUP — Fractional CFO (fractionaljobs.io)
      $20M revenue, Series B (~$50M+) imminent. CFO-for-fundraise play.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-data-curation-ai-startup
 
-  3. APPJAXX — CFO / Fractional CFO
+  4. APPJAXX — CFO / Fractional CFO (Indeed)
      Marketing agency serving agencies + B2B, hyper-growth, zero CFO infra.
      URL: https://www.indeed.com/cmp/Appjaxx/jobs/l-Remote
 
+From 2026-04-11 scan (FLAGGED — still unresolved):
+
+  5. MYTOLYFE BIOTHERAPEUTICS LTD — Fractional CFO (fractionaljobs.io)
+     Small biotech startup. Requires biotech/medical CFO + capital-raising track
+     record with HNW, Family Offices, VCTs. Posting date unclear.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mytolyfe-biotherapeutics-ltd
+
+  6. MASHUP GROUP (Mashup Ireland AB) — Fractional CFO (fractionaljobs.io)
+     Publicly listed on Nasdaq Stockholm. Irish SME-focused. Revenue ~€6.1M,
+     market cap ~$10.7M. Public company compliance overhead.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mashup-group
+
 From 2026-04-09 scan (FLAGGED — still unresolved):
 
-  4. B2B BIOTECH STARTUP (anon) — Fractional CFO
-     $250M raised, 50+ employees. ESOP + fundraise scope. Biotech/agri-tech.
+  7. B2B BIOTECH STARTUP (anon) — Fractional CFO (fractionaljobs.io)
+     $250M raised, 50+ employees. ESOP + fundraise scope.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-b2b-biotech-startup
 
-  5. CONSUMER HEALTH STARTUP (anon) — Fractional CFO
+  8. CONSUMER HEALTH STARTUP (anon) — Fractional CFO (fractionaljobs.io)
      1 year old, 15 facilities (NY/NJ), nationwide expansion planned.
-     No existing CFO. Healthcare-adjacent but fast-growing.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-consumer-health-startup
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Total seen listings after today: 71 | Next scan: 2026-04-12
+Total seen listings after today: 75 | Next scan: 2026-04-13
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

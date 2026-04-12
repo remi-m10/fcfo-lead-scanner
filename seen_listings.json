@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-04-11",
+  "last_scan": "2026-04-12",
   "total_seen": 71,
   "seen": [
     {
@@ -517,6 +517,38 @@
       "portal": "fractionaljobs.io",
       "status": "FLAGGED",
       "first_seen": "2026-04-11"
+    },
+    {
+      "id": "fractionaljobs-wecheer",
+      "title": "Fractional Chief Financial Officer at Wecheer",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-12",
+      "company": "Wecheer",
+      "status": "SKIPPED"
+    },
+    {
+      "id": "fractionaljobs-intellihealth",
+      "title": "Fractional Chief Financial Officer at Intellihealth",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-12",
+      "company": "Intellihealth",
+      "status": "FLAGGED"
+    },
+    {
+      "id": "fractionaljobs-cpg-fb-retail",
+      "title": "Fractional Chief Financial Officer at A CPG, F&B, and Retail-focused Services Firm",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-12",
+      "company": "CPG/F&B/Retail Services Firm",
+      "status": "SKIPPED"
+    },
+    {
+      "id": "novaedge-cfolev",
+      "title": "Fractional CFO (Remote — US Based) | CFO Leverage via Novaedge",
+      "portal": "novaedge.page.gd",
+      "first_seen": "2026-04-12",
+      "company": "CFO Leverage",
+      "status": "SKIPPED"
     }
   ]
 }

@@ -1,33 +1,51 @@
 {
-  "date": "2026-04-11",
-  "new_count": 3,
+  "date": "2026-04-12",
+  "new_count": 5,
   "results": [
     {
-      "id": "fractionaljobs-foreignventuregroup",
-      "title": "Fractional Chief Financial Officer",
-      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-foreign-venture-group",
+      "id": "fractionaljobs-intellihealth",
+      "title": "Fractional Chief Financial Officer at Intellihealth",
+      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-intellihealth",
       "portal": "fractionaljobs.io",
-      "first_seen": "2026-04-11",
-      "status": "PIPELINE",
-      "query": "fractionaljobs.io CFO scan"
+      "first_seen": "2026-04-12",
+      "status": "FLAGGED",
+      "query": "WebSearch fallback fractionaljobs.io"
     },
     {
-      "id": "fractionaljobs-mytolyfe",
-      "title": "Fractional Chief Financial Officer at MytoLyfe Biotherapeutics Ltd",
-      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mytolyfe-biotherapeutics-ltd",
+      "id": "fractionaljobs-wecheer",
+      "title": "Fractional Chief Financial Officer at Wecheer",
+      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-wecheer",
       "portal": "fractionaljobs.io",
-      "first_seen": "2026-04-11",
-      "status": "FLAGGED",
-      "query": "fractionaljobs.io CFO scan"
+      "first_seen": "2026-04-12",
+      "status": "SKIPPED",
+      "query": "WebSearch fallback fractionaljobs.io"
     },
     {
-      "id": "fractionaljobs-mashupgroup",
-      "title": "Fractional Chief Financial Officer at MashUp Group",
-      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mashup-group",
+      "id": "fractionaljobs-fxswede",
+      "title": "Fractional Chief Finance Officer at Fxswede",
+      "url": "https://www.fractionaljobs.io/jobs/chief-finance-officer-at-fxswede",
       "portal": "fractionaljobs.io",
-      "first_seen": "2026-04-11",
-      "status": "FLAGGED",
-      "query": "fractionaljobs.io CFO scan"
+      "first_seen": "2026-04-12",
+      "status": "SKIPPED",
+      "query": "WebSearch fallback fractionaljobs.io"
+    },
+    {
+      "id": "fractionaljobs-cpg-fb-retail",
+      "title": "Fractional CFO at A CPG, F&B, and Retail-focused Services Firm",
+      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-for-a-cpg-f-and-b-and-retail-focused-services-firm",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-12",
+      "status": "SKIPPED",
+      "query": "WebSearch fallback fractionaljobs.io"
+    },
+    {
+      "id": "novaedge-cfolev",
+      "title": "Fractional CFO (Remote — US Based) | CFO Leverage via Novaedge",
+      "url": "https://novaedge.page.gd/job/fractional-cfo-remote-us-based",
+      "portal": "novaedge.page.gd",
+      "first_seen": "2026-04-12",
+      "status": "SKIPPED",
+      "query": "WebSearch fallback general"
     }
   ]
 }
