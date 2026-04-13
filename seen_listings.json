@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-04-12",
+  "last_scan": "2026-04-13",
   "total_seen": 71,
   "seen": [
     {
@@ -549,6 +549,55 @@
       "first_seen": "2026-04-12",
       "company": "CFO Leverage",
       "status": "SKIPPED"
+    },
+    {
+      "id": "fractionaljobs-pure-strategies",
+      "company": "Pure Strategies",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-13"
+    },
+    {
+      "id": "fractionaljobs-squadron-rpo",
+      "company": "Squadron RPO",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-13"
+    },
+    {
+      "id": "fractionaljobs-equals-5",
+      "company": "Equals 5",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-13"
+    },
+    {
+      "id": "fractionaljobs-mod-ventures-llc",
+      "company": "Mod Ventures LLC",
+      "title": "Fractional Chief Operations & Financial Officer",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-13"
+    },
+    {
+      "id": "fractionaljobs-holon-health",
+      "company": "Holon Health",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-13"
+    },
+    {
+      "id": "fractionaljobs-forward-share-ventures",
+      "company": "Forward Share Ventures",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-13"
+    },
+    {
+      "id": "fractionaljobs-digital-health-startup",
+      "company": "A Digital Health Startup",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-13"
     }
   ]
 }
