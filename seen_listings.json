@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-04-14",
+  "last_scan": "2026-04-15",
   "total_seen": 71,
   "seen": [
     {
@@ -598,6 +598,27 @@
       "title": "Fractional Chief Financial Officer",
       "portal": "fractionaljobs.io",
       "first_seen": "2026-04-13"
+    },
+    {
+      "id": "url-fractionaljobs-virtual-athletics-league",
+      "company": "Virtual Athletics League",
+      "title": "Fractional Chief Financial Officer at Virtual Athletics League",
+      "portal": "fractionaljobs",
+      "first_seen": "2026-04-15"
+    },
+    {
+      "id": "url-fractionaljobs-lucky-lab-coffee",
+      "company": "Lucky Lab Coffee",
+      "title": "Fractional Chief Financial Officer at Lucky Lab Coffee",
+      "portal": "fractionaljobs",
+      "first_seen": "2026-04-15"
+    },
+    {
+      "id": "url-fractionaljobs-deposyt",
+      "company": "Deposyt",
+      "title": "Fractional Chief Financial Officer at Deposyt",
+      "portal": "fractionaljobs",
+      "first_seen": "2026-04-15"
     }
   ]
 }

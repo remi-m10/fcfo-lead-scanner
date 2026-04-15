@@ -1,84 +1,82 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 2 new leads - 2026-04-13
+Subject: fCFO Scanner: 0 new leads - 2026-04-15
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-04-13
-31 queries across 20+ platforms | 82 total seen listings
+fCFO Lead Scanner — 2026-04-15
+31 queries across 20+ platforms | 85 total seen listings
 Note: DuckDuckGo blocked again (0/31 queries returned results);
 leads sourced via WebSearch on fractionaljobs.io + general search.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUMMARY: 2 PIPELINE | 0 FLAGGED | 5 SKIPPED today
+SUMMARY: 0 PIPELINE | 2 FLAGGED | 1 SKIPPED today
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-PIPELINE — 2 new leads today
+PIPELINE — 0 new leads today
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  1. PURE STRATEGIES — Fractional CFO (fractionaljobs.io)
-     Sustainability consulting firm, founded 1998, Gloucester MA.
-     B Corp certified. $5M revenue, ~25 employees. Major brand clients
-     include Walmart, Colgate-Palmolive, Organic Valley, Seventh
-     Generation, Ben & Jerry's. Fractional CFO scope: financial
-     practices, internal controls aligned with B Corp certification,
-     supporting sustained growth. ~1.5 days/week average, with peaks
-     during reporting, planning, and tax season. No existing CFO
-     implied. Classic consulting firm ICP — long-tenured, mission-
-     driven, right-sized for fractional finance leadership.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-pure-strategies
-
-  2. SQUADRON RPO — Fractional CFO (fractionaljobs.io)
-     Recruitment Process Outsourcing firm, San Francisco CA.
-     ~21 employees. Building a new accounting and finance division.
-     Fractional CFO to oversee financial strategy, structure, and
-     operations of the newly formed division. No existing CFO.
-     Recruitment/staffing agency hiring their own fCFO — direct ICP
-     match. Small, named company (not a pass-through for unnamed
-     client).
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-squadron-rpo
+No pipeline items today.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-FLAGGED — 0 items today
+FLAGGED — 2 items today
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-No flagged items today.
+  1. VIRTUAL ATHLETICS LEAGUE — Fractional CFO (fractionaljobs.io)
+     World's premier VR esports league, Salt Lake City UT. Founded
+     2016, ~31 employees. Entertainment/gaming/media. Backed by
+     investors who funded Tesla, Hotmail, and Skype; worked directly
+     with Meta on high-profile VR projects. Has been profitable (op
+     income +300% since 2020). Posted ~April 9, 2026.
+     Flagged: Entertainment/gaming — not standard agency/consulting
+     ICP. One source suggests position may already be filled (unconfirmed).
+     Worth a quick check if you serve media/entertainment founder-led
+     companies.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-virtual-athletics-league
+
+  2. LUCKY LAB COFFEE — Fractional CFO (fractionaljobs.io)
+     Fast-growing coffee & bakery brand, Austin TX. Strong traction
+     near University of Texas; successful suburban drive-thru model.
+     Entering rapid expansion phase (3-4 new locations planned).
+     10-20 hrs/week. Posted April 13, 2026. No existing CFO.
+     Flagged: F&B/retail brand — not professional services/agency.
+     Role appears to be Austin or CA-based (hybrid/location-restricted).
+     Could be a fit if you serve consumer brand companies in growth mode.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-lucky-lab-coffee
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SKIPPED — 5 listings today
+SKIPPED — 1 listing today
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  1. EQUALS 5 (fractionaljobs.io) — SaaS/tech marketing platform
-     serving US pharma industry. Self-service platform with
-     proprietary algorithms and HCP-to-consumer data graph.
-     Skipped: SaaS platform company.
-
-  2. MOD VENTURES LLC (fractionaljobs.io) — Outsourced accounting
-     and fractional CFO/advisory firm (Tucson AZ, founded 2004),
-     hiring a hybrid Fractional COO/CFO for their own operations.
-     Skipped: competitor (fractional CFO & accounting firm).
-
-  3. HOLON HEALTH (fractionaljobs.io) — Digital therapeutics and
-     telehealth for substance use disorder / mental health. Founded
-     2023, Richmond VA, 70 employees. Clinical care platform.
-     Skipped: regulated healthcare/clinical services.
-
-  4. FORWARD SHARE VENTURES (fractionaljobs.io) — Fractional
-     executive services platform / venture builder. Provides
-     fractional C-suite matching and infrastructure for startups.
-     Skipped: competitor (fractional executive services firm).
-
-  5. A DIGITAL HEALTH STARTUP (anon, fractionaljobs.io) — Healthcare
-     platform spinout from consumer electronics brand; helps
-     hospitals continue patient care post-discharge. Closing Series A.
-     Requires CFO with Medicare/Medicaid reimbursement experience.
-     Skipped: regulated healthcare (Medicare/Medicaid).
+  1. DEPOSYT (fractionaljobs.io) — U.S.-based merchant payment
+     platform, Tempe AZ, founded 2017. Processes credit/debit, ACH,
+     digital wallets, serves high-risk merchant categories. Seeking
+     CFO with merchant service-specific expertise, once-a-month
+     engagement.
+     Skipped: fintech/payments company (regulated financial services).
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CARRY-FORWARD PIPELINE REMINDER (active leads from prior scans)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+From 2026-04-13 scan:
+
+  1. PURE STRATEGIES — Fractional CFO (fractionaljobs.io)
+     Sustainability consulting firm, founded 1998, Gloucester MA.
+     B Corp certified. $5M revenue, ~25 employees. Major brand clients
+     include Walmart, Colgate-Palmolive, Organic Valley, Seventh
+     Generation, Ben & Jerry's. ~1.5 days/week. No existing CFO.
+     Classic consulting firm ICP.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-pure-strategies
+
+  2. SQUADRON RPO — Fractional CFO (fractionaljobs.io)
+     Recruitment Process Outsourcing firm, San Francisco CA. ~21
+     employees. Building a new accounting and finance division.
+     Fractional CFO to lead financial strategy for newly formed
+     division. No existing CFO. Direct ICP match.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-squadron-rpo
+
 From 2026-04-11 scan:
 
-  1. FOREIGN VENTURE GROUP — Fractional CFO (fractionaljobs.io)
+  3. FOREIGN VENTURE GROUP — Fractional CFO (fractionaljobs.io)
      Digital transformation & consulting firm (Toronto, Canada,
      founded 2016). Services: digital marketing, data analytics,
      web dev, business consulting, HR, government grants advisory.
@@ -87,56 +85,55 @@ From 2026-04-11 scan:
 
 From 2026-04-07 scan:
 
-  2. PERFEOS — Fractional CFO (fractionaljobs.io)
+  4. PERFEOS — Fractional CFO (fractionaljobs.io)
      Marketing/advertising agency, ~$2M revenue, 20 hrs/week.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-perfeos
 
-  3. DATA CURATION AI STARTUP — Fractional CFO (fractionaljobs.io)
+  5. DATA CURATION AI STARTUP — Fractional CFO (fractionaljobs.io)
      $20M revenue, Series B (~$50M+) imminent. CFO-for-fundraise play.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-data-curation-ai-startup
 
-  4. APPJAXX — CFO / Fractional CFO (Indeed)
+  6. APPJAXX — CFO / Fractional CFO (Indeed)
      Marketing agency serving agencies + B2B, hyper-growth, zero CFO
      infra.
      URL: https://www.indeed.com/cmp/Appjaxx/jobs/l-Remote
 
-  5. DESTIFY — Fractional CFO (fractionaljobs.io) [FLAGGED Apr 7]
+  7. DESTIFY — Fractional CFO (fractionaljobs.io) [FLAGGED Apr 7]
      Destination wedding planning service, Chicago IL. ~$4-15M revenue,
-     ~56-69 employees. 10-20 hrs/week. Works with Revenue team + COO.
-     No existing CFO. Hospitality/travel services — not SaaS, not
-     regulated. Still showing as active. Worth re-evaluating for
-     PIPELINE if you serve non-agency services companies.
+     ~56-69 employees. 10-20 hrs/week. No existing CFO. Hospitality/
+     travel services. Worth re-evaluating for PIPELINE if you serve
+     non-agency services companies.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-destify
 
 From 2026-04-11 scan (FLAGGED — still unresolved):
 
-  6. MYTOLYFE BIOTHERAPEUTICS LTD — Fractional CFO (fractionaljobs.io)
+  8. MYTOLYFE BIOTHERAPEUTICS LTD — Fractional CFO (fractionaljobs.io)
      Small biotech startup. Requires biotech/medical CFO + capital-
      raising track record with HNW, Family Offices, VCTs.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mytolyfe-biotherapeutics-ltd
 
-  7. MASHUP GROUP (Mashup Ireland AB) — Fractional CFO (fractionaljobs.io)
+  9. MASHUP GROUP (Mashup Ireland AB) — Fractional CFO (fractionaljobs.io)
      Publicly listed on Nasdaq Stockholm. Irish SME-focused. Revenue
      ~€6.1M, market cap ~$10.7M. Public company compliance overhead.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mashup-group
 
 From 2026-04-09 scan (FLAGGED — still unresolved):
 
-  8. B2B BIOTECH STARTUP (anon) — Fractional CFO (fractionaljobs.io)
-     $250M raised, 50+ employees. ESOP + fundraise scope.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-b2b-biotech-startup
+  10. B2B BIOTECH STARTUP (anon) — Fractional CFO (fractionaljobs.io)
+      $250M raised, 50+ employees. ESOP + fundraise scope.
+      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-b2b-biotech-startup
 
-  9. CONSUMER HEALTH STARTUP (anon) — Fractional CFO (fractionaljobs.io)
-     1 year old, 15 facilities (NY/NJ), nationwide expansion planned.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-consumer-health-startup
+  11. CONSUMER HEALTH STARTUP (anon) — Fractional CFO (fractionaljobs.io)
+      1 year old, 15 facilities (NY/NJ), nationwide expansion planned.
+      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-consumer-health-startup
 
 From 2026-04-12 scan (FLAGGED — still unresolved):
 
-  10. INTELLIHEALTH — Fractional CFO (fractionaljobs.io)
+  12. INTELLIHEALTH — Fractional CFO (fractionaljobs.io)
       Health tech services for obesity management. VC-backed; Series B
       and Series C fundraising mandate. Posting date unclear.
       URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-intellihealth
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Total seen listings after today: 82 | Next scan: 2026-04-14
+Total seen listings after today: 85 | Next scan: 2026-04-16
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
