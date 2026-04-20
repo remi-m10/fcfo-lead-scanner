@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-04-19",
+  "last_scan": "2026-04-20",
   "total_seen": 71,
   "seen": [
     {
@@ -619,6 +619,41 @@
       "title": "Fractional Chief Financial Officer at Deposyt",
       "portal": "fractionaljobs",
       "first_seen": "2026-04-15"
+    },
+    {
+      "id": "fractionaljobs-2020-onsite",
+      "company": "2020 Onsite",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-20"
+    },
+    {
+      "id": "fractionaljobs-mission-edge",
+      "company": "Mission Edge",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-20"
+    },
+    {
+      "id": "fractionaljobs-akrivia-health",
+      "company": "Akrivia Health",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-20"
+    },
+    {
+      "id": "fractionaljobs-good-trouble",
+      "company": "Good Trouble (GT Spirits)",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-20"
+    },
+    {
+      "id": "fractionaljobs-endorize",
+      "company": "Endorize",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-20"
     }
   ]
 }

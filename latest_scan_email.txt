@@ -1,14 +1,14 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 0 new leads - 2026-04-15
+Subject: fCFO Scanner: 0 new leads - 2026-04-20
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-04-15
-31 queries across 20+ platforms | 85 total seen listings
+fCFO Lead Scanner — 2026-04-20
+31 queries across 20+ platforms | 90 total seen listings
 Note: DuckDuckGo blocked again (0/31 queries returned results);
-leads sourced via WebSearch on fractionaljobs.io + general search.
+5 new listings found via WebSearch on fractionaljobs.io.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUMMARY: 0 PIPELINE | 2 FLAGGED | 1 SKIPPED today
+SUMMARY: 0 PIPELINE | 1 FLAGGED | 4 SKIPPED today
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 PIPELINE — 0 new leads today
@@ -17,41 +17,52 @@ PIPELINE — 0 new leads today
 No pipeline items today.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-FLAGGED — 2 items today
+FLAGGED — 1 item today
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  1. VIRTUAL ATHLETICS LEAGUE — Fractional CFO (fractionaljobs.io)
-     World's premier VR esports league, Salt Lake City UT. Founded
-     2016, ~31 employees. Entertainment/gaming/media. Backed by
-     investors who funded Tesla, Hotmail, and Skype; worked directly
-     with Meta on high-profile VR projects. Has been profitable (op
-     income +300% since 2020). Posted ~April 9, 2026.
-     Flagged: Entertainment/gaming — not standard agency/consulting
-     ICP. One source suggests position may already be filled (unconfirmed).
-     Worth a quick check if you serve media/entertainment founder-led
-     companies.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-virtual-athletics-league
-
-  2. LUCKY LAB COFFEE — Fractional CFO (fractionaljobs.io)
-     Fast-growing coffee & bakery brand, Austin TX. Strong traction
-     near University of Texas; successful suburban drive-thru model.
-     Entering rapid expansion phase (3-4 new locations planned).
-     10-20 hrs/week. Posted April 13, 2026. No existing CFO.
-     Flagged: F&B/retail brand — not professional services/agency.
-     Role appears to be Austin or CA-based (hybrid/location-restricted).
-     Could be a fit if you serve consumer brand companies in growth mode.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-lucky-lab-coffee
+  1. MISSION EDGE — Fractional CFO (fractionaljobs.io)
+     San Diego, CA (Liberty Station). 501c3 nonprofit operating
+     like a mission-driven for-profit. Provides HR, accounting,
+     fiscal sponsorship, and consulting services to nonprofits and
+     small businesses. The CFO role is unusual: the hire would
+     work as a consultant TO their Impact Lab program participants
+     (small businesses with $50k–$250k revenue), not as Mission
+     Edge's own CFO. 10–40 hrs/month, $60–$75/hr. Posted date
+     unclear (appears recent, April 2026).
+     Flagged: Nonprofit org; has existing fractional CFO (Carolynn
+     Duncan per org chart); unusual contractor-within-a-program
+     structure — not a standard direct fCFO client engagement.
+     Could be worth a pass if you want to partner with them or
+     explore their network.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mission-edge
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SKIPPED — 1 listing today
+SKIPPED — 4 listings today
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  1. DEPOSYT (fractionaljobs.io) — U.S.-based merchant payment
-     platform, Tempe AZ, founded 2017. Processes credit/debit, ACH,
-     digital wallets, serves high-risk merchant categories. Seeking
-     CFO with merchant service-specific expertise, once-a-month
-     engagement.
-     Skipped: fintech/payments company (regulated financial services).
+  1. 2020 ONSITE (fractionaljobs.io) — Clinical trials/eye
+     assessment services for pharmaceutical companies and CROs,
+     Everett MA (Boston area). Finance Director departed July 2025.
+     Healthcare services, prefers pharma/biotech/clinical research
+     experience.
+     Skipped: posting is ~9 months old (>3-month cutoff).
+
+  2. AKRIVIA HEALTH (fractionaljobs.io) — Real-world data analytics
+     for mental health and dementia research; spin-out from University
+     of Oxford. 55 employees, $37.6M raised. Oxford/London hybrid,
+     3 days/week.
+     Skipped: health tech/medical data, VC-backed, regulated domain.
+
+  3. GOOD TROUBLE / GT SPIRITS (fractionaljobs.io) — Beverage
+     alcohol brand. 8–20 hrs/week. CPG/consumer goods.
+     Skipped: consumer goods, not professional services ICP.
+
+  4. ENDORIZE (fractionaljobs.io) — Telemedicine/healthtech startup,
+     India-first & US-first growth model. Seeking CFO for fundraising
+     strategy and investor-ready financial models (3–5 year
+     projections, burn rate, runway).
+     Skipped: health tech startup, regulated domain, fundraise-only
+     scope.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CARRY-FORWARD PIPELINE REMINDER (active leads from prior scans)
@@ -135,5 +146,5 @@ From 2026-04-12 scan (FLAGGED — still unresolved):
       URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-intellihealth
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Total seen listings after today: 85 | Next scan: 2026-04-16
+Total seen listings after today: 90 | Next scan: 2026-04-21
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
