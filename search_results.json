@@ -1,46 +1,5 @@
 {
-  "date": "2026-04-20",
-  "new_count": 5,
-  "results": [
-    {
-      "id": "fractionaljobs-2020-onsite",
-      "title": "Fractional Chief Financial Officer at 2020 Onsite",
-      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-2020-onsite",
-      "portal": "fractionaljobs.io",
-      "first_seen": "2026-04-20",
-      "classification": "SKIPPED"
-    },
-    {
-      "id": "fractionaljobs-mission-edge",
-      "title": "Fractional Chief Financial Officer at Mission Edge",
-      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mission-edge",
-      "portal": "fractionaljobs.io",
-      "first_seen": "2026-04-20",
-      "classification": "FLAGGED"
-    },
-    {
-      "id": "fractionaljobs-akrivia-health",
-      "title": "Fractional Chief Financial Officer at Akrivia Health",
-      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-akrivia-health",
-      "portal": "fractionaljobs.io",
-      "first_seen": "2026-04-20",
-      "classification": "SKIPPED"
-    },
-    {
-      "id": "fractionaljobs-good-trouble",
-      "title": "Fractional Chief Financial Officer at Good Trouble",
-      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-good-trouble",
-      "portal": "fractionaljobs.io",
-      "first_seen": "2026-04-20",
-      "classification": "SKIPPED"
-    },
-    {
-      "id": "fractionaljobs-endorize",
-      "title": "Fractional Chief Financial Officer at Endorize",
-      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-endorize",
-      "portal": "fractionaljobs.io",
-      "first_seen": "2026-04-20",
-      "classification": "SKIPPED"
-    }
-  ]
+  "date": "2026-04-21",
+  "new_count": 0,
+  "results": []
 }
