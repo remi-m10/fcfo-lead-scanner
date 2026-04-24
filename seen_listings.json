@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-04-23",
+  "last_scan": "2026-04-24",
   "total_seen": 71,
   "seen": [
     {
@@ -654,6 +654,27 @@
       "title": "Fractional Chief Financial Officer",
       "portal": "fractionaljobs.io",
       "first_seen": "2026-04-20"
+    },
+    {
+      "id": "fractionaljobs-a-virtual-law-firm",
+      "company": "A Virtual Law Firm",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-24"
+    },
+    {
+      "id": "fractionaljobs-maze",
+      "company": "Maze",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-24"
+    },
+    {
+      "id": "fractionaljobs-sentrysix-international",
+      "company": "Sentrysix International",
+      "title": "Fractional Chief Financial Officer",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-04-24"
     }
   ]
 }
