@@ -1,64 +1,16 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 2 new leads - 2026-04-24
+Subject: fCFO Scanner: 0 new leads - 2026-04-28
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-04-24
+fCFO Lead Scanner — 2026-04-28
 31 queries across 20+ platforms | 93 total seen listings
-Note: DuckDuckGo blocked again (0/31 queries returned results);
-3 new listings identified via WebSearch (fractionaljobs.io).
+Note: DuckDuckGo blocked again (0/31 queries returned results).
+WebSearch on fractionaljobs.io returned 2 listings — both already
+seen (CPG/F&B Services Firm first seen 2026-04-12, Virtual
+Athletics League first seen 2026-04-15). No new leads today.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUMMARY: 0 PIPELINE | 2 FLAGGED | 1 SKIPPED today
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-PIPELINE — 0 new leads today
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-No pipeline items today.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-FLAGGED — 2 items today
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  1. A VIRTUAL LAW FIRM — Fractional CFO (fractionaljobs.io)
-     Remote. 3–6 hrs/week. Posted April 21, 2026.
-     Anonymous listing — company identity not disclosed on job
-     board. Virtual law firm (professional services/legal).
-     Very low hours (3-6/wk) suggest an early-stage or lean
-     engagement. No existing CFO mentioned. Date is clear and
-     within 3 months.
-     Flagged: Anonymous company — size and founder status
-     unconfirmed. Could be PIPELINE if the firm is founder-led
-     and under $10M revenue; worth a closer look if you have
-     legal services in your ICP.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-virtual-law-firm
-
-  2. SENTRYSIX INTERNATIONAL — Fractional CFO (fractionaljobs.io)
-     Austin, TX (remote). 2–7 hrs/week. Posted April 17, 2026.
-     Veteran-owned private security & risk management firm,
-     founded 2016 by CEO Zach Rice (USAF veteran). Operates
-     across 11 states. Services: executive protection, armed
-     security, video monitoring, emergency management consulting,
-     and government contracting. Revenue ~$1–7M; 51–200
-     employees (~80% veterans/law enforcement). No CFO on
-     leadership page. Role: trusted advisor to CEO/exec team,
-     strengthen financial infrastructure, support contract growth.
-     Flagged: Founder-led services firm with no existing CFO —
-     positive signals. But niche domain (security/defense, govt
-     contracting) is outside typical marketing/consulting ICP.
-     Very low hours (2–7/wk) may limit retainer value. Flag for
-     your call on whether defense services is a sector you want.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-sentrysix-international
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SKIPPED — 1 listing today
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  1. MAZE (fractionaljobs.io / remotive.com) — SaaS user
-     research platform. VC-backed, ~$10–100M ARR territory,
-     Series B fundraising mandate. Requires SaaS/VC CFO
-     experience. Posted April 20, 2026.
-     Skipped: SaaS, VC-backed, fundraising-scope only.
+SUMMARY: 0 PIPELINE | 0 FLAGGED | 0 SKIPPED today
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CARRY-FORWARD PIPELINE REMINDER (active leads from prior scans)
@@ -68,9 +20,9 @@ From 2026-04-13 scan:
 
   1. PURE STRATEGIES — Fractional CFO (fractionaljobs.io)
      Sustainability consulting firm, founded 1998, Gloucester MA.
-     B Corp certified. $5M revenue, ~25 employees. Major brand clients
+     B Corp certified. M revenue, ~25 employees. Major brand clients
      include Walmart, Colgate-Palmolive, Organic Valley, Seventh
-     Generation, Ben & Jerry's. ~1.5 days/week. No existing CFO.
+     Generation, Ben\'s & Jerry\'s. ~1.5 days/week. No existing CFO.
      Classic consulting firm ICP.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-pure-strategies
 
@@ -93,64 +45,30 @@ From 2026-04-11 scan:
 From 2026-04-07 scan:
 
   4. PERFEOS — Fractional CFO (fractionaljobs.io)
-     Marketing/advertising agency, ~$2M revenue, 20 hrs/week.
+     Marketing/advertising agency, ~M revenue, 20 hrs/week.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-perfeos
 
-  5. DATA CURATION AI STARTUP — Fractional CFO (fractionaljobs.io)
-     $20M revenue, Series B (~$50M+) imminent. CFO-for-fundraise play.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-data-curation-ai-startup
-
-  6. APPJAXX — CFO / Fractional CFO (Indeed)
-     Marketing agency serving agencies + B2B, hyper-growth, zero CFO
-     infra.
+  5. APPJAXX — CFO / Fractional CFO (Indeed)
+     Marketing agency serving agencies + B2B, hyper-growth, zero CFO infra.
      URL: https://www.indeed.com/cmp/Appjaxx/jobs/l-Remote
 
-  7. DESTIFY — Fractional CFO (fractionaljobs.io) [FLAGGED Apr 7]
-     Destination wedding planning service, Chicago IL. ~$4-15M revenue,
-     ~56-69 employees. 10-20 hrs/week. No existing CFO. Hospitality/
-     travel services. Worth re-evaluating for PIPELINE if you serve
-     non-agency services companies.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-destify
+From 2026-04-24 scan (FLAGGED — still unresolved):
 
-From 2026-04-11 scan (FLAGGED — still unresolved):
+  6. A VIRTUAL LAW FIRM — Fractional CFO (fractionaljobs.io)
+     Remote. 3-6 hrs/week. Posted April 21, 2026.
+     Anonymous listing. Virtual law firm (professional services/legal).
+     Flagged: company identity not disclosed; size/founder status
+     unconfirmed. Could be PIPELINE if founder-led and under 0M.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-virtual-law-firm
 
-  8. MYTOLYFE BIOTHERAPEUTICS LTD — Fractional CFO (fractionaljobs.io)
-     Small biotech startup. Requires biotech/medical CFO + capital-
-     raising track record with HNW, Family Offices, VCTs.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mytolyfe-biotherapeutics-ltd
-
-  9. MASHUP GROUP (Mashup Ireland AB) — Fractional CFO (fractionaljobs.io)
-     Publicly listed on Nasdaq Stockholm. Irish SME-focused. Revenue
-     ~€6.1M, market cap ~$10.7M. Public company compliance overhead.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mashup-group
-
-From 2026-04-09 scan (FLAGGED — still unresolved):
-
-  10. B2B BIOTECH STARTUP (anon) — Fractional CFO (fractionaljobs.io)
-      $250M raised, 50+ employees. ESOP + fundraise scope.
-      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-b2b-biotech-startup
-
-  11. CONSUMER HEALTH STARTUP (anon) — Fractional CFO (fractionaljobs.io)
-      1 year old, 15 facilities (NY/NJ), nationwide expansion planned.
-      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-consumer-health-startup
-
-From 2026-04-12 scan (FLAGGED — still unresolved):
-
-  12. INTELLIHEALTH — Fractional CFO (fractionaljobs.io)
-      Health tech services for obesity management. VC-backed; Series B
-      and Series C fundraising mandate. Posting date unclear.
-      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-intellihealth
-
-From 2026-04-20 scan (FLAGGED — still unresolved):
-
-  13. MISSION EDGE — Fractional CFO (fractionaljobs.io)
-      San Diego, CA (Liberty Station). 501c3 nonprofit. Provides HR,
-      accounting, fiscal sponsorship, and consulting services to
-      nonprofits and small businesses. The CFO hire would work as a
-      consultant TO their Impact Lab participants, not as Mission Edge's
-      own CFO. 10–40 hrs/month, $60–$75/hr. Posted April 2026.
-      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mission-edge
+  7. SENTRYSIX INTERNATIONAL — Fractional CFO (fractionaljobs.io)
+     Austin, TX (remote). 2-7 hrs/week. Posted April 17, 2026.
+     Veteran-owned private security & risk management firm. CEO: Zach
+     Rice (USAF veteran). ~80 employees, ~-7M revenue. No existing CFO.
+     Flagged: niche domain (security/defense/govt contracting) outside
+     typical agency/consulting ICP. Low hours may limit retainer.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-sentrysix-international
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Total seen listings after today: 93 | Next scan: 2026-04-25
+Total seen listings: 93 | Next scan: 2026-04-29
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
