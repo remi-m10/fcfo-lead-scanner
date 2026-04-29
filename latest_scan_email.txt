@@ -1,13 +1,14 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 0 new leads - 2026-04-28
+Subject: fCFO Scanner: 0 new leads - 2026-04-29
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-04-28
+fCFO Lead Scanner — 2026-04-29
 31 queries across 20+ platforms | 93 total seen listings
 Note: DuckDuckGo blocked again (0/31 queries returned results).
-WebSearch on fractionaljobs.io returned 2 listings — both already
-seen (CPG/F&B Services Firm first seen 2026-04-12, Virtual
-Athletics League first seen 2026-04-15). No new leads today.
+WebSearch on fractionaljobs.io confirmed no new CFO postings today —
+all visible listings (Data Curation AI Startup, CPG/F&B Services Firm,
+B2B Biotech Startup, Boutique CFO Firm FP&A Lead, Virtual Athletics
+League) are already in the seen list. No new leads today.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 SUMMARY: 0 PIPELINE | 0 FLAGGED | 0 SKIPPED today
@@ -20,9 +21,9 @@ From 2026-04-13 scan:
 
   1. PURE STRATEGIES — Fractional CFO (fractionaljobs.io)
      Sustainability consulting firm, founded 1998, Gloucester MA.
-     B Corp certified. M revenue, ~25 employees. Major brand clients
+     B Corp certified. ~$4M revenue, ~25 employees. Major brand clients
      include Walmart, Colgate-Palmolive, Organic Valley, Seventh
-     Generation, Ben\'s & Jerry\'s. ~1.5 days/week. No existing CFO.
+     Generation, Ben's & Jerry's. ~1.5 days/week. No existing CFO.
      Classic consulting firm ICP.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-pure-strategies
 
@@ -45,7 +46,7 @@ From 2026-04-11 scan:
 From 2026-04-07 scan:
 
   4. PERFEOS — Fractional CFO (fractionaljobs.io)
-     Marketing/advertising agency, ~M revenue, 20 hrs/week.
+     Marketing/advertising agency, ~$1M revenue, 20 hrs/week.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-perfeos
 
   5. APPJAXX — CFO / Fractional CFO (Indeed)
@@ -58,17 +59,17 @@ From 2026-04-24 scan (FLAGGED — still unresolved):
      Remote. 3-6 hrs/week. Posted April 21, 2026.
      Anonymous listing. Virtual law firm (professional services/legal).
      Flagged: company identity not disclosed; size/founder status
-     unconfirmed. Could be PIPELINE if founder-led and under 0M.
+     unconfirmed. Could be PIPELINE if founder-led and under $10M.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-virtual-law-firm
 
   7. SENTRYSIX INTERNATIONAL — Fractional CFO (fractionaljobs.io)
      Austin, TX (remote). 2-7 hrs/week. Posted April 17, 2026.
      Veteran-owned private security & risk management firm. CEO: Zach
-     Rice (USAF veteran). ~80 employees, ~-7M revenue. No existing CFO.
+     Rice (USAF veteran). ~80 employees, ~$6-7M revenue. No existing CFO.
      Flagged: niche domain (security/defense/govt contracting) outside
      typical agency/consulting ICP. Low hours may limit retainer.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-sentrysix-international
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Total seen listings: 93 | Next scan: 2026-04-29
+Total seen listings: 93 | Next scan: 2026-04-30
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
