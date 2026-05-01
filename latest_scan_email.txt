@@ -1,13 +1,12 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 0 new leads - 2026-04-30
+Subject: fCFO Scanner: 0 new leads - 2026-05-01
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-04-30
+fCFO Lead Scanner — 2026-05-01
 31 queries across 20+ platforms | 93 total seen listings
 Note: DuckDuckGo blocked again (0/31 queries returned results).
 External fetch also blocked in this environment — fractionaljobs.io
-could not be verified directly today. Based on yesterday's confirmed
-state, no new CFO postings were expected. No new leads today.
+and other sources could not be verified directly today.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 SUMMARY: 0 PIPELINE | 0 FLAGGED | 0 SKIPPED today
@@ -74,5 +73,5 @@ From 2026-04-24 scan:
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-sentrysix-international
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Total seen listings: 93 | Next scan: 2026-05-01
+Total seen listings: 93 | Next scan: 2026-05-02
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
