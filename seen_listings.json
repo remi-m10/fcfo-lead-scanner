@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-05-07",
+  "last_scan": "2026-05-08",
   "total_seen": 71,
   "seen": [
     {
@@ -675,6 +675,38 @@
       "title": "Fractional Chief Financial Officer",
       "portal": "fractionaljobs.io",
       "first_seen": "2026-04-24"
+    },
+    {
+      "id": "fractionaljobs-myfridg",
+      "title": "Fractional Chief Financial Officer at MyFridg",
+      "company": "MyFridg",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-05-08",
+      "status": "SKIPPED"
+    },
+    {
+      "id": "fractionaljobs-equals5",
+      "title": "Fractional Chief Financial Officer at Equals 5",
+      "company": "Equals 5",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-05-08",
+      "status": "SKIPPED"
+    },
+    {
+      "id": "fractionaljobs-optioncircle",
+      "title": "Fractional Chief Financial Officer at Option Circle",
+      "company": "Option Circle",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-05-08",
+      "status": "SKIPPED"
+    },
+    {
+      "id": "fractionaljobs-missionedge",
+      "title": "Fractional Chief Financial Officer at Mission Edge",
+      "company": "Mission Edge",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-05-08",
+      "status": "SKIPPED"
     }
   ]
 }
