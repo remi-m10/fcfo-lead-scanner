@@ -1,51 +1,69 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 0 new leads - 2026-05-08
+Subject: fCFO Scanner: 1 new lead - 2026-05-09
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-05-08
-31 queries across 20+ platforms | 97 total seen listings
+fCFO Lead Scanner — 2026-05-09
+31 queries across 20+ platforms | 102 total seen listings
 Note: DuckDuckGo blocked again (0/31 queries returned results). New
 candidates sourced via direct WebSearch of fractionaljobs.io listings.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUMMARY: 0 PIPELINE | 0 FLAGGED | 5 SKIPPED today
+SUMMARY: 0 PIPELINE | 1 FLAGGED | 4 SKIPPED today
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SKIPPED TODAY (5)
+FLAGGED TODAY (1)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  - MyFridg™ (fractionaljobs.io) — Pre-launch consumer hardware
-    startup (personal refrigeration system / "Lifestyle Fridge").
-    Pre-revenue, Kickstarter stage. Posting dated Oct 2025 (>3 months).
-    SKIPPED: consumer hardware startup, posting too old.
-    URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-myfridg-tm
+  1. THE PAD CLIMBING — Fractional CFO (fractionaljobs.io)
+     Climbing gym chain in rapid expansion phase. Brick-and-mortar,
+     membership-based business model. Multiple locations (community-
+     focused, diversity & inclusivity ethos). 1–2 days/month, potentially
+     more; $2,000–$7,000/month. Fully remote. No existing CFO mentioned.
+     Flagged: Founder-led fitness/leisure business in growth mode with no
+     CFO infrastructure — technically meets founder-led + no CFO criteria,
+     but niche brick-and-mortar vertical (climbing gyms) is outside typical
+     agency/consulting ICP. Strong fit if Remi has hospitality/membership
+     business experience.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-the-pad-climbing
 
-  - Equals 5 (fractionaljobs.io) — AdTech/digital marketing platform
-    serving the US pharma industry (programmatic, social media, endemic
-    channels for healthcare professionals). Seeking CFO with AdTech/
-    SaaS/digital marketing background. New York, NY.
-    SKIPPED: SaaS/AdTech startup, pharma-adjacent.
-    URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-equals-5
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SKIPPED TODAY (4)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  - Option Circle (fractionaljobs.io, syndicated) — AI-powered options
-    trading automation platform. San Jose, CA. Raised $3M (March 2026).
-    AI-driven algorithmic trading bots and marketplace.
-    SKIPPED: fintech / regulated financial services.
-    URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-option-circle
+  - A Consumer Health Startup (fractionaljobs.io) — Healthcare service
+    bridging gap between medical facility discharge and follow-up care.
+    Launched ~1 year ago, 15 facilities in NY and NJ, plans for national
+    expansion. Insurance reimbursement-based model. Treated thousands of
+    patients; 70% reduction in ER re-admissions. No strategic finance
+    leader yet. Seeking CFO with deep understanding of public/private
+    insurer reimbursement models.
+    SKIPPED: Regulated healthcare, insurance reimbursement model.
+    URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-consumer-health-startup
 
-  - Mission Edge (fractionaljobs.io) — Nonprofit social enterprise
-    (Liberty Station, San Diego). Provides fractional CFO services to
-    underserved small businesses via their Impact Lab program. Seeking
-    sub-contractor CFO consultant, $60–75/hr, 10–40 hrs/month.
-    SKIPPED: competitor-adjacent intermediary / nonprofit, very low pay.
-    URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mission-edge
+  - A Digital Health Startup (fractionaljobs.io) — Healthcare platform
+    improving quality of care as patients transition home post-hospital.
+    Spinout from a household consumer electronics brand. Closing Series A.
+    Requires CFO with significant healthcare experience. Reimbursement-
+    focused business model (helping health systems unlock more revenue
+    via reimbursements).
+    SKIPPED: Regulated healthcare/healthtech, VC-backed startup.
+    URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-digital-health-startup
 
-  - A B2B Biotech Startup (fractionaljobs.io) — Pest control via
-    biological/sustainable solutions for commercial agriculture. ~50
-    employees, ~$250M raised. Needs CFO for equity mgmt, ESOP, and
-    upcoming fundraise.
-    SKIPPED: regulated biotech/agtech, heavily VC-backed startup.
-    URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-b2b-biotech-startup
+  - A Data Curation AI Startup (fractionaljobs.io) — Helps AI labs and
+    organizations access and curate large-scale datasets for training
+    foundational and specialized AI models. Top AI companies as customers.
+    Preparing for Series B.
+    SKIPPED: AI/SaaS startup, VC-backed tech company.
+    URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-data-curation-ai-startup
+
+  - A CPG, F&B, and Retail-focused Services Firm (fractionaljobs.io) —
+    Boutique fractional CFO and accounting firm specializing in food &
+    beverage, CPG, and retail companies. Seeking a fractional CFO to join
+    their team and take on 2–3 client engagements. High-touch financial
+    leadership / accounting services provider.
+    SKIPPED: Competitor fractional CFO firm / professional services
+    intermediary.
+    URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-for-a-cpg-f-and-b-and-retail-focused-services-firm
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CARRY-FORWARD PIPELINE REMINDER (active leads from prior scans)
@@ -85,7 +103,7 @@ From 2026-04-11 scan:
      Digital transformation & consulting firm (Toronto, Canada,
      founded 2016). Services: digital marketing, data analytics,
      web dev, business consulting, HR, government grants advisory.
-     No existing CFO. 5-10 hrs/week, remote. Strong ICP match.
+     No existing CFO. 5–10 hrs/week, remote. Strong ICP match.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-foreign-venture-group
 
 From 2026-04-07 scan:
@@ -117,20 +135,20 @@ From 2026-05-07 scan:
 From 2026-04-24 scan:
 
   8. A VIRTUAL LAW FIRM — Fractional CFO (fractionaljobs.io)
-     Remote. 3-6 hrs/week. Posted April 21, 2026.
+     Remote. 3–6 hrs/week. Posted April 21, 2026.
      Anonymous listing. Virtual law firm (professional services/legal).
      Flagged: company identity not disclosed; size/founder status
      unconfirmed. Could be PIPELINE if founder-led and under $10M.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-virtual-law-firm
 
   9. SENTRYSIX INTERNATIONAL — Fractional CFO (fractionaljobs.io)
-     Austin, TX (remote). 2-7 hrs/week. Posted April 17, 2026.
+     Austin, TX (remote). 2–7 hrs/week. Posted April 17, 2026.
      Veteran-owned private security & risk management firm. CEO: Zach
-     Rice (USAF veteran). ~80 employees, ~$6-7M revenue. No existing CFO.
+     Rice (USAF veteran). ~80 employees, ~$6–7M revenue. No existing CFO.
      Flagged: niche domain (security/defense/govt contracting) outside
      typical agency/consulting ICP. Low hours may limit retainer.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-sentrysix-international
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Total seen listings: 97 | Next scan: 2026-05-09
+Total seen listings: 102 | Next scan: 2026-05-10
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

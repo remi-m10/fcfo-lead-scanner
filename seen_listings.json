@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-05-08",
+  "last_scan": "2026-05-09",
   "total_seen": 71,
   "seen": [
     {
@@ -707,6 +707,41 @@
       "portal": "fractionaljobs.io",
       "first_seen": "2026-05-08",
       "status": "SKIPPED"
+    },
+    {
+      "id": "url-consumer-health-startup-fractionaljobs-2026",
+      "company": "A Consumer Health Startup",
+      "title": "Fractional Chief Financial Officer at A Consumer Health Startup",
+      "portal": "fractionaljobs",
+      "first_seen": "2026-05-09"
+    },
+    {
+      "id": "url-digital-health-startup-fractionaljobs-2026",
+      "company": "A Digital Health Startup",
+      "title": "Fractional Chief Financial Officer at A Digital Health Startup",
+      "portal": "fractionaljobs",
+      "first_seen": "2026-05-09"
+    },
+    {
+      "id": "url-the-pad-climbing-fractionaljobs-2026",
+      "company": "The Pad Climbing",
+      "title": "Fractional Chief Financial Officer at The Pad Climbing",
+      "portal": "fractionaljobs",
+      "first_seen": "2026-05-09"
+    },
+    {
+      "id": "url-cpg-fb-retail-services-firm-fractionaljobs-2026",
+      "company": "A CPG, F&B, and Retail-focused Services Firm",
+      "title": "Fractional Chief Financial Officer at A CPG, F&B, and Retail-focused Services Firm",
+      "portal": "fractionaljobs",
+      "first_seen": "2026-05-09"
+    },
+    {
+      "id": "url-data-curation-ai-startup-fractionaljobs-2026",
+      "company": "A Data Curation AI Startup",
+      "title": "Fractional Chief Financial Officer at A Data Curation AI Startup",
+      "portal": "fractionaljobs",
+      "first_seen": "2026-05-09"
     }
   ]
 }
