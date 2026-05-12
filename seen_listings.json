@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-05-11",
+  "last_scan": "2026-05-12",
   "total_seen": 71,
   "seen": [
     {
@@ -742,6 +742,41 @@
       "title": "Fractional Chief Financial Officer at A Data Curation AI Startup",
       "portal": "fractionaljobs",
       "first_seen": "2026-05-09"
+    },
+    {
+      "id": "jobtarget-pixisdrones-finance-ops-2026",
+      "company": "Pixis Drones (via RedPeg Marketing)",
+      "title": "Fractional Director of Finance & Operations",
+      "portal": "RedPeg/JobTarget",
+      "first_seen": "2026-05-12"
+    },
+    {
+      "id": "indeed-armazzotta-fractional-cfo-2026",
+      "company": "A.R. Mazzotta (staffing, unnamed client)",
+      "title": "Fractional CFO / Senior Financial Advisor",
+      "portal": "Indeed",
+      "first_seen": "2026-05-12"
+    },
+    {
+      "id": "indeed-fantautistic-fractional-cfo-2026",
+      "company": "FantAutistic Skills Training (FAST)",
+      "title": "Fractional CFO / Cash Flow Advisor",
+      "portal": "Indeed",
+      "first_seen": "2026-05-12"
+    },
+    {
+      "id": "paylocity-communitylink-cfo-2026",
+      "company": "Community Link Consulting, Inc.",
+      "title": "Chief Financial Officer (CFO)/Lead Consultant",
+      "portal": "Paylocity",
+      "first_seen": "2026-05-12"
+    },
+    {
+      "id": "wellfound-fractional-cfo-remote-financial-3318913",
+      "company": "Fractional CFO, The Remote Financial (competitor)",
+      "title": "Fractional CFO (Startup Fundraising & Financial Modeling)",
+      "portal": "Wellfound",
+      "first_seen": "2026-05-12"
     }
   ]
 }

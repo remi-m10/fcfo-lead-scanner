@@ -1,11 +1,11 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 1 new lead - 2026-05-09
+Subject: fCFO Scanner: 1 new lead - 2026-05-12
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-05-09
-31 queries across 20+ platforms | 102 total seen listings
-Note: DuckDuckGo blocked again (0/31 queries returned results). New
-candidates sourced via direct WebSearch of fractionaljobs.io listings.
+fCFO Lead Scanner — 2026-05-12
+31 queries across 20+ platforms | 107 total seen listings
+Note: DuckDuckGo blocked (0/31 queries returned results). New
+candidates sourced via direct WebSearch across job boards.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 SUMMARY: 0 PIPELINE | 1 FLAGGED | 4 SKIPPED today
@@ -14,56 +14,59 @@ SUMMARY: 0 PIPELINE | 1 FLAGGED | 4 SKIPPED today
 FLAGGED TODAY (1)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  1. THE PAD CLIMBING — Fractional CFO (fractionaljobs.io)
-     Climbing gym chain in rapid expansion phase. Brick-and-mortar,
-     membership-based business model. Multiple locations (community-
-     focused, diversity & inclusivity ethos). 1–2 days/month, potentially
-     more; $2,000–$7,000/month. Fully remote. No existing CFO mentioned.
-     Flagged: Founder-led fitness/leisure business in growth mode with no
-     CFO infrastructure — technically meets founder-led + no CFO criteria,
-     but niche brick-and-mortar vertical (climbing gyms) is outside typical
-     agency/consulting ICP. Strong fit if Remi has hospitality/membership
-     business experience.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-the-pad-climbing
+  1. PIXIS DRONES (via RedPeg Marketing) — Fractional Director of Finance & Operations
+     Drone light show company, Alexandria VA. ~13 employees. President:
+     Bernard Ozarowski. High-profile client roster: NFL, Netflix, Warner
+     Bros., McDonald's, NASCAR. Hiring via RedPeg Marketing's job board
+     (RedPeg is a related experiential marketing agency, ~177 employees,
+     ~$30M rev, CEO Brad Nierenberg). Role seeks "fractional finance and
+     accounting leader who can operate as Pixis' internal finance
+     department, working directly with the CEO and leadership team." No
+     existing CFO. JD also references investor decks and fundraising
+     models, suggesting possible capital raise underway.
+     Flagged: Very small company (~13 employees), niche vertical (drone
+     events). Unclear if fully founder-led or connected to RedPeg as
+     parent. Fundraising context adds complexity. Strong fit if Remi has
+     entertainment/events/experiential agency relationships.
+     URL: https://www.jobtarget.com/jobs/jt-z10125t8ts/fractional-director-of-finance-and-operations-alexandria-virginia
+     Also: https://redpeg.applytojob.com/
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SKIPPED TODAY (4)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  - A Consumer Health Startup (fractionaljobs.io) — Healthcare service
-    bridging gap between medical facility discharge and follow-up care.
-    Launched ~1 year ago, 15 facilities in NY and NJ, plans for national
-    expansion. Insurance reimbursement-based model. Treated thousands of
-    patients; 70% reduction in ER re-admissions. No strategic finance
-    leader yet. Seeking CFO with deep understanding of public/private
-    insurer reimbursement models.
-    SKIPPED: Regulated healthcare, insurance reimbursement model.
-    URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-consumer-health-startup
+  - A.R. MAZZOTTA (Indeed) — Fractional CFO / Senior Financial Advisor,
+    Middletown CT, 1 day/week, up to $60/hr, contract-to-hire.
+    SKIPPED: A.R. Mazzotta is a staffing/temp agency placing for an
+    unnamed client. Identity of actual hiring company not disclosed.
 
-  - A Digital Health Startup (fractionaljobs.io) — Healthcare platform
-    improving quality of care as patients transition home post-hospital.
-    Spinout from a household consumer electronics brand. Closing Series A.
-    Requires CFO with significant healthcare experience. Reimbursement-
-    focused business model (helping health systems unlock more revenue
-    via reimbursements).
-    SKIPPED: Regulated healthcare/healthtech, VC-backed startup.
-    URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-digital-health-startup
+  - FANTAUTISTIC SKILLS TRAINING / FAST (Indeed) — Fractional CFO /
+    Cash Flow Advisor, 5–15 hrs/month, part-time contract. ABA therapy
+    provider, insurance reimbursement-based model, rapid client growth.
+    SKIPPED: Regulated healthcare services, insurance reimbursement model.
 
-  - A Data Curation AI Startup (fractionaljobs.io) — Helps AI labs and
-    organizations access and curate large-scale datasets for training
-    foundational and specialized AI models. Top AI companies as customers.
-    Preparing for Series B.
-    SKIPPED: AI/SaaS startup, VC-backed tech company.
-    URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-data-curation-ai-startup
+  - COMMUNITY LINK CONSULTING, INC. (Paylocity) — CFO / Lead Consultant.
+    FQHC consulting firm serving Federally Qualified Health Centers and
+    nonprofits across 40 states. Full-time salaried $120K–$160K. Role
+    involves providing fractional CFO services to healthcare clients.
+    SKIPPED: Competitor fractional CFO firm in regulated healthcare sector;
+    full-time salaried role.
 
-  - A CPG, F&B, and Retail-focused Services Firm (fractionaljobs.io) —
-    Boutique fractional CFO and accounting firm specializing in food &
-    beverage, CPG, and retail companies. Seeking a fractional CFO to join
-    their team and take on 2–3 client engagements. High-touch financial
-    leadership / accounting services provider.
-    SKIPPED: Competitor fractional CFO firm / professional services
-    intermediary.
-    URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-for-a-cpg-f-and-b-and-retail-focused-services-firm
+  - FRACTIONAL CFO, THE REMOTE FINANCIAL (Wellfound job #3318913) —
+    Fractional CFO (Startup Fundraising & Financial Modeling). Remote
+    financial services firm recruiting fractional CFOs for their client
+    roster.
+    SKIPPED: Competitor fractional CFO / outsourced finance firm.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚠ STALE LEAD ALERT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  CONTOURAL (carry-forward PIPELINE from 2026-04-07 scan) was originally
+  posted September 2, 2025 on fractionaljobs.io — now 8+ months old,
+  well past the 3-month threshold. Recommend verifying if the role is
+  still active before outreach.
+  URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-contoural
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CARRY-FORWARD PIPELINE REMINDER (active leads from prior scans)
@@ -71,7 +74,7 @@ CARRY-FORWARD PIPELINE REMINDER (active leads from prior scans)
 
 From 2026-05-07 scan:
 
-  1. CONTOURAL — Fractional CFO (fractionaljobs.io)
+  1. CONTOURAL — Fractional CFO (fractionaljobs.io) ⚠ SEE STALE ALERT ABOVE
      Information Governance, Privacy & AI Governance consulting firm.
      Los Altos, CA (fully remote). 11–50 employees. Clients include
      30%+ of the Fortune 500 plus mid-market. CEO: Mark Diamond
@@ -120,35 +123,39 @@ From 2026-04-07 scan:
 CARRY-FORWARD FLAGGED (unresolved from prior scans)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+From 2026-05-09 scan:
+
+  7. THE PAD CLIMBING — Fractional CFO (fractionaljobs.io)
+     Climbing gym chain in rapid expansion phase. Brick-and-mortar,
+     membership-based business model. Multiple locations. 1–2 days/month,
+     potentially more; $2,000–$7,000/month. Fully remote.
+     Flagged: Founder-led fitness/leisure business, niche brick-and-mortar
+     vertical. Strong fit if Remi has hospitality/membership experience.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-the-pad-climbing
+
 From 2026-05-07 scan:
 
-  7. DESTIFY — Fractional CFO (fractionaljobs.io)
+  8. DESTIFY — Fractional CFO (fractionaljobs.io)
      Destination wedding planning platform. Chicago, IL. ~69 employees,
-     ~$15M revenue. Founder-led: Alex Zatvor (Founder & CEO, active in
-     EO Chicago). No existing CFO. 10–20 hrs/week. Fortune Best Small
-     & Medium Workplaces certified.
-     Flagged: travel/hospitality vertical outside typical agency/
-     consulting ICP, but founder-led with zero CFO infrastructure.
-     Could be strong fit if Remi has hospitality/travel experience.
+     ~$15M revenue. Founder-led: Alex Zatvor (Founder & CEO). No existing
+     CFO. 10–20 hrs/week.
+     Flagged: Travel/hospitality vertical, but founder-led with zero CFO infra.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-destify
 
 From 2026-04-24 scan:
 
-  8. A VIRTUAL LAW FIRM — Fractional CFO (fractionaljobs.io)
-     Remote. 3–6 hrs/week. Posted April 21, 2026.
-     Anonymous listing. Virtual law firm (professional services/legal).
-     Flagged: company identity not disclosed; size/founder status
-     unconfirmed. Could be PIPELINE if founder-led and under $10M.
+  9. A VIRTUAL LAW FIRM — Fractional CFO (fractionaljobs.io)
+     Remote. 3–6 hrs/week. Posted April 21, 2026. Anonymous listing.
+     Flagged: Identity unconfirmed.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-virtual-law-firm
 
-  9. SENTRYSIX INTERNATIONAL — Fractional CFO (fractionaljobs.io)
-     Austin, TX (remote). 2–7 hrs/week. Posted April 17, 2026.
-     Veteran-owned private security & risk management firm. CEO: Zach
-     Rice (USAF veteran). ~80 employees, ~$6–7M revenue. No existing CFO.
-     Flagged: niche domain (security/defense/govt contracting) outside
-     typical agency/consulting ICP. Low hours may limit retainer.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-sentrysix-international
+  10. SENTRYSIX INTERNATIONAL — Fractional CFO (fractionaljobs.io)
+      Austin, TX (remote). 2–7 hrs/week. Veteran-owned private security &
+      risk management firm. CEO: Zach Rice (USAF veteran). ~80 employees,
+      ~$6–7M revenue. No existing CFO.
+      Flagged: Niche domain (security/defense), low hours.
+      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-sentrysix-international
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Total seen listings: 102 | Next scan: 2026-05-10
+Total seen listings: 107 | Next scan: 2026-05-13
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
