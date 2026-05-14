@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-05-13",
+  "last_scan": "2026-05-14",
   "total_seen": 71,
   "seen": [
     {
@@ -777,6 +777,34 @@
       "title": "Fractional CFO (Startup Fundraising & Financial Modeling)",
       "portal": "Wellfound",
       "first_seen": "2026-05-12"
+    },
+    {
+      "id": "fractionaljobs-cotes-ai",
+      "company": "Cotes AI",
+      "title": "Fractional Chief Financial Officer at Cotes AI",
+      "portal": "fractionaljobs",
+      "first_seen": "2026-05-14"
+    },
+    {
+      "id": "lever-jobgether-ef36ce51",
+      "company": "Jobgether",
+      "title": "Senior Fractional CFO (Jobgether)",
+      "portal": "lever",
+      "first_seen": "2026-05-14"
+    },
+    {
+      "id": "lever-jobgether-6cc9dcb8",
+      "company": "Jobgether",
+      "title": "Fractional CFO Remote (Jobgether)",
+      "portal": "lever",
+      "first_seen": "2026-05-14"
+    },
+    {
+      "id": "ashbyhq-crete-professionals-alliance",
+      "company": "Crete Professionals Alliance",
+      "title": "Senior Fractional CFO (Crete Professionals Alliance)",
+      "portal": "ashbyhq",
+      "first_seen": "2026-05-14"
     }
   ]
 }

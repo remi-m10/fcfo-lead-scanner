@@ -1,71 +1,65 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 1 new lead - 2026-05-12
+Subject: fCFO Scanner: 0 new leads - 2026-05-14
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-05-12
-31 queries across 20+ platforms | 107 total seen listings
+fCFO Lead Scanner — 2026-05-14
+31 queries across 20+ platforms | 111 total seen listings
 Note: DuckDuckGo blocked (0/31 queries returned results). New
 candidates sourced via direct WebSearch across job boards.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUMMARY: 0 PIPELINE | 1 FLAGGED | 4 SKIPPED today
+SUMMARY: 0 PIPELINE | 1 FLAGGED | 3 SKIPPED today
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 FLAGGED TODAY (1)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  1. PIXIS DRONES (via RedPeg Marketing) — Fractional Director of Finance & Operations
-     Drone light show company, Alexandria VA. ~13 employees. President:
-     Bernard Ozarowski. High-profile client roster: NFL, Netflix, Warner
-     Bros., McDonald's, NASCAR. Hiring via RedPeg Marketing's job board
-     (RedPeg is a related experiential marketing agency, ~177 employees,
-     ~$30M rev, CEO Brad Nierenberg). Role seeks "fractional finance and
-     accounting leader who can operate as Pixis' internal finance
-     department, working directly with the CEO and leadership team." No
-     existing CFO. JD also references investor decks and fundraising
-     models, suggesting possible capital raise underway.
-     Flagged: Very small company (~13 employees), niche vertical (drone
-     events). Unclear if fully founder-led or connected to RedPeg as
-     parent. Fundraising context adds complexity. Strong fit if Remi has
-     entertainment/events/experiential agency relationships.
-     URL: https://www.jobtarget.com/jobs/jt-z10125t8ts/fractional-director-of-finance-and-operations-alexandria-virginia
-     Also: https://redpeg.applytojob.com/
+  1. COTES AI — Fractional CFO (fractionaljobs.io)
+     Posted: May 7, 2026. Remote (USA only). 10–20 hrs/week.
+     Pay: Not listed.
+     Very limited public presence — website (cotes.ai) returns
+     403, no Crunchbase/LinkedIn data found. Domain name and
+     fractionaljobs.io category suggest an early-stage AI
+     startup, but the exact product/service is unknown.
+     Flagged: Cannot verify industry or fit. If AI = SaaS/tech,
+     would be SKIPPED. If consulting/services layer on top of AI,
+     could qualify. Recommend a quick manual check of cotes.ai
+     before outreach.
+     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-cotes-ai
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SKIPPED TODAY (4)
+SKIPPED TODAY (3)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  - A.R. MAZZOTTA (Indeed) — Fractional CFO / Senior Financial Advisor,
-    Middletown CT, 1 day/week, up to $60/hr, contract-to-hire.
-    SKIPPED: A.R. Mazzotta is a staffing/temp agency placing for an
-    unnamed client. Identity of actual hiring company not disclosed.
+  - JOBGETHER (Lever) — Senior Fractional CFO. Jobgether is a
+    remote job marketplace actively building its own client-facing
+    CFO function across multiple engagements. Salary up to $250K.
+    SKIPPED: Competitor — hiring fractional CFOs to deploy to
+    their own client portfolio.
+    URL: https://jobs.lever.co/jobgether/ef36ce51-ba2e-432a-9b4a-454c5e0fa70c
 
-  - FANTAUTISTIC SKILLS TRAINING / FAST (Indeed) — Fractional CFO /
-    Cash Flow Advisor, 5–15 hrs/month, part-time contract. ABA therapy
-    provider, insurance reimbursement-based model, rapid client growth.
-    SKIPPED: Regulated healthcare services, insurance reimbursement model.
+  - JOBGETHER (Lever) — Fractional CFO (Remote). Same firm;
+    second opening targeting CFOs with SaaS/venture-backed
+    fundraising background.
+    SKIPPED: Competitor + SaaS focus.
+    URL: https://jobs.lever.co/jobgether/6cc9dcb8-a9e4-4e9a-947d-aa78e0771c7b
 
-  - COMMUNITY LINK CONSULTING, INC. (Paylocity) — CFO / Lead Consultant.
-    FQHC consulting firm serving Federally Qualified Health Centers and
-    nonprofits across 40 states. Full-time salaried $120K–$160K. Role
-    involves providing fractional CFO services to healthcare clients.
-    SKIPPED: Competitor fractional CFO firm in regulated healthcare sector;
-    full-time salaried role.
-
-  - FRACTIONAL CFO, THE REMOTE FINANCIAL (Wellfound job #3318913) —
-    Fractional CFO (Startup Fundraising & Financial Modeling). Remote
-    financial services firm recruiting fractional CFOs for their client
-    roster.
-    SKIPPED: Competitor fractional CFO / outsourced finance firm.
+  - CRETE PROFESSIONALS ALLIANCE (Ashby) — Senior Fractional CFO.
+    National accounting & advisory network of 30+ firms, backed
+    by Thrive Capital & Bessemer Venture Partners. Hiring a
+    fractional CFO to lead a fully integrated finance team
+    (controller, senior accountant, bookkeeper) for their client base.
+    SKIPPED: Competitor fractional CFO / accounting firm network.
+    URL: https://jobs.ashbyhq.com/crete-professionals-alliance/52c83654-3bac-4351-a76b-fbd3d5ae56db
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ⚠ STALE LEAD ALERT
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  CONTOURAL (carry-forward PIPELINE from 2026-04-07 scan) was originally
-  posted September 2, 2025 on fractionaljobs.io — now 8+ months old,
-  well past the 3-month threshold. Recommend verifying if the role is
-  still active before outreach.
+  CONTOURAL (carry-forward PIPELINE from 2026-04-07 scan) was
+  originally posted September 2, 2025 on fractionaljobs.io —
+  now 8+ months old, well past the 3-month threshold. Recommend
+  verifying if the role is still active before outreach.
   URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-contoural
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -123,19 +117,31 @@ From 2026-04-07 scan:
 CARRY-FORWARD FLAGGED (unresolved from prior scans)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+From 2026-05-12 scan:
+
+  7. PIXIS DRONES (via RedPeg Marketing) — Fractional Director of Finance & Operations
+     Drone light show company, Alexandria VA. ~13 employees. President:
+     Bernard Ozarowski. High-profile clients: NFL, Netflix, Warner Bros.,
+     McDonald's, NASCAR. Role seeks "fractional finance and accounting
+     leader who can operate as Pixis' internal finance department."
+     No existing CFO. Possible capital raise underway.
+     Flagged: Very small (~13 employees), niche vertical (drone events),
+     possibly connected to RedPeg as parent.
+     URL: https://www.jobtarget.com/jobs/jt-z10125t8ts/fractional-director-of-finance-and-operations-alexandria-virginia
+     Also: https://redpeg.applytojob.com/
+
 From 2026-05-09 scan:
 
-  7. THE PAD CLIMBING — Fractional CFO (fractionaljobs.io)
-     Climbing gym chain in rapid expansion phase. Brick-and-mortar,
-     membership-based business model. Multiple locations. 1–2 days/month,
-     potentially more; $2,000–$7,000/month. Fully remote.
-     Flagged: Founder-led fitness/leisure business, niche brick-and-mortar
-     vertical. Strong fit if Remi has hospitality/membership experience.
+  8. THE PAD CLIMBING — Fractional CFO (fractionaljobs.io)
+     Climbing gym chain in rapid expansion. Brick-and-mortar,
+     membership-based. Multiple locations. 1–2 days/month (potentially
+     more); $2,000–$7,000/month. Fully remote.
+     Flagged: Founder-led fitness/leisure, niche brick-and-mortar vertical.
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-the-pad-climbing
 
 From 2026-05-07 scan:
 
-  8. DESTIFY — Fractional CFO (fractionaljobs.io)
+  9. DESTIFY — Fractional CFO (fractionaljobs.io)
      Destination wedding planning platform. Chicago, IL. ~69 employees,
      ~$15M revenue. Founder-led: Alex Zatvor (Founder & CEO). No existing
      CFO. 10–20 hrs/week.
@@ -144,12 +150,12 @@ From 2026-05-07 scan:
 
 From 2026-04-24 scan:
 
-  9. A VIRTUAL LAW FIRM — Fractional CFO (fractionaljobs.io)
-     Remote. 3–6 hrs/week. Posted April 21, 2026. Anonymous listing.
-     Flagged: Identity unconfirmed.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-virtual-law-firm
+  10. A VIRTUAL LAW FIRM — Fractional CFO (fractionaljobs.io)
+      Remote. 3–6 hrs/week. Posted April 21, 2026. Anonymous listing.
+      Flagged: Identity unconfirmed.
+      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-virtual-law-firm
 
-  10. SENTRYSIX INTERNATIONAL — Fractional CFO (fractionaljobs.io)
+  11. SENTRYSIX INTERNATIONAL — Fractional CFO (fractionaljobs.io)
       Austin, TX (remote). 2–7 hrs/week. Veteran-owned private security &
       risk management firm. CEO: Zach Rice (USAF veteran). ~80 employees,
       ~$6–7M revenue. No existing CFO.
@@ -157,5 +163,5 @@ From 2026-04-24 scan:
       URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-sentrysix-international
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Total seen listings: 107 | Next scan: 2026-05-13
+Total seen listings: 111 | Next scan: 2026-05-15
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
