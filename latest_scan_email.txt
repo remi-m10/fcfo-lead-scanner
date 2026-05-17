@@ -1,8 +1,8 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 0 new leads - 2026-05-16
+Subject: fCFO Scanner: 0 new leads - 2026-05-17
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-05-16
+fCFO Lead Scanner — 2026-05-17
 31 queries across 20+ platforms | 111 total seen listings
 Note: DuckDuckGo blocked (0/31 queries returned results).
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -16,7 +16,7 @@ No new listings found.
 
   CONTOURAL (carry-forward PIPELINE from 2026-04-07 scan) was
   originally posted September 2, 2025 on fractionaljobs.io —
-  now 8+ months old, well past the 3-month threshold. Recommend
+  now 8.5+ months old, well past the 3-month threshold. Recommend
   verifying if the role is still active before outreach.
   URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-contoural
 
@@ -135,5 +135,5 @@ From 2026-04-24 scan:
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-sentrysix-international
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Total seen listings: 111 | Next scan: 2026-05-17
+Total seen listings: 111 | Next scan: 2026-05-18
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
