@@ -1,5 +1,416 @@
 {
-  "date": "2026-06-09",
-  "new_count": 0,
-  "results": []
+  "date": "2026-06-10",
+  "new_count": 41,
+  "results": [
+    {
+      "id": "fractionaljobs-align-social-impact",
+      "title": "Fractional Chief Financial Officer",
+      "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-align-social-impact",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-06-10",
+      "status": "PIPELINE",
+      "company": "Align Social Impact",
+      "notes": "Women-owned strategy/impact consulting firm (NYC + Amsterdam), serves brand/nonprofit/foundation clients. No existing CFO. Part-time remote, ~10hrs/wk, $85-100/hr, 6-month contract."
+    },
+    {
+      "id": "fractionaljobs-live-group",
+      "title": "Fractional Finance Director",
+      "url": "https://www.fractionaljobs.io/jobs/finance-director-at-live-group",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-06-10",
+      "status": "PIPELINE",
+      "company": "Live Group",
+      "notes": "UK event management & communications agency (50+ yr legacy), London. Hiring fractional FD as financial advisor to Directors/investor liaison. Cross-posted on LinkedIn (linkedin-4217198892)."
+    },
+    {
+      "id": "simplyhired-dd-lawn-co",
+      "title": "Fractional CFO - Part-Time / Remote",
+      "url": "https://za.simplyhired.com/job/F7znajAu9AcFURhe8zwLcWEIro3dUIDsoBRNGM2WaHTfaODtHcXYbA",
+      "portal": "SimplyHired (ZA)",
+      "first_seen": "2026-06-10",
+      "status": "PIPELINE",
+      "company": "D&D Lawn Co.",
+      "notes": "Lawn care/landscaping SMB, Cape Town SA. Founder-led small business, no existing CFO indicated. 5+ yrs exp required, English speaking."
+    },
+    {
+      "id": "linkedin-4240306602",
+      "title": "Fractional CFO",
+      "url": "https://www.linkedin.com/jobs/view/fractional-cfo-at-woolf-4240306602",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "FLAGGED",
+      "company": "Woolf",
+      "notes": "Chicago, IL. Could not determine company industry/fit - no info found beyond the listing itself."
+    },
+    {
+      "id": "linkedin-4357684908",
+      "title": "Fractional CFO for Fundraising",
+      "url": "https://www.linkedin.com/jobs/view/fractional-cfo-for-fundraising-at-confidential-4357684908",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "FLAGGED",
+      "company": "Confidential",
+      "notes": "Anonymized poster. Suggests a startup raising capital, but can't confirm size/industry/CFO status."
+    },
+    {
+      "id": "glassdoor-nonprofit-1009319947223",
+      "title": "Fractional CFO",
+      "url": "https://www.glassdoor.com/job-listing/fractional-cfo-non-profit-organization-JV_KO0,14_KE15,38.htm?jl=1009319947223",
+      "portal": "Glassdoor",
+      "first_seen": "2026-06-10",
+      "status": "FLAGGED",
+      "company": "Non-Profit Organization (anon)",
+      "notes": "Nonprofit, remote, up to 10 hrs/month. Org name anonymized - fits 'professional services/no existing CFO' but can't verify identity or posting age."
+    },
+    {
+      "id": "wellfound-3216060",
+      "title": "Chief Financial Officer (CFO) Remote/Part-Time",
+      "url": "https://wellfound.com/jobs/3216060-chief-financial-officer-cfo-remote-part-time",
+      "portal": "Wellfound",
+      "first_seen": "2026-06-10",
+      "status": "FLAGGED",
+      "company": "Unknown",
+      "notes": "Could not identify company or posting date."
+    },
+    {
+      "id": "glassdoor-confidential-1009865873018",
+      "title": "Part-Time Fractional Controller (CFO Track)",
+      "url": "https://www.glassdoor.com/job-listing/part-time-fractional-controller-cfo-track-remote-us-only-confidential-JV_KO0,56_KE57,69.htm?jl=1009865873018",
+      "portal": "Glassdoor",
+      "first_seen": "2026-06-10",
+      "status": "FLAGGED",
+      "company": "Confidential",
+      "notes": "US remote-only, anonymized poster. Growth path to Fractional CFO mentioned."
+    },
+    {
+      "id": "himalayas-plutus-health",
+      "title": "Fractional Chief Financial Officer (CFO)",
+      "url": "https://himalayas.app/companies/calpion-plutus-health/jobs/fractional-chief-financial-officer-cfo",
+      "portal": "Himalayas",
+      "first_seen": "2026-06-10",
+      "status": "FLAGGED",
+      "company": "Calpion/Plutus Health",
+      "notes": "Healthcare RCM/BPO company. Possible fit (professional services) but couldn't confirm size/CFO status or whether 'regulated finance' applies."
+    },
+    {
+      "id": "linkedin-4260715207",
+      "title": "Fractional CFO | SaaS",
+      "url": "https://www.linkedin.com/jobs/view/fractional-cfo-saas-at-cfo-hub-4260715207",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "CFO Hub",
+      "notes": "SaaS"
+    },
+    {
+      "id": "linkedin-4398187689",
+      "title": "Fractional CFO",
+      "url": "https://www.linkedin.com/jobs/view/fractional-cfo-at-anexus-cfo-4398187689",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Anexus CFO",
+      "notes": "Competitor CFO firm hiring for own bench"
+    },
+    {
+      "id": "linkedin-4333071204",
+      "title": "Fractional CFO - Philadelphia",
+      "url": "https://www.linkedin.com/jobs/view/fractional-cfo-at-the-cfo-centre-usa-4333071204",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "The CFO Centre USA",
+      "notes": "Competitor CFO firm"
+    },
+    {
+      "id": "linkedin-4385395874",
+      "title": "Fractional CFO",
+      "url": "https://www.linkedin.com/jobs/view/fractional-cfo-at-east-57th-street-partners-4385395874",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "East 57th Street Partners",
+      "notes": "Competitor CFO/advisory firm (PE-backed finance functions)"
+    },
+    {
+      "id": "linkedin-4073497415",
+      "title": "Fractional FD - Waste Management SME",
+      "url": "https://uk.linkedin.com/jobs/view/fractional-finance-director-waste-management-sme-1-day-p-w-at-harmonic-group-ltd-4073497415",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Harmonic Group (recruiter)",
+      "notes": "Staffing/recruiting agency posting, unnamed end-client"
+    },
+    {
+      "id": "linkedin-4072455907",
+      "title": "Fractional FD - InsurTech Start-Up",
+      "url": "https://uk.linkedin.com/jobs/view/fractional-finance-director-insurtech-start-up-2-days-per-month-at-harmonic-finance%E2%84%A2-certified-b-corp-4072455907",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Harmonic Finance (recruiter)",
+      "notes": "InsurTech (regulated/fintech)"
+    },
+    {
+      "id": "linkedin-4129076610",
+      "title": "Fractional FD - Indie PR Agency",
+      "url": "https://uk.linkedin.com/jobs/view/fractional-finance-director-indie-pr-agency-at-harmonic-group-ltd-4129076610",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Harmonic Group (recruiter)",
+      "notes": "Staffing/recruiting agency posting, unnamed end-client (PR agency)"
+    },
+    {
+      "id": "linkedin-4181580053",
+      "title": "Fractional Finance Director",
+      "url": "https://uk.linkedin.com/jobs/view/fractional-finance-director-at-simpson-judge-4181580053",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Simpson Judge (recruiter)",
+      "notes": "Staffing/recruiting agency, unnamed end-client"
+    },
+    {
+      "id": "linkedin-4051813441",
+      "title": "Fractional FD - VC Backed SaaS Scale-Up",
+      "url": "https://uk.linkedin.com/jobs/view/fractional-finance-director-vc-baced-saas-scale-up-remote-at-remoteworker-uk-4051813441",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "RemoteWorker UK (recruiter)",
+      "notes": "SaaS"
+    },
+    {
+      "id": "linkedin-4271814589",
+      "title": "Fractional Finance Director",
+      "url": "https://uk.linkedin.com/jobs/view/fractional-finance-director-at-mrk-associates-4271814589",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "MRK Associates (recruiter)",
+      "notes": "Accountancy staffing/recruiting agency, unnamed end-client"
+    },
+    {
+      "id": "linkedin-4263484261",
+      "title": "Interim CFO - PE-Backed Construction Services Company",
+      "url": "https://www.linkedin.com/jobs/view/interim-cfo-%E2%80%93-pe-backed-construction-services-company-local-candidates-at-etonien-4263484261",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Etonien (recruiter)",
+      "notes": "PE-backed, not founder-led/agency"
+    },
+    {
+      "id": "linkedin-4295544428",
+      "title": "Part-time CFO",
+      "url": "https://uk.linkedin.com/jobs/view/part-time-cfo-at-tenzing-search-4295544428",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Tenzing Search (recruiter)",
+      "notes": "Finance/accountancy staffing agency, unnamed end-client"
+    },
+    {
+      "id": "linkedin-4005949012",
+      "title": "Fractional Fund Controller/VP Finance",
+      "url": "https://www.linkedin.com/jobs/view/fractional-fund-controller-vp-finance-at-vaco-4005949012",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Vaco (staffing)",
+      "notes": "Staffing firm, unnamed end-client"
+    },
+    {
+      "id": "linkedin-4162260456",
+      "title": "Interim VP of Finance, Fractional",
+      "url": "https://www.linkedin.com/jobs/view/interim-vp-of-finance-fractional-at-lbmc-staffing-solutions-llc-4162260456",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "LBMC Staffing Solutions",
+      "notes": "Staffing firm, unnamed end-client"
+    },
+    {
+      "id": "linkedin-4376083699",
+      "title": "VP Finance and Accounting | High-Growth Fintech",
+      "url": "https://www.linkedin.com/jobs/view/vp-finance-and-accounting-high-growth-fintech-remote-$250k%E2%80%93$325k-+-bonus-+-equity-at-harmonic-finance%E2%84%A2-certified-b-corp-4376083699",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Harmonic Finance (recruiter)",
+      "notes": "Fintech"
+    },
+    {
+      "id": "wellfound-3277648",
+      "title": "Vice President of Strategic Finance",
+      "url": "https://wellfound.com/jobs/3277648-vice-president-of-strategic-finance",
+      "portal": "Wellfound",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Attivo Partners",
+      "notes": "Competitor fractional CFO/accounting firm hiring internally"
+    },
+    {
+      "id": "workable-the-herring-group-7FB5A289D0",
+      "title": "Financial Leadership Partner (CFO-Level Consultant), Part-Time Remote",
+      "url": "https://apply.workable.com/the-herring-group/j/7FB5A289D0/",
+      "portal": "Workable",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "The Herring Group",
+      "notes": "Competitor 'rent-a-CFO' firm (landscape industry focus) hiring its own bench"
+    },
+    {
+      "id": "workable-allinoneaccounting-712A88E1C9",
+      "title": "CFO - Part Time",
+      "url": "https://apply.workable.com/allinoneaccounting/j/712A88E1C9/",
+      "portal": "Workable",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "All In One Accounting",
+      "notes": "Competitor accounting/CFO placement firm hiring internally"
+    },
+    {
+      "id": "workable-allinoneaccounting-C5D1EA57B3",
+      "title": "Nonprofit CFO - Part Time",
+      "url": "https://apply.workable.com/allinoneaccounting/j/C5D1EA57B3/",
+      "portal": "Workable",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "All In One Accounting",
+      "notes": "Competitor accounting/CFO placement firm hiring internally"
+    },
+    {
+      "id": "workable-weekday-1-BA3204C519",
+      "title": "Chief Financial Officer (CFO)",
+      "url": "https://apply.workable.com/weekday-1/j/BA3204C519/",
+      "portal": "Workable",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Weekday AI",
+      "notes": "Full-time CFO hire (not fractional)"
+    },
+    {
+      "id": "glassdoor-series-next-solutions-1008100362553",
+      "title": "Fractional CFO/Controller",
+      "url": "https://www.glassdoor.com/job-listing/fractional-cfo-controller-series-next-solutions-llc-JV_IC1150035_KO0,25_KE26,51.htm?jl=1008100362553",
+      "portal": "Glassdoor",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Series Next Solutions",
+      "notes": "Competitor fractional CFO/controller firm hiring client-facing leads"
+    },
+    {
+      "id": "glassdoor-amp-capital-1009873910673",
+      "title": "Remote Fractional CFO (Equity-Based Compensation)",
+      "url": "https://www.glassdoor.com/job-listing/remote-fractional-cfo-equity-based-compensation-amp-capital-llc-JV_KO0,47_KE48,63.htm?jl=1009873910673",
+      "portal": "Glassdoor",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "AMP Capital, LLC",
+      "notes": "Investment management / alternative assets fund (regulated finance)"
+    },
+    {
+      "id": "reed-56760041",
+      "title": "Fractional CFO | High-Growth B2B SaaS Scale-Up | London",
+      "url": "https://www.reed.co.uk/jobs/fractional-cfo--high-growth-b2b-saas-scale-up--london/56760041",
+      "portal": "Reed",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Confidential",
+      "notes": "SaaS"
+    },
+    {
+      "id": "simplyhired-shiny-johannesburg",
+      "title": "Fractional CFO For Startups, Johannesburg (Remote)",
+      "url": "https://useshiny.com/job/fractional-cfo-for-startups-johannesburg-remote-3/",
+      "portal": "useshiny.com",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Shiny (useshiny.com)",
+      "notes": "Fractional-talent marketplace template postings, unnamed clients (also posted for Cape Town/Bangalore/Vancouver etc.)"
+    },
+    {
+      "id": "macdonald-search-group-cfo-fractional",
+      "title": "CFO - Fractional",
+      "url": "https://www.macdonaldsearchgroup.com/job-listings/cfo-fractional",
+      "portal": "MacDonald Search Group",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "MacDonald Search Group (recruiter)",
+      "notes": "Staffing/recruiting agency, unnamed end-client (Canada)"
+    },
+    {
+      "id": "linkedin-4375004960",
+      "title": "Fractional CFO (Full Time Role) [LinkedIn cross-post]",
+      "url": "https://www.linkedin.com/jobs/view/fractional-cfo-full-time-role-at-smb-team-4375004960",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "SMB Team",
+      "notes": "Duplicate cross-post of known SMB Team posting (workable-smb-E1C3738575)"
+    },
+    {
+      "id": "remotive-4461179",
+      "title": "Fractional Controller / CFO [Remotive cross-post]",
+      "url": "https://remotive.com/remote/jobs/finance/fractional-controller-cfo-4461179",
+      "portal": "Remotive",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "SMB Team",
+      "notes": "Duplicate cross-post of known SMB Team posting"
+    },
+    {
+      "id": "remotive-4406945",
+      "title": "Fractional Chief Financial Officer [Remotive cross-post]",
+      "url": "https://remotive.com/remote/jobs/finance/fractional-chief-financial-officer-4406945",
+      "portal": "Remotive",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Maze",
+      "notes": "Duplicate cross-post of known Maze posting (fractionaljobs-maze)"
+    },
+    {
+      "id": "linkedin-4387288436",
+      "title": "Remote Finance VP",
+      "url": "https://www.linkedin.com/jobs/view/remote-finance-vp-at-jobgether-4387288436",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Jobgether",
+      "notes": "Jobgether recurring listing platform, already represented (lever-jobgether-*)"
+    },
+    {
+      "id": "remotive-4417118",
+      "title": "Recruiting Director",
+      "url": "https://remotive.com/remote/jobs/hr/recruiting-director-4417118",
+      "portal": "Remotive",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Ascent CFO Solutions",
+      "notes": "Competitor CFO firm internal recruiting role"
+    },
+    {
+      "id": "remotive-2050966",
+      "title": "Finance Controller",
+      "url": "https://remotive.com/remote-jobs/finance-legal/finance-controller-2050966",
+      "portal": "Remotive",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Fresh Prints",
+      "notes": "Not a CFO role; Fresh Prints is itself a fractional-CFO services company"
+    },
+    {
+      "id": "greenhouse-freshprints-5387738004",
+      "title": "Accounting (QuickBooks) & Operations Assistant",
+      "url": "https://boards.greenhouse.io/freshprints/jobs/5387738004",
+      "portal": "Greenhouse",
+      "first_seen": "2026-06-10",
+      "status": "SKIPPED",
+      "company": "Fresh Prints",
+      "notes": "Not a CFO role; Fresh Prints is itself a fractional-CFO services company"
+    }
+  ]
 }
