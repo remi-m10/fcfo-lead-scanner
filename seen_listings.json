@@ -1,6 +1,6 @@
 {
-  "last_scan": "2026-06-10",
-  "total_seen": 152,
+  "last_scan": "2026-06-11",
+  "total_seen": 174,
   "seen": [
     {
       "id": "linkedin-4379881837",
@@ -1133,6 +1133,182 @@
       "portal": "Greenhouse",
       "status": "SKIPPED",
       "first_seen": "2026-06-10"
+    },
+    {
+      "id": "upwork-022032574574857567731",
+      "company": "Digital Marketing Agency (Upwork client, anon)",
+      "title": "Fractional Digital Marketing Agency CFO Wanted",
+      "portal": "Upwork",
+      "status": "PIPELINE",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "linkedin-4217198892",
+      "company": "Live Group",
+      "title": "Fractional Finance Director [LinkedIn cross-post]",
+      "portal": "LinkedIn",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "linkedin-3885854596",
+      "company": "Creative Financial Staffing (CFS)",
+      "title": "Interim CFO - Non-Profit Organization",
+      "portal": "LinkedIn",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "linkedin-4378945747",
+      "company": "Ascent CFO Solutions",
+      "title": "Interim CFO - Denver",
+      "portal": "LinkedIn",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "linkedin-3118003820",
+      "company": "Confidential Jobs",
+      "title": "Interim Chief Financial Officer (CFO) - Dallas",
+      "portal": "LinkedIn",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "weworkremotely-b2bcfo",
+      "company": "B2B CFO",
+      "title": "Remote CFO - B2B Exit & B2B CFO (Partner)",
+      "portal": "WeWorkRemotely",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "himalayas-mahway-fractional-cfo-contractor",
+      "company": "Mahway",
+      "title": "Fractional CFO / Contractor [Himalayas cross-post]",
+      "portal": "Himalayas",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "himalayas-preferredcfo-fractional-cfo-growth",
+      "company": "Preferred CFO",
+      "title": "Fractional CFO for Growth-Focused Companies",
+      "portal": "Himalayas",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "himalayas-smbteam-fractional-cfo-fulltime",
+      "company": "SMB Team",
+      "title": "Fractional CFO (Full Time Role) [Himalayas cross-post]",
+      "portal": "Himalayas",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "ashbyhq-maze-fractional-cfo",
+      "company": "Maze",
+      "title": "Fractional Chief Financial Officer (CFO) [AshbyHQ cross-post]",
+      "portal": "ashbyhq",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "ashbyhq-mahway-fractional-cfo-contractor",
+      "company": "Mahway",
+      "title": "Fractional CFO / Contractor [AshbyHQ cross-post]",
+      "portal": "ashbyhq",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "ashbyhq-burkland-cfo-consultant",
+      "company": "Burkland Associates",
+      "title": "CFO Consultant",
+      "portal": "ashbyhq",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "workable-indinero-01A8C47CA8",
+      "company": "inDinero",
+      "title": "Fractional CFO",
+      "portal": "Workable",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "wttj-coactivpartners-annecy",
+      "company": "Coactiv Partners",
+      "title": "CFO part time (Annecy)",
+      "portal": "WTTJ",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "wttj-coactivpartners-paris",
+      "company": "Coactiv Partners",
+      "title": "CFO part time (Paris)",
+      "portal": "WTTJ",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "glassdoor-series-next-solutions-1008096766539",
+      "company": "Series Next Solutions",
+      "title": "Fractional CFO/Controller [Glassdoor repost]",
+      "portal": "Glassdoor",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "ashbyhq-sxaler-fractional-executive",
+      "company": "Sxaler",
+      "title": "Fractional Executive - EU/US",
+      "portal": "ashbyhq",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "reed-56370941",
+      "company": "RTNA Group",
+      "title": "FC to CFO (CXO/FD) - Fractional Part Time Portfolio - Divestment",
+      "portal": "Reed",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "glassdoor-nest-healthcare-1008154605148",
+      "company": "NEST Healthcare",
+      "title": "Fractional CFO (expired)",
+      "portal": "Glassdoor",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "simplyhired-financial-additions-dallas",
+      "company": "Financial Additions",
+      "title": "Fractional CFO - Dallas, TX",
+      "portal": "SimplyHired",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "adzuna-5690228465",
+      "company": "Allied Talent Partners",
+      "title": "Fractional CFO - Africa [Adzuna cross-post]",
+      "portal": "Adzuna",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "indeed-807c7907a18a9346",
+      "company": "Alta Advisors",
+      "title": "Fractional CFO - Remote",
+      "portal": "Indeed",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-11"
     }
   ]
 }
