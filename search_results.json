@@ -1,208 +1,143 @@
 {
-  "date": "2026-06-11",
-  "method": "WebSearch fallback (DDG html endpoint returned 403)",
-  "new_count": 22,
-  "pipeline_count": 1,
-  "flagged_count": 0,
-  "skipped_count": 21,
+  "date": "2026-06-12",
+  "new_count": 17,
   "results": [
     {
-      "id": "upwork-022032574574857567731",
-      "company": "Digital Marketing Agency (Upwork client, anon)",
-      "title": "Fractional Digital Marketing Agency CFO Wanted",
-      "portal": "Upwork",
-      "url": "https://www.upwork.com/freelance-jobs/apply/Fractional-Digital-Marketing-Agency-CFO-Wanted_~022032574574857567731/",
-      "status": "PIPELINE",
-      "notes": "Freelance posting - digital marketing agency seeking a fractional CFO. Full budget/scope behind Upwork login; matches PIPELINE criteria (agency, founder-led, no existing CFO)."
+      "id": "jobleads-senecasense-fractional-cfo-capital-raising",
+      "title": "Fractional CFO & Capital-Raising Strategist",
+      "url": "https://www.jobleads.com/us/job/fractional-cfo-capital-raising-strategist--miami--e8c1408fa91c52f6377e7640e0ce4e38f",
+      "portal": "JobLeads",
+      "first_seen": "2026-06-12",
+      "query": "site:simplyhired.com \"fractional CFO\" remote"
     },
     {
-      "id": "linkedin-4217198892",
-      "company": "Live Group",
-      "title": "Fractional Finance Director [LinkedIn cross-post]",
+      "id": "linkedin-4225905922",
+      "title": "Fractional CFO at FocusCFO® (Greater Philadelphia)",
+      "url": "https://www.linkedin.com/jobs/view/fractional-cfo-at-focuscfo%C2%AE-4225905922",
       "portal": "LinkedIn",
-      "url": "https://uk.linkedin.com/jobs/view/fractional-finance-director-at-live-group-4217198892",
-      "status": "SKIPPED",
-      "notes": "Cross-post of fractionaljobs-live-group, already PIPELINE since 2026-06-10."
+      "first_seen": "2026-06-12",
+      "query": "site:linkedin.com/jobs \"fractional CFO\""
     },
     {
-      "id": "linkedin-3885854596",
-      "company": "Creative Financial Staffing (CFS)",
-      "title": "Interim CFO - Non-Profit Organization",
+      "id": "linkedin-4423556968",
+      "title": "Fractional CFO as Cross-Channel Partner",
+      "url": "https://www.linkedin.com/jobs/view/fractional-cfo-as-cross-channel-partner-at-lucrum-advisors-4423556968",
       "portal": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/interim-cfo-non-profit-organization-at-creative-financial-staffing-cfs-3885854596",
-      "status": "SKIPPED",
-      "notes": "Staffing agency posting for unnamed client."
+      "first_seen": "2026-06-12",
+      "query": "site:linkedin.com/jobs \"fractional VP Finance\""
     },
     {
-      "id": "linkedin-4378945747",
-      "company": "Ascent CFO Solutions",
-      "title": "Interim CFO - Denver",
-      "portal": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/interim-cfo-at-ascent-cfo-solutions-4378945747",
-      "status": "SKIPPED",
-      "notes": "Competitor fractional/interim CFO firm hiring for its own bench."
+      "id": "lever-ghj-interim-cfo-7950624c",
+      "title": "Interim Chief Financial Officer",
+      "url": "https://jobs.lever.co/ghj/7950624c-3b63-4bf6-b8b6-3083456badc1/apply",
+      "portal": "lever",
+      "first_seen": "2026-06-12",
+      "query": "site:jobs.lever.co \"fractional CFO\""
     },
     {
-      "id": "linkedin-3118003820",
-      "company": "Confidential Jobs",
-      "title": "Interim Chief Financial Officer (CFO) - Dallas",
-      "portal": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/interim-chief-financial-officer-cfo-at-confidential-jobs-3118003820",
-      "status": "SKIPPED",
-      "notes": "Job ID in 3.1B range indicates a much older posting (well over 3 months)."
+      "id": "lever-ghj-cfo-1b59f673",
+      "title": "Chief Financial Officer",
+      "url": "https://jobs.lever.co/ghj/1b59f673-14cf-4da4-968e-2fc7feed05fc",
+      "portal": "lever",
+      "first_seen": "2026-06-12",
+      "query": "site:jobs.lever.co \"fractional CFO\""
     },
     {
-      "id": "weworkremotely-b2bcfo",
-      "company": "B2B CFO",
-      "title": "Remote CFO - B2B Exit & B2B CFO (Partner)",
+      "id": "lever-daoshub-cfo-6cc847bf",
+      "title": "CFO (Web3/DAO hub, Dubai)",
+      "url": "https://jobs.lever.co/daos-hub/6cc847bf-06e7-40da-91b6-a2ca9c744549",
+      "portal": "lever",
+      "first_seen": "2026-06-12",
+      "query": "site:jobs.lever.co \"fractional CFO\""
+    },
+    {
+      "id": "weworkremotely-blossom-cfo",
+      "title": "Chief Financial Officer (fintech, full-time)",
+      "url": "https://weworkremotely.com/remote-jobs/blossom-chief-financial-officer",
       "portal": "WeWorkRemotely",
-      "url": "https://weworkremotely.com/remote-jobs/b2b-cfo-chief-financial-officer-b2b-exit-b2b-cfo",
-      "status": "SKIPPED",
-      "notes": "Competitor fractional CFO firm recruiting partners."
+      "first_seen": "2026-06-12",
+      "query": "site:weworkremotely.com CFO finance"
     },
     {
-      "id": "himalayas-mahway-fractional-cfo-contractor",
-      "company": "Mahway",
-      "title": "Fractional CFO / Contractor [Himalayas cross-post]",
-      "portal": "Himalayas",
-      "url": "https://himalayas.app/companies/mahway/jobs/fractional-cfo-contractor",
-      "status": "SKIPPED",
-      "notes": "Cross-post of Mahway listing already seen since 2026-04-06."
+      "id": "linkedin-4391145353",
+      "title": "Fractional COO-CFO-CEO > Business Opportunity",
+      "url": "https://www.linkedin.com/jobs/view/fractional-coo-cfo-ceo->-business-opportunity-at-fica-boost-4391145353",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12",
+      "query": "site:linkedin.com/jobs \"fractional CFO\""
     },
     {
-      "id": "himalayas-preferredcfo-fractional-cfo-growth",
-      "company": "Preferred CFO",
-      "title": "Fractional CFO for Growth-Focused Companies",
-      "portal": "Himalayas",
-      "url": "https://himalayas.app/companies/preferred-cfo/jobs/fractional-cfo-for-growth-focused-companies",
-      "status": "SKIPPED",
-      "notes": "Competitor fractional CFO firm hiring for its own bench."
+      "id": "linkedin-4378060039",
+      "title": "Fractional CEO-CFO-COO - Business Opportunity",
+      "url": "https://www.linkedin.com/jobs/view/fractional-ceo-cfo-coo---business-opportunity-at-fica-boost-4378060039",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12",
+      "query": "site:linkedin.com/jobs \"fractional CFO\""
     },
     {
-      "id": "himalayas-smbteam-fractional-cfo-fulltime",
-      "company": "SMB Team",
-      "title": "Fractional CFO (Full Time Role) [Himalayas cross-post]",
-      "portal": "Himalayas",
-      "url": "https://himalayas.app/companies/smb-team/jobs/fractional-cfo-full-time-role-4323051082",
-      "status": "SKIPPED",
-      "notes": "Cross-post of SMB Team listing already seen/skipped."
+      "id": "linkedin-4397472456",
+      "title": "Fractional COO-CEO-CFO + Business Opportunity",
+      "url": "https://www.linkedin.com/jobs/view/fractional-coo-ceo-cfo-+-business-opportunity-at-fica-boost-4397472456",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12",
+      "query": "site:linkedin.com/jobs \"fractional CFO\""
     },
     {
-      "id": "ashbyhq-maze-fractional-cfo",
-      "company": "Maze",
-      "title": "Fractional Chief Financial Officer (CFO) [AshbyHQ cross-post]",
-      "portal": "ashbyhq",
-      "url": "https://jobs.ashbyhq.com/mazedesign/2fc856d6-0dc3-410a-80e5-3b5f3a629ff7",
-      "status": "SKIPPED",
-      "notes": "Cross-post of Maze listing already seen/skipped."
+      "id": "linkedin-4294485867",
+      "title": "Fractional CFO/CEO/COO with C-Level Connections for Business Opportunity",
+      "url": "https://www.linkedin.com/jobs/view/fractional-cfo-ceo-coo-with-c-level-connections-for-business-opportunity-at-fica-boost-4294485867",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12",
+      "query": "site:linkedin.com/jobs \"fractional CFO\""
     },
     {
-      "id": "ashbyhq-mahway-fractional-cfo-contractor",
-      "company": "Mahway",
-      "title": "Fractional CFO / Contractor [AshbyHQ cross-post]",
-      "portal": "ashbyhq",
-      "url": "https://jobs.ashbyhq.com/Mahway/03ae06eb-8e05-4244-93b1-463ecf43213f/application",
-      "status": "SKIPPED",
-      "notes": "Cross-post of Mahway listing already seen since 2026-04-06."
+      "id": "linkedin-4295503491",
+      "title": "Connected Fractional COO/CEO/CFO - Business Opportunity",
+      "url": "https://www.linkedin.com/jobs/view/connected-fractional-coo-ceo-cfo---business-opportunity-at-fica-boost-4295503491",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12",
+      "query": "site:linkedin.com/jobs \"fractional CFO\""
     },
     {
-      "id": "ashbyhq-burkland-cfo-consultant",
-      "company": "Burkland Associates",
-      "title": "CFO Consultant",
-      "portal": "ashbyhq",
-      "url": "https://jobs.ashbyhq.com/burklandassociates/04a0649d-cd0b-452b-8bf0-4b73c4ab6cea",
-      "status": "SKIPPED",
-      "notes": "Competitor outsourced-CFO/accounting firm hiring for its own bench."
+      "id": "linkedin-4293926679",
+      "title": "Fractional CFO/COO/CEO for Business Opportunity",
+      "url": "https://www.linkedin.com/jobs/view/fractional-cfo-coo-ceo-for-business-opportunity-at-fica-boost-4293926679",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12",
+      "query": "site:linkedin.com/jobs \"fractional CFO\""
     },
     {
-      "id": "workable-indinero-01A8C47CA8",
-      "company": "inDinero",
-      "title": "Fractional CFO",
-      "portal": "Workable",
-      "url": "https://apply.workable.com/indinero-3/j/01A8C47CA8",
-      "status": "SKIPPED",
-      "notes": "Competitor outsourced accounting/CFO firm hiring for its own bench."
+      "id": "linkedin-4412627119",
+      "title": "Fractional COO/CFO > B.O.",
+      "url": "https://www.linkedin.com/jobs/view/fractional-coo-cfo->-b.o.-at-fica-boost-4412627119",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12",
+      "query": "site:linkedin.com/jobs \"fractional CFO\""
     },
     {
-      "id": "wttj-coactivpartners-annecy",
-      "company": "Coactiv Partners",
-      "title": "CFO part time (Annecy)",
-      "portal": "WTTJ",
-      "url": "https://www.welcometothejungle.com/fr/companies/coactiv-partners/jobs/cfo-part-time-annecy_paris",
-      "status": "SKIPPED",
-      "notes": "Coactiv Partners is itself a part-time CFO firm hiring for its portfolio of 3-4 client companies (competitor)."
+      "id": "linkedin-4279491404",
+      "title": "Connected Fractional CFO",
+      "url": "https://www.linkedin.com/jobs/view/connected-fractional-cfo-at-fica-boost-4279491404",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12",
+      "query": "site:linkedin.com/jobs \"fractional CFO\""
     },
     {
-      "id": "wttj-coactivpartners-paris",
-      "company": "Coactiv Partners",
-      "title": "CFO part time (Paris)",
-      "portal": "WTTJ",
-      "url": "https://www.welcometothejungle.com/fr/companies/coactiv-partners/jobs/cfo-part-time-paris_paris",
-      "status": "SKIPPED",
-      "notes": "Same as above - competitor firm, duplicate posting for Paris."
+      "id": "linkedin-4314345141",
+      "title": "Fractional CFO - Connector",
+      "url": "https://www.linkedin.com/jobs/view/fractional-cfo---connector-at-fica-boost-4314345141",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12",
+      "query": "site:linkedin.com/jobs \"fractional CFO\""
     },
     {
-      "id": "glassdoor-series-next-solutions-1008096766539",
-      "company": "Series Next Solutions",
-      "title": "Fractional CFO/Controller [Glassdoor repost]",
-      "portal": "Glassdoor",
-      "url": "https://www.glassdoor.com/job-listing/fractional-cfo-controller-series-next-solutions-JV_KO0,25_KE26,47.htm?jl=1008096766539",
-      "status": "SKIPPED",
-      "notes": "Repost of Series Next Solutions listing already SKIPPED on 2026-06-10 (different Glassdoor listing ID)."
-    },
-    {
-      "id": "ashbyhq-sxaler-fractional-executive",
-      "company": "Sxaler",
-      "title": "Fractional Executive - EU/US",
-      "portal": "ashbyhq",
-      "url": "https://jobs.ashbyhq.com/sxaler/0cd2e007-1258-4043-8812-d8709b5a3c03",
-      "status": "SKIPPED",
-      "notes": "Sxaler is a fractional-talent placement firm recruiting execs (Finance/Tech/Legal/Product) for its own client roster - competitor/platform, not a direct lead."
-    },
-    {
-      "id": "reed-56370941",
-      "company": "RTNA Group",
-      "title": "FC to CFO (CXO/FD) - Fractional Part Time Portfolio - Divestment",
-      "portal": "Reed",
-      "url": "https://www.reed.co.uk/jobs/fc-to-cfo--and-cxo-fd--full-time-or-fractional-part-time-portfolio-divestment-exit-divest/56370941",
-      "status": "SKIPPED",
-      "notes": "RTNA Group is building a community/portfolio network of fractional CFO/CXO professionals (~100 members) - recruiter for its own network, not a direct lead."
-    },
-    {
-      "id": "glassdoor-nest-healthcare-1008154605148",
-      "company": "NEST Healthcare",
-      "title": "Fractional CFO (expired)",
-      "portal": "Glassdoor",
-      "url": "https://www.glassdoor.com/job-listing/fractional-cfo-nest-healthcare-JV_KO0,14_KE15,30.htm?jl=1008154605148",
-      "status": "SKIPPED",
-      "notes": "Listing expired; healthcare/regulated."
-    },
-    {
-      "id": "simplyhired-financial-additions-dallas",
-      "company": "Financial Additions",
-      "title": "Fractional CFO - Dallas, TX",
-      "portal": "SimplyHired",
-      "url": "https://www.simplyhired.com/job/HczBS-HMjzHyCYV6M0p6sdCdqkuoDDkSq1Nidn8OVR_zF_JTIFbCEg",
-      "status": "SKIPPED",
-      "notes": "Financial Additions is a finance/accounting staffing agency posting fractional CFO contracts for unnamed clients."
-    },
-    {
-      "id": "adzuna-5690228465",
-      "company": "Allied Talent Partners",
-      "title": "Fractional CFO - Africa [Adzuna cross-post]",
-      "portal": "Adzuna",
-      "url": "https://www.adzuna.co.za/details/5690228465",
-      "status": "SKIPPED",
-      "notes": "Same renewable-energy West Africa Series A role as allied-za-fcfo, already seen since 2026-04-06 (cross-posted to Adzuna)."
-    },
-    {
-      "id": "indeed-807c7907a18a9346",
-      "company": "Alta Advisors",
-      "title": "Fractional CFO - Remote",
-      "portal": "Indeed",
-      "url": "https://www.indeed.com/viewjob?jk=807c7907a18a9346",
-      "status": "SKIPPED",
-      "notes": "Alta Advisors is a competitor fractional-CFO firm hiring CFOs for its own venture-backed-startup client portfolio."
+      "id": "linkedin-4291163140",
+      "title": "Fractional CFO - B.O.",
+      "url": "https://www.linkedin.com/jobs/view/fractional-cfo---b.o.-at-fica-boost-4291163140",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12",
+      "query": "site:linkedin.com/jobs \"fractional CFO\""
     }
-  ]
+  ],
+  "note": "DDG (search.py) blocked - 0/31 queries. WebSearch fallback used per README workaround."
 }

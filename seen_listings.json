@@ -1,6 +1,6 @@
 {
-  "last_scan": "2026-06-11",
-  "total_seen": 174,
+  "last_scan": "2026-06-12",
+  "total_seen": 191,
   "seen": [
     {
       "id": "linkedin-4379881837",
@@ -1309,6 +1309,125 @@
       "portal": "Indeed",
       "status": "SKIPPED",
       "first_seen": "2026-06-11"
+    },
+    {
+      "id": "jobleads-senecasense-fractional-cfo-capital-raising",
+      "company": "Seneca Sense Technologies",
+      "title": "Fractional CFO & Capital-Raising Strategist",
+      "portal": "JobLeads",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "linkedin-4225905922",
+      "company": "FocusCFO (competitor)",
+      "title": "Fractional CFO at FocusCFO® (Greater Philadelphia)",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "linkedin-4423556968",
+      "company": "Lucrum Advisors (competitor CFO firm)",
+      "title": "Fractional CFO as Cross-Channel Partner",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "lever-ghj-interim-cfo-7950624c",
+      "company": "GHJ (accounting firm, unnamed client placement)",
+      "title": "Interim Chief Financial Officer",
+      "portal": "lever",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "lever-ghj-cfo-1b59f673",
+      "company": "GHJ (competitor CFO services firm)",
+      "title": "Chief Financial Officer",
+      "portal": "lever",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "lever-daoshub-cfo-6cc847bf",
+      "company": "Daos Hub (crypto/Web3)",
+      "title": "CFO (Web3/DAO hub, Dubai)",
+      "portal": "lever",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "weworkremotely-blossom-cfo",
+      "company": "Blossom (fintech for credit unions)",
+      "title": "Chief Financial Officer (fintech, full-time)",
+      "portal": "WeWorkRemotely",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "linkedin-4391145353",
+      "company": "FICA Boost (recruiter spam - business opportunity)",
+      "title": "Fractional COO-CFO-CEO > Business Opportunity",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "linkedin-4378060039",
+      "company": "FICA Boost (recruiter spam - business opportunity)",
+      "title": "Fractional CEO-CFO-COO - Business Opportunity",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "linkedin-4397472456",
+      "company": "FICA Boost (recruiter spam - business opportunity)",
+      "title": "Fractional COO-CEO-CFO + Business Opportunity",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "linkedin-4294485867",
+      "company": "FICA Boost (recruiter spam - business opportunity)",
+      "title": "Fractional CFO/CEO/COO with C-Level Connections for Business Opportunity",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "linkedin-4295503491",
+      "company": "FICA Boost (recruiter spam - business opportunity)",
+      "title": "Connected Fractional COO/CEO/CFO - Business Opportunity",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "linkedin-4293926679",
+      "company": "FICA Boost (recruiter spam - business opportunity)",
+      "title": "Fractional CFO/COO/CEO for Business Opportunity",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "linkedin-4412627119",
+      "company": "FICA Boost (recruiter spam - business opportunity)",
+      "title": "Fractional COO/CFO > B.O.",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "linkedin-4279491404",
+      "company": "FICA Boost (recruiter spam - business opportunity)",
+      "title": "Connected Fractional CFO",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "linkedin-4314345141",
+      "company": "FICA Boost (recruiter spam - business opportunity)",
+      "title": "Fractional CFO - Connector",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12"
+    },
+    {
+      "id": "linkedin-4291163140",
+      "company": "FICA Boost (recruiter spam - business opportunity)",
+      "title": "Fractional CFO - B.O.",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-12"
     }
   ]
 }
