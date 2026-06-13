@@ -1,5 +1,38 @@
 {
   "date": "2026-06-13",
-  "new_count": 0,
-  "results": []
+  "new_count": 4,
+  "results": [
+    {
+      "id": "reed-56347870",
+      "title": "Fractional CFO / FD / FC portfolio - Divestment / Exits Baby boom",
+      "url": "https://www.reed.co.uk/jobs/fractional-cfo-fd-fc-portfolio-divestment-exits-baby-boom/56347870",
+      "portal": "Reed",
+      "first_seen": "2026-06-13",
+      "query": "site:reed.co.uk \"fractional CFO\" OR \"part-time finance"
+    },
+    {
+      "id": "url-idealist-sound-future-foundation-cfo",
+      "title": "Fractional CFO at Sound Future Foundation",
+      "url": "https://www.idealist.org/en/nonprofit-job/af210d268174461a9a45f283df6a3e89-fractional-cfo-sound-future-foundation-charlottesville",
+      "portal": "Idealist",
+      "first_seen": "2026-06-13",
+      "query": "site:apply.workable.com \"fractional CFO\""
+    },
+    {
+      "id": "jobleads-focuscfo-partner-growth-smbs-alexandria",
+      "title": "Fractional CFO - Partner for Growth in SMBs (FocusCFO)",
+      "url": "https://www.jobleads.com/us/job/fractional-cfo-partner-for-growth-in-smbs--alexandria--efbc8f5757e14e4113b78dc9cdd9e962c",
+      "portal": "JobLeads",
+      "first_seen": "2026-06-13",
+      "query": "site:simplyhired.com \"fractional CFO\" remote"
+    },
+    {
+      "id": "jobleads-talisman-stabilize-scale-finance-ops-riverside",
+      "title": "Fractional CFO: Stabilize & Scale Finance Ops",
+      "url": "https://www.jobleads.com/us/job/fractional-cfo-stabilize-scale-finance-ops--riverside--e99a2ba491f8aba1bb196221a0d6284d4",
+      "portal": "JobLeads",
+      "first_seen": "2026-06-13",
+      "query": "site:simplyhired.com \"fractional CFO\" remote"
+    }
+  ]
 }

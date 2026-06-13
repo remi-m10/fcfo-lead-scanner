@@ -1,6 +1,6 @@
 {
   "last_scan": "2026-06-13",
-  "total_seen": 191,
+  "total_seen": 195,
   "seen": [
     {
       "id": "linkedin-4379881837",
@@ -1428,6 +1428,38 @@
       "title": "Fractional CFO - B.O.",
       "portal": "LinkedIn",
       "first_seen": "2026-06-12"
+    },
+    {
+      "id": "reed-56347870",
+      "company": "RTNA Group (recruiter, unnamed portfolio clients)",
+      "title": "Fractional CFO / FD / FC portfolio - Divestment / Exits Baby boom",
+      "portal": "Reed",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-13"
+    },
+    {
+      "id": "url-idealist-sound-future-foundation-cfo",
+      "company": "Sound Future Foundation",
+      "title": "Fractional CFO",
+      "portal": "Idealist",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-13"
+    },
+    {
+      "id": "jobleads-focuscfo-partner-growth-smbs-alexandria",
+      "company": "FocusCFO (competitor)",
+      "title": "Fractional CFO - Partner for Growth in SMBs",
+      "portal": "JobLeads",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-13"
+    },
+    {
+      "id": "jobleads-talisman-stabilize-scale-finance-ops-riverside",
+      "company": "Talisman (unverified, ~$28M industrial manufacturer)",
+      "title": "Fractional CFO: Stabilize & Scale Finance Ops",
+      "portal": "JobLeads",
+      "status": "FLAGGED",
+      "first_seen": "2026-06-13"
     }
   ]
 }
