@@ -31,3 +31,14 @@ Step 3 must go through WebSearch too. WebSearch fallback found 22 new IDs;
 firms recruiting their own bench, staffing agencies for unnamed clients, or
 expired/old postings (all logged as SKIPPED). 1 new PIPELINE lead (Upwork
 digital marketing agency).
+
+**2026-06-14:** Same DDG 403 block (curl to html.duckduckgo.com -> 403).
+WebSearch fallback (split across two parallel sub-agents covering all 31
+queries) found 6 new IDs. 0 PIPELINE: 5 SKIPPED (Huzzle cross-post of an
+already-triaged Workable listing, OneTwenty Fi and Ascent CFO Solutions
+both recruiting their own fractional-CFO bench, E78 Talent staffing for an
+unnamed PE-backed manufacturing client, Myriad Genetics large regulated
+public company - none fit the target profile). 1 FLAGGED: "Fractional CFO
+- Fundraising & Growth (Equity Only)" at Client Link LLC (LinkedIn) -
+generic/placeholder-style company name and equity-only comp made fit
+uncertain.

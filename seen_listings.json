@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-06-13",
+  "last_scan": "2026-06-14",
   "total_seen": 195,
   "seen": [
     {
@@ -1460,6 +1460,48 @@
       "portal": "JobLeads",
       "status": "FLAGGED",
       "first_seen": "2026-06-13"
+    },
+    {
+      "id": "linkedin-4425140284",
+      "company": "Client Link LLC",
+      "title": "Fractional CFO – Fundraising & Growth (Equity Only)",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-14"
+    },
+    {
+      "id": "remotive-3962443",
+      "company": "Huzzle",
+      "title": "Fractional CFO [Remotive cross-post, Digital Marketing Agency]",
+      "portal": "Remotive",
+      "first_seen": "2026-06-14"
+    },
+    {
+      "id": "himalayas-onetwentyfi-general-interest",
+      "company": "OneTwenty Fi",
+      "title": "General Interest Application [fractional CFO firm bench]",
+      "portal": "Himalayas",
+      "first_seen": "2026-06-14"
+    },
+    {
+      "id": "builtin-ascentcfo-3945047",
+      "company": "Ascent CFO Solutions",
+      "title": "Fractional CFO - Denver, CO [Built In, competitor bench]",
+      "portal": "BuiltIn",
+      "first_seen": "2026-06-14"
+    },
+    {
+      "id": "linkedin-4387426853",
+      "company": "E78 Talent",
+      "title": "Interim CFO - Torrance, CA [PE-backed manufacturing, unnamed client]",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-14"
+    },
+    {
+      "id": "weworkremotely-myriadgenetics-interim-chiefofstaff",
+      "company": "Myriad Genetics",
+      "title": "Remote Interim Chief of Staff, Finance (Contract)",
+      "portal": "WeWorkRemotely",
+      "first_seen": "2026-06-14"
     }
   ]
 }

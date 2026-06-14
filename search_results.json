@@ -1,38 +1,54 @@
 {
-  "date": "2026-06-13",
-  "new_count": 4,
+  "date": "2026-06-14",
+  "new_count": 6,
   "results": [
     {
-      "id": "reed-56347870",
-      "title": "Fractional CFO / FD / FC portfolio - Divestment / Exits Baby boom",
-      "url": "https://www.reed.co.uk/jobs/fractional-cfo-fd-fc-portfolio-divestment-exits-baby-boom/56347870",
-      "portal": "Reed",
-      "first_seen": "2026-06-13",
-      "query": "site:reed.co.uk \"fractional CFO\" OR \"part-time finance"
+      "id": "linkedin-4425140284",
+      "title": "Fractional CFO – Fundraising & Growth (Equity Only) - Client Link LLC",
+      "url": "https://www.linkedin.com/jobs/view/fractional-cfo-%E2%80%93-fundraising-growth-equity-only-at-client-link-llc-4425140284",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-14",
+      "query": "site:linkedin.com/jobs \"fractional CFO\""
     },
     {
-      "id": "url-idealist-sound-future-foundation-cfo",
-      "title": "Fractional CFO at Sound Future Foundation",
-      "url": "https://www.idealist.org/en/nonprofit-job/af210d268174461a9a45f283df6a3e89-fractional-cfo-sound-future-foundation-charlottesville",
-      "portal": "Idealist",
-      "first_seen": "2026-06-13",
-      "query": "site:apply.workable.com \"fractional CFO\""
+      "id": "remotive-3962443",
+      "title": "[Hiring] Fractional CFO @Huzzle (cross-post of Digital Marketing Agency role)",
+      "url": "https://remotive.com/remote/jobs/finance/fractional-cfo-3962443",
+      "portal": "Remotive",
+      "first_seen": "2026-06-14",
+      "query": "site:remotive.com \"fractional CFO\" finance"
     },
     {
-      "id": "jobleads-focuscfo-partner-growth-smbs-alexandria",
-      "title": "Fractional CFO - Partner for Growth in SMBs (FocusCFO)",
-      "url": "https://www.jobleads.com/us/job/fractional-cfo-partner-for-growth-in-smbs--alexandria--efbc8f5757e14e4113b78dc9cdd9e962c",
-      "portal": "JobLeads",
-      "first_seen": "2026-06-13",
-      "query": "site:simplyhired.com \"fractional CFO\" remote"
+      "id": "himalayas-onetwentyfi-general-interest",
+      "title": "OneTwenty Fi hiring General Interest Application (fractional CFO firm bench)",
+      "url": "https://himalayas.app/companies/onetwenty-fi/jobs/general-interest-application",
+      "portal": "Himalayas",
+      "first_seen": "2026-06-14",
+      "query": "site:himalayas.app \"fractional CFO\""
     },
     {
-      "id": "jobleads-talisman-stabilize-scale-finance-ops-riverside",
-      "title": "Fractional CFO: Stabilize & Scale Finance Ops",
-      "url": "https://www.jobleads.com/us/job/fractional-cfo-stabilize-scale-finance-ops--riverside--e99a2ba491f8aba1bb196221a0d6284d4",
-      "portal": "JobLeads",
-      "first_seen": "2026-06-13",
-      "query": "site:simplyhired.com \"fractional CFO\" remote"
+      "id": "builtin-ascentcfo-3945047",
+      "title": "Fractional CFO - Ascent CFO Solutions (Denver, CO)",
+      "url": "https://builtin.com/job/fractional-cfo/3945047",
+      "portal": "BuiltIn",
+      "first_seen": "2026-06-14",
+      "query": "\"fractional CFO\" \"consulting firm\" OR \"professional services\" job"
+    },
+    {
+      "id": "linkedin-4387426853",
+      "title": "E78 Talent hiring Interim CFO in Torrance, CA (PE-backed manufacturing, unnamed client)",
+      "url": "https://www.linkedin.com/jobs/view/interim-cfo-at-e78-talent-4387426853",
+      "portal": "LinkedIn",
+      "first_seen": "2026-06-14",
+      "query": "site:linkedin.com/jobs \"interim CFO\""
+    },
+    {
+      "id": "weworkremotely-myriadgenetics-interim-chiefofstaff",
+      "title": "Remote Interim Chief of Staff, Finance (Contract) at Myriad Genetics",
+      "url": "https://weworkremotely.com/remote-jobs/myriad-genetics-interim-chief-of-staff-finance-contract",
+      "portal": "WeWorkRemotely",
+      "first_seen": "2026-06-14",
+      "query": "site:weworkremotely.com CFO finance"
     }
   ]
 }
