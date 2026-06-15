@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-06-14",
+  "last_scan": "2026-06-15",
   "total_seen": 195,
   "seen": [
     {
@@ -1502,6 +1502,14 @@
       "title": "Remote Interim Chief of Staff, Finance (Contract)",
       "portal": "WeWorkRemotely",
       "first_seen": "2026-06-14"
+    },
+    {
+      "id": "wellfound-4109936",
+      "company": "Maze",
+      "title": "Fractional Chief Financial Officer (CFO) [Wellfound cross-post]",
+      "portal": "Wellfound",
+      "status": "SKIPPED",
+      "first_seen": "2026-06-15"
     }
   ]
 }

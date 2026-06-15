@@ -42,3 +42,10 @@ public company - none fit the target profile). 1 FLAGGED: "Fractional CFO
 - Fundraising & Growth (Equity Only)" at Client Link LLC (LinkedIn) -
 generic/placeholder-style company name and equity-only comp made fit
 uncertain.
+
+**2026-06-15:** Same DDG 403 block (curl to html.duckduckgo.com -> 403).
+WebSearch fallback (split across two parallel sub-agents covering all 31
+queries) found ~50 candidate postings; all but 1 were cross-posts already
+in seen_listings.json. The 1 new ID (wellfound-4109936) is itself a
+cross-post of the already-triaged Maze listing (Series B SaaS, SKIPPED).
+0 PIPELINE, 0 FLAGGED, 1 SKIPPED.
