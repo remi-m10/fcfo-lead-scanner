@@ -1,9 +1,9 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 0 new leads - 2026-06-09
+Subject: fCFO Scanner: 0 new leads - 2026-06-16
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-06-09
-31 queries across 20+ platforms | 111 total seen listings
+fCFO Lead Scanner — 2026-06-16
+31 queries across 20+ platforms | 202 total seen listings
 Note: DuckDuckGo blocked again (0/31 queries returned results).
       Outbound network access to external sites is not permitted
       in this execution environment.
@@ -136,5 +136,11 @@ From 2026-04-24 scan:
      URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-sentrysix-international
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Total seen listings: 111 | Next scan: 2026-06-10
+⚠ RECURRING ISSUE: Search returning 0 results every scan.
+  DuckDuckGo appears to be rate-limiting or blocking requests
+  from this execution environment. Consider switching search.py
+  to use a different approach (e.g. SerpAPI, Brave Search API,
+  or a residential proxy) to restore lead discovery.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Total seen listings: 202 | Next scan: 2026-06-17
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

@@ -1,16 +1,5 @@
 {
-  "date": "2026-06-15",
-  "new_count": 1,
-  "results": [
-    {
-      "id": "wellfound-4109936",
-      "title": "Fractional Chief Financial Officer (CFO)",
-      "url": "https://wellfound.com/jobs/4109936-fractional-chief-financial-officer-cfo",
-      "portal": "Wellfound",
-      "first_seen": "2026-06-15",
-      "query": "site:wellfound.com/jobs \"fractional CFO\" (WebSearch fallback)",
-      "triage": "SKIPPED - cross-post of Maze (Series B SaaS company), already triaged as SKIPPED via fractionaljobs.io/Remotive/AshbyHQ"
-    }
-  ],
-  "note": "search.py: DDG blocked (403) across all 31 queries, 0 results. WebSearch fallback across all 31 queries (2 parallel sub-agents) found ~50 candidate postings; all but 1 were cross-posts/already in seen_listings.json. The 1 new ID (wellfound-4109936) is itself a cross-post of the already-triaged Maze listing."
+  "date": "2026-06-16",
+  "new_count": 0,
+  "results": []
 }
