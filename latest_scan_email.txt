@@ -1,146 +1,64 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 0 new leads - 2026-06-16
+Subject: fCFO Scanner: 4 new leads - 2026-06-22
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-06-16
-31 queries across 20+ platforms | 202 total seen listings
-Note: DuckDuckGo blocked again (0/31 queries returned results).
-      Outbound network access to external sites is not permitted
-      in this execution environment.
+fCFO Lead Scanner — 2026-06-22
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUMMARY: 0 PIPELINE | 0 FLAGGED | 0 SKIPPED today
-No new listings found.
+PIPELINE (1)
+------------
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⚠ STALE LEAD ALERT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. West Hive Capital — Fractional CFO
+   Portal: FractionalJobs.io
+   URL: https://www.fractionaljobs.io/jobs/chief-finance-officer-at-west-hive-capital
+   Notes: Private equity real estate firm specializing in shopping center
+   acquisition and repositioning across California and high-growth markets.
+   Founded 2022, founder-led, no existing CFO. Role covers financial modeling,
+   underwriting of acquisitions, capital stack analysis, and investor-facing
+   reporting. Flexible part-time structure. Strong fit — entrepreneurial firm,
+   direct hire, real estate services (not regulated finance).
 
-  CONTOURAL (carry-forward PIPELINE from 2026-04-07 scan) was
-  originally posted September 2, 2025 on fractionaljobs.io —
-  now 9+ months old, well past the 3-month threshold. Recommend
-  verifying if the role is still active before outreach.
-  URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-contoural
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CARRY-FORWARD PIPELINE REMINDER (active leads from prior scans)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FLAGGED (3)
+-----------
 
-From 2026-05-07 scan:
+1. Anonymous — Fractional CFO (Retail Apparel Chain)
+   Portal: FractionalJobs.io
+   URL: https://www.fractionaljobs.io/
+   Posted: June 19, 2026
+   Notes: $180-250/hr, 8-25 hrs/week, remote USA only. Company name withheld
+   — could be a good fit if it's founder-led retail, but can't verify without
+   contacting FractionalJobs directly.
 
-  1. CONTOURAL — Fractional CFO (fractionaljobs.io) ⚠ SEE STALE ALERT ABOVE
-     Information Governance, Privacy & AI Governance consulting firm.
-     Los Altos, CA (fully remote). 11–50 employees. Clients include
-     30%+ of the Fortune 500 plus mid-market. CEO: Mark Diamond
-     (industry thought leader, 25+ yrs). COO: Tom Mighell. No existing
-     CFO — will be the primary financial resource. ~20 hrs/week,
-     hourly contractor. Classic consulting/professional services ICP.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-contoural
+2. Anonymous — Fractional CFO (Funds-distribution Govtech Service)
+   Portal: FractionalJobs.io
+   URL: https://www.fractionaljobs.io/
+   Posted: June 17, 2026
+   Notes: $8K-15K/mo, 20 hrs/week, remote USA/Canada. Govtech is borderline
+   — could be interesting if the company is a startup rather than a government
+   contractor. Company name withheld.
 
-From 2026-04-13 scan:
+3. Zest Health — Fractional CFO / Controller
+   Portal: Go Fractional
+   URL: https://www.gofractional.com/job/breezy-fractional-cfo-controller-at-zest-health
+   Notes: Dermatology health-tech startup, $13M seed round, Roivant ecosystem.
+   Hybrid CFO/Controller role. Healthcare-adjacent (value-based care model for
+   psoriasis/eczema). Flagged because health-tech may be too regulated or too
+   VC/startup-oriented, but the need for financial leadership is real. 2M+ lives
+   under contract, rapid growth.
 
-  2. PURE STRATEGIES — Fractional CFO (fractionaljobs.io)
-     Sustainability consulting firm, founded 1998, Gloucester MA.
-     B Corp certified. ~$4M revenue, ~25 employees. Major brand clients
-     include Walmart, Colgate-Palmolive, Organic Valley, Seventh
-     Generation, Ben & Jerry's. ~1.5 days/week. No existing CFO.
-     Classic consulting firm ICP.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-pure-strategies
 
-  3. SQUADRON RPO — Fractional CFO (fractionaljobs.io)
-     Recruitment Process Outsourcing firm, San Francisco CA. ~21
-     employees. Building a new accounting and finance division.
-     Fractional CFO to lead financial strategy for newly formed
-     division. No existing CFO. Direct ICP match.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-squadron-rpo
+SKIPPED (5)
+-----------
+- Arootah: Staffing agency for alt investments (hedge funds, PE, family offices) — regulated finance + unnamed clients
+- Mento: Finance coaching role, not a CFO position
+- Aria CFO Advisors: Competitor fractional CFO firm hiring internal staff
+- Green Leaf Group: Director of Finance position already filled (March 2026)
+- Multi-location Fitness Brand: Posting from late 2024, older than 3 months
 
-From 2026-04-11 scan:
 
-  4. FOREIGN VENTURE GROUP — Fractional CFO (fractionaljobs.io)
-     Digital transformation & consulting firm (Toronto, Canada,
-     founded 2016). Services: digital marketing, data analytics,
-     web dev, business consulting, HR, government grants advisory.
-     No existing CFO. 5–10 hrs/week, remote. Strong ICP match.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-foreign-venture-group
-
-From 2026-04-07 scan:
-
-  5. PERFEOS — Fractional CFO (fractionaljobs.io)
-     Marketing/advertising agency, ~$1M revenue, 20 hrs/week.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-perfeos
-
-  6. APPJAXX — CFO / Fractional CFO (Indeed)
-     Marketing agency serving agencies + B2B, hyper-growth, zero CFO infra.
-     URL: https://www.indeed.com/cmp/Appjaxx/jobs/l-Remote
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CARRY-FORWARD FLAGGED (unresolved from prior scans)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-From 2026-05-14 scan:
-
-  1. COTES AI — Fractional CFO (fractionaljobs.io)
-     Posted: May 7, 2026. Remote (USA only). 10–20 hrs/week.
-     Very limited public presence — website (cotes.ai) returns
-     403, no Crunchbase/LinkedIn data found. Domain name and
-     fractionaljobs.io category suggest an early-stage AI startup,
-     but the exact product/service is unknown.
-     Flagged: Cannot verify industry or fit. If AI = SaaS/tech,
-     would be SKIPPED. If consulting/services layer on top of AI,
-     could qualify. Recommend a quick manual check of cotes.ai
-     before outreach.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-cotes-ai
-
-From 2026-05-12 scan:
-
-  2. PIXIS DRONES (via RedPeg Marketing) — Fractional Director of Finance & Operations
-     Drone light show company, Alexandria VA. ~13 employees. President:
-     Bernard Ozarowski. High-profile clients: NFL, Netflix, Warner Bros.,
-     McDonald's, NASCAR. Role seeks "fractional finance and accounting
-     leader who can operate as Pixis' internal finance department."
-     No existing CFO. Possible capital raise underway.
-     Flagged: Very small (~13 employees), niche vertical (drone events),
-     possibly connected to RedPeg as parent.
-     URL: https://www.jobtarget.com/jobs/jt-z10125t8ts/fractional-director-of-finance-and-operations-alexandria-virginia
-
-From 2026-05-09 scan:
-
-  3. THE PAD CLIMBING — Fractional CFO (fractionaljobs.io)
-     Climbing gym chain in rapid expansion. Brick-and-mortar,
-     membership-based. Multiple locations. 1–2 days/month (potentially
-     more); $2,000–$7,000/month. Fully remote.
-     Flagged: Founder-led fitness/leisure, niche brick-and-mortar vertical.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-the-pad-climbing
-
-From 2026-05-07 scan:
-
-  4. DESTIFY — Fractional CFO (fractionaljobs.io)
-     Destination wedding planning platform. Chicago, IL. ~69 employees,
-     ~$15M revenue. Founder-led: Alex Zatvor (Founder & CEO). No existing
-     CFO. 10–20 hrs/week.
-     Flagged: Travel/hospitality vertical, but founder-led with zero CFO infra.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-destify
-
-From 2026-04-24 scan:
-
-  5. A VIRTUAL LAW FIRM — Fractional CFO (fractionaljobs.io)
-     Remote. 3–6 hrs/week. Posted April 21, 2026. Anonymous listing.
-     Flagged: Identity unconfirmed.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-a-virtual-law-firm
-
-  6. SENTRYSIX INTERNATIONAL — Fractional CFO (fractionaljobs.io)
-     Austin, TX (remote). 2–7 hrs/week. Veteran-owned private security &
-     risk management firm. CEO: Zach Rice (USAF veteran). ~80 employees,
-     ~$6–7M revenue. No existing CFO.
-     Flagged: Niche domain (security/defense), low hours.
-     URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-sentrysix-international
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⚠ RECURRING ISSUE: Search returning 0 results every scan.
-  DuckDuckGo appears to be rate-limiting or blocking requests
-  from this execution environment. Consider switching search.py
-  to use a different approach (e.g. SerpAPI, Brave Search API,
-  or a residential proxy) to restore lead discovery.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Total seen listings: 202 | Next scan: 2026-06-17
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SCAN NOTES
+----------
+- DuckDuckGo HTML scraper blocked by network egress policy; used web search API as fallback
+- 31 query categories scanned across LinkedIn, Indeed, Glassdoor, Wellfound, Remotive, Himalayas, Greenhouse, Lever, Workable, FractionalJobs.io, Go Fractional, SimplyHired, and others
+- 211 total listings tracked in seen_listings.json (9 new added today, 4 surfaced after triage)
