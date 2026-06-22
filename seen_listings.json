@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-06-21",
+  "last_scan": "2026-06-22",
   "total_seen": 195,
   "seen": [
     {
@@ -1510,6 +1510,69 @@
       "portal": "Wellfound",
       "status": "SKIPPED",
       "first_seen": "2026-06-15"
+    },
+    {
+      "id": "fractionaljobs-westhivecapital-cfo",
+      "company": "West Hive Capital",
+      "title": "Fractional CFO",
+      "portal": "fractionaljobs",
+      "first_seen": "2026-06-22"
+    },
+    {
+      "id": "fractionaljobs-retail-apparel-cfo-2026-06",
+      "company": "Anonymous (Retail Apparel Chain)",
+      "title": "Fractional CFO",
+      "portal": "fractionaljobs",
+      "first_seen": "2026-06-22"
+    },
+    {
+      "id": "fractionaljobs-govtech-funds-cfo-2026-06",
+      "company": "Anonymous (Govtech)",
+      "title": "Fractional CFO",
+      "portal": "fractionaljobs",
+      "first_seen": "2026-06-22"
+    },
+    {
+      "id": "gofractional-zesthealth-cfo",
+      "company": "Zest Health",
+      "title": "Fractional CFO / Controller",
+      "portal": "gofractional",
+      "first_seen": "2026-06-22"
+    },
+    {
+      "id": "arootah-frac-cfo-advisor",
+      "company": "Arootah",
+      "title": "Fractional CFO (Advisor Network)",
+      "portal": "himalayas",
+      "first_seen": "2026-06-22"
+    },
+    {
+      "id": "mento-finance-coach-vp",
+      "company": "Mento",
+      "title": "Finance Coach (VP+)",
+      "portal": "gofractional",
+      "first_seen": "2026-06-22"
+    },
+    {
+      "id": "aria-cfo-advisors-analyst",
+      "company": "Aria CFO Advisors",
+      "title": "Senior Financial Analyst",
+      "portal": "fractionaljobs",
+      "first_seen": "2026-06-22"
+    },
+    {
+      "id": "greenleaf-dof-filled",
+      "company": "Green Leaf Group",
+      "title": "Director of Finance",
+      "portal": "other",
+      "first_seen": "2026-06-22"
+    },
+    {
+      "id": "fractionaljobs-fitness-brand-cfo",
+      "company": "Multi-location Fitness Brand",
+      "title": "Fractional CFO",
+      "portal": "fractionaljobs",
+      "first_seen": "2026-06-22"
     }
   ]
 }
