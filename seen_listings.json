@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-07-09",
+  "last_scan": "2026-07-13",
   "total_seen": 195,
   "seen": [
     {
@@ -1573,6 +1573,41 @@
       "title": "Fractional CFO",
       "portal": "fractionaljobs",
       "first_seen": "2026-06-22"
+    },
+    {
+      "id": "fractionaljobs-destify-cfo",
+      "company": "Destify",
+      "title": "Fractional Chief Financial Officer at Destify",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "himalayas-optiml-fractional-cfo",
+      "company": "Optiml",
+      "title": "Fractional CFO [40-60%] at Optiml",
+      "portal": "himalayas.app",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "linkedin-trades-mosaic-cfo",
+      "company": "Trades Mosaic",
+      "title": "Fractional CFO at Trades Mosaic",
+      "portal": "LinkedIn",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "fractionaljobs-daily-driven-exotics-cfo",
+      "company": "Daily Driven Exotics",
+      "title": "Fractional CFO at Daily Driven Exotics",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "id": "fractionaljobs-fxswede-cfo",
+      "company": "Fxswede",
+      "title": "Fractional CFO / Finance and Operations at Fxswede",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-07-13"
     }
   ]
 }
