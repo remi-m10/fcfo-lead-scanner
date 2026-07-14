@@ -1,64 +1,100 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 4 new leads - 2026-06-22
+Subject: fCFO Scanner: 6 new leads - 2026-07-14
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-06-22
+fCFO Lead Scanner — 2026-07-14
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-PIPELINE (1)
+PIPELINE (2)
 ------------
 
-1. West Hive Capital — Fractional CFO
+1. Destify — Fractional CFO
    Portal: FractionalJobs.io
-   URL: https://www.fractionaljobs.io/jobs/chief-finance-officer-at-west-hive-capital
-   Notes: Private equity real estate firm specializing in shopping center
-   acquisition and repositioning across California and high-growth markets.
-   Founded 2022, founder-led, no existing CFO. Role covers financial modeling,
-   underwriting of acquisitions, capital stack analysis, and investor-facing
-   reporting. Flexible part-time structure. Strong fit — entrepreneurial firm,
-   direct hire, real estate services (not regulated finance).
+   URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-destify
+   Found: 2026-07-13
+   Notes: North America's leading destination wedding platform (founded 2012,
+   Chicago IL). Part-time 10–20 hrs/week, works directly with COO and Revenue
+   team to optimize financial performance, manage risk, and drive profitability.
+   No existing CFO mentioned. Founder-led travel/hospitality company — not
+   regulated finance. Strong fit for fractional engagement.
+
+2. Daily Driven Exotics — Fractional CFO
+   Portal: FractionalJobs.io
+   URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-daily-driven-exotics
+   Also: https://ca.linkedin.com/jobs/view/fractional-cfo-at-daily-driven-exotics-4359033080
+   Found: 2026-07-13
+   Notes: Creator economy automotive media brand (YouTube/social), Canada-based.
+   Revenue from advertising, brand partnerships, merchandise, and live events —
+   in active scaling phase. Seeking fractional CFO to build financial systems
+   and manage multiple revenue streams. Founder-led, no existing CFO. Good fit
+   — media/content business, not fintech or regulated.
 
 
-FLAGGED (3)
+FLAGGED (4)
 -----------
 
-1. Anonymous — Fractional CFO (Retail Apparel Chain)
+1. Trades Mosaic — Fractional CFO
+   Portal: LinkedIn
+   URL: https://www.linkedin.com/jobs/view/fractional-cfo-at-trades-mosaic
+   Found: 2026-07-13
+   Notes: Acquisition platform consolidating HVAC, plumbing, electrical, and
+   mechanical trades businesses across Mid-Atlantic/Southeast US. 4 operating
+   brands, active acquisition pipeline. Remote (East Coast preferred), 1099
+   engagement 20–40 hrs/month. Monthly retainer + milestone bonuses + equity.
+   Flagged: PE/acquisition rollup profile — not a typical founder-led services
+   firm. Requires specific M&A/lender experience in home services trades.
+   Could be interesting if comfortable with multi-entity acquisition structures.
+
+2. Fxswede — Fractional CFO / Finance and Operations
    Portal: FractionalJobs.io
-   URL: https://www.fractionaljobs.io/
-   Posted: June 19, 2026
-   Notes: $180-250/hr, 8-25 hrs/week, remote USA only. Company name withheld
-   — could be a good fit if it's founder-led retail, but can't verify without
-   contacting FractionalJobs directly.
+   URL: https://www.fractionaljobs.io/jobs/chief-finance-officer-at-fxswede
+   Also: https://citizenremote.com/digital-nomad-jobs/fxswede/fractional-cfo-finance-and-operations-549007/
+   Found: 2026-07-13
+   Notes: Fast-growing e-commerce and product development company, Stockholm
+   Sweden (founded 2016, remote-first). Distributes consumer products through
+   major US retail grocery chains — requires deep EDI/non-EDI invoicing and
+   US retail grocery expertise. Flagged: very specific niche experience
+   requirement (EDI, retail grocery, vendor compliance). Could be a fit if you
+   have CPG/retail distribution background; pass otherwise.
 
-2. Anonymous — Fractional CFO (Funds-distribution Govtech Service)
-   Portal: FractionalJobs.io
-   URL: https://www.fractionaljobs.io/
-   Posted: June 17, 2026
-   Notes: $8K-15K/mo, 20 hrs/week, remote USA/Canada. Govtech is borderline
-   — could be interesting if the company is a startup rather than a government
-   contractor. Company name withheld.
+3. FutureSight — Fractional CFO
+   Portal: Workable
+   URL: https://apply.workable.com/futuresight/j/4B7FECA2E8
+   Also: https://bebee.com/ca/jobs/remote-fractional-cfo-chief-financial-officer-futuresight-saint-basile-le-grand--talent-623140806743951776
+   Posted: 2026-05-15 (2 months ago — within 3-month window)
+   Notes: B2B AI venture studio, Toronto / Remote Canada. Cofounds and invests
+   in portfolio companies while running a fund with LPs. Role covers fund
+   accounting, LP reporting, US + Canadian tax compliance, treasury, insurance,
+   and overseeing a small finance/accounting team. Flagged: complex dual
+   structure (fund + management company + portfolio ventures), LP reporting
+   obligations may touch regulated finance territory. Role requires 10+ years
+   senior financial leadership. Interesting if you're comfortable with
+   fund/VC-adjacent structures.
 
-3. Zest Health — Fractional CFO / Controller
-   Portal: Go Fractional
-   URL: https://www.gofractional.com/job/breezy-fractional-cfo-controller-at-zest-health
-   Notes: Dermatology health-tech startup, $13M seed round, Roivant ecosystem.
-   Hybrid CFO/Controller role. Healthcare-adjacent (value-based care model for
-   psoriasis/eczema). Flagged because health-tech may be too regulated or too
-   VC/startup-oriented, but the need for financial leadership is real. 2M+ lives
-   under contract, rapid growth.
+4. REEP Corp / Reep Residential — Fractional Vice President of Finance
+   Portal: Fractional Pulse
+   URL: https://fractionalpulse.com/jobs/reep-residential-reep-corp-fractional-vice-president-of-finance-510e74/
+   Found: 2026-07-14
+   Notes: Residential real estate company, Texas. Fractional VP Finance role,
+   estimated 10–20 hours/week. Flagged: (a) real estate sector — finance-
+   adjacent; (b) VP Finance title, not CFO; (c) posting date unclear on
+   Fractional Pulse. Worth checking if you have real estate / PropTech
+   experience, but lower priority than PIPELINE items.
 
 
-SKIPPED (5)
+SKIPPED (2)
 -----------
-- Arootah: Staffing agency for alt investments (hedge funds, PE, family offices) — regulated finance + unnamed clients
-- Mento: Finance coaching role, not a CFO position
-- Aria CFO Advisors: Competitor fractional CFO firm hiring internal staff
-- Green Leaf Group: Director of Finance position already filled (March 2026)
-- Multi-location Fitness Brand: Posting from late 2024, older than 3 months
+- Optiml: Duplicate re-listing of April 2026 entry (himalayas.app, tech/proptech
+  platform). Already processed.
+- Mission Edge: Already marked SKIPPED in database — nonprofit that operates as
+  a fractional CFO provider itself (competitor).
 
 
 SCAN NOTES
 ----------
-- DuckDuckGo HTML scraper blocked by network egress policy; used web search API as fallback
-- 31 query categories scanned across LinkedIn, Indeed, Glassdoor, Wellfound, Remotive, Himalayas, Greenhouse, Lever, Workable, FractionalJobs.io, Go Fractional, SimplyHired, and others
-- 211 total listings tracked in seen_listings.json (9 new added today, 4 surfaced after triage)
+- DuckDuckGo HTML scraper blocked by network egress policy (HTTP 403 from proxy);
+  used web search API as fallback across all 31 query categories.
+- Sources checked: FractionalJobs.io, Fractional Pulse, LinkedIn, Glassdoor,
+  Indeed, Workable, Himalayas, fractionalpulse.com, BeBee, Citizen Remote.
+- 218 total listings tracked in seen_listings.json (6 new surfaced today).
+- 2 PIPELINE leads ready for outreach, 4 FLAGGED for your review.

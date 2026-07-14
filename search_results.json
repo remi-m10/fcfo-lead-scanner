@@ -1,7 +1,6 @@
 {
-  "date": "2026-07-13",
-  "new_count": 5,
-  "scan_method": "WebSearch fallback (DuckDuckGo blocked by proxy egress policy)",
+  "date": "2026-07-14",
+  "new_count": 6,
   "results": [
     {
       "id": "fractionaljobs-destify-cfo",
@@ -9,41 +8,8 @@
       "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-destify",
       "portal": "fractionaljobs.io",
       "first_seen": "2026-07-13",
-      "triage": "PIPELINE",
-      "company": "Destify",
-      "industry": "Destination weddings / travel technology",
-      "size": "51-200 employees",
-      "geo": "US (remote)",
-      "hours": "10-20 hrs/week",
-      "notes": "Founder-led destination wedding tech company. No existing CFO. Works with Revenue team and COO on financial performance, risk management, and profitability."
-    },
-    {
-      "id": "himalayas-optiml-fractional-cfo",
-      "title": "Fractional CFO [40-60%] at Optiml",
-      "url": "https://himalayas.app/companies/optiml/jobs/fractional-cfo-40-60-remote",
-      "portal": "himalayas.app",
-      "first_seen": "2026-07-13",
-      "triage": "PIPELINE",
-      "company": "Optiml",
-      "industry": "PropTech / AI real estate software",
-      "size": "Seed-stage (ETH Zurich spin-off, €8M seed from KOMPAS, Planet A, Innovation Endeavors)",
-      "geo": "Remote (HQ Switzerland, subs Germany + UK)",
-      "hours": "40-60% FTE",
-      "notes": "Launched product April 2024, scaling Europe/US. Needs CFO to build financial OS across 3 entities. Founder-led, no existing CFO."
-    },
-    {
-      "id": "linkedin-trades-mosaic-cfo",
-      "title": "Fractional CFO at Trades Mosaic",
-      "url": "https://www.linkedin.com/company/trades-mosaic",
-      "portal": "LinkedIn",
-      "first_seen": "2026-07-13",
-      "triage": "PIPELINE",
-      "company": "Trades Mosaic",
-      "industry": "Acquisition platform / trades businesses (HVAC, plumbing, electrical)",
-      "size": "Early stage",
-      "geo": "Mid-Atlantic and Southeast US",
-      "compensation": "$5,000-$10,000/month",
-      "notes": "Acquisition platform scaling trades businesses. Seeking fCFO to build financial infrastructure for growth and acquisitions. Founder-led, no existing CFO."
+      "query": "site:fractionaljobs.io CFO",
+      "triage": "PIPELINE"
     },
     {
       "id": "fractionaljobs-daily-driven-exotics-cfo",
@@ -51,23 +17,44 @@
       "url": "https://www.fractionaljobs.io/jobs/chief-financial-officer-at-daily-driven-exotics",
       "portal": "fractionaljobs.io",
       "first_seen": "2026-07-13",
-      "triage": "FLAGGED",
-      "company": "Daily Driven Exotics",
-      "industry": "Creator economy / automotive YouTube & social media brand",
-      "geo": "Canada",
-      "notes": "Posted June 2, 2026. Founder-led creator brand, multi-revenue stream (ads, merch, events). One source suggests role may already be filled — status unclear."
+      "query": "site:fractionaljobs.io CFO",
+      "triage": "PIPELINE"
+    },
+    {
+      "id": "linkedin-trades-mosaic-cfo",
+      "title": "Fractional CFO at Trades Mosaic",
+      "url": "https://www.linkedin.com/jobs/view/fractional-cfo-at-trades-mosaic",
+      "portal": "LinkedIn",
+      "first_seen": "2026-07-13",
+      "query": "fractional CFO South Africa Canada job",
+      "triage": "FLAGGED"
     },
     {
       "id": "fractionaljobs-fxswede-cfo",
       "title": "Fractional CFO / Finance and Operations at Fxswede",
-      "url": "https://citizenremote.com/digital-nomad-jobs/fxswede/fractional-cfo-finance-and-operations-549007/",
+      "url": "https://www.fractionaljobs.io/jobs/chief-finance-officer-at-fxswede",
       "portal": "fractionaljobs.io",
       "first_seen": "2026-07-13",
-      "triage": "FLAGGED",
-      "company": "Fxswede",
-      "industry": "Design / e-commerce (US retail grocery distribution)",
-      "geo": "Remote",
-      "notes": "Role titled CFO but scope is heavily operational — full-cycle invoicing, EDI, QuickBooks. Likely a Controller/Finance Manager engagement, not strategic CFO."
+      "query": "site:fractionaljobs.io CFO",
+      "triage": "FLAGGED"
+    },
+    {
+      "id": "workable-futuresight-4B7FECA2E8",
+      "title": "Fractional Chief Financial Officer at FutureSight",
+      "url": "https://apply.workable.com/futuresight/j/4B7FECA2E8",
+      "portal": "workable.com",
+      "first_seen": "2026-07-14",
+      "query": "fractional CFO Canada job",
+      "triage": "FLAGGED"
+    },
+    {
+      "id": "fractionalpulse-reep-corp-vp-finance",
+      "title": "Fractional Vice President of Finance at Reep Residential",
+      "url": "https://fractionalpulse.com/jobs/reep-residential-reep-corp-fractional-vice-president-of-finance-510e74/",
+      "portal": "fractionalpulse.com",
+      "first_seen": "2026-07-14",
+      "query": "site:fractionalpulse.com CFO job",
+      "triage": "FLAGGED"
     }
   ]
 }
