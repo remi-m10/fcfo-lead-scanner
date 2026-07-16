@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-07-15",
+  "last_scan": "2026-07-16",
   "total_seen": 195,
   "seen": [
     {
@@ -1624,6 +1624,94 @@
       "portal": "fractionalpulse.com",
       "first_seen": "2026-07-14",
       "status": "FLAGGED"
+    },
+    {
+      "id": "fractionaljobs-align-social-impact-cfo",
+      "company": "Align Social Impact",
+      "title": "Fractional Chief Financial Officer at Align Social Impact",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-07-16",
+      "status": "PIPELINE"
+    },
+    {
+      "id": "fractionaljobs-pad-climbing-cfo",
+      "company": "The Pad Climbing",
+      "title": "Fractional Chief Financial Officer at The Pad Climbing",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-07-16",
+      "status": "PIPELINE"
+    },
+    {
+      "id": "fractionaljobs-pure-strategies-cfo",
+      "company": "Pure Strategies",
+      "title": "Fractional Chief Financial Officer at Pure Strategies",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-07-16",
+      "status": "PIPELINE"
+    },
+    {
+      "id": "fractionaljobs-foreign-venture-group-cfo",
+      "company": "Foreign Venture Group",
+      "title": "Fractional Chief Financial Officer at Foreign Venture Group",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-07-16",
+      "status": "PIPELINE"
+    },
+    {
+      "id": "fractionaljobs-mashup-group-cfo",
+      "company": "MashUp Group (MashUp Ireland)",
+      "title": "Fractional Chief Financial Officer at MashUp Group",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-07-16",
+      "status": "FLAGGED"
+    },
+    {
+      "id": "fractionaljobs-west-hive-capital-cfo",
+      "company": "West Hive Capital",
+      "title": "Fractional Chief Financial Officer at West Hive Capital",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-07-16",
+      "status": "FLAGGED"
+    },
+    {
+      "id": "fractionalpulse-evolv-cfo-internal",
+      "company": "Evolv CFO",
+      "title": "Fractional CFO at Evolv CFO (competitor)",
+      "portal": "fractionalpulse.com",
+      "first_seen": "2026-07-16",
+      "status": "SKIPPED"
+    },
+    {
+      "id": "fractionaljobs-boutique-cfofirm-fpa",
+      "company": "A Boutique Fractional CFO Firm",
+      "title": "Fractional FP&A Lead at A Boutique Fractional CFO Firm",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-07-16",
+      "status": "SKIPPED"
+    },
+    {
+      "id": "fractionus-focused-energy-cfo",
+      "company": "Focused Energy",
+      "title": "Fractional CFO at Focused Energy (competitor model)",
+      "portal": "fractionus.com",
+      "first_seen": "2026-07-16",
+      "status": "SKIPPED"
+    },
+    {
+      "id": "fractionus-cfo-centre-canada",
+      "company": "The CFO Centre Canada",
+      "title": "Fractional CFO at The CFO Centre Canada (competitor)",
+      "portal": "fractionus.com",
+      "first_seen": "2026-07-16",
+      "status": "SKIPPED"
+    },
+    {
+      "id": "fractionaljobs-cpg-fb-retail-firm-cfo",
+      "company": "A CPG F&B and Retail-focused Services Firm",
+      "title": "Fractional CFO at A CPG F&B and Retail-focused Services Firm (competitor)",
+      "portal": "fractionaljobs.io",
+      "first_seen": "2026-07-16",
+      "status": "SKIPPED"
     }
   ]
 }
