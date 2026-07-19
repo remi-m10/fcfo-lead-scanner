@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-07-18",
+  "last_scan": "2026-07-19",
   "total_seen": 195,
   "seen": [
     {
@@ -1720,6 +1720,24 @@
       "portal": "wellfound",
       "first_seen": "2026-07-17",
       "status": "PIPELINE"
+    },
+    {
+      "id": "lever-visby-medical-fractional-cfo",
+      "company": "Visby Medical",
+      "title": "Fractional Chief Financial Officer at Visby Medical",
+      "portal": "lever.co",
+      "first_seen": "2026-07-19",
+      "status": "SKIPPED",
+      "notes": "Late-stage biotech PCR diagnostics. Audit committee, investor relations, capital markets focus. Regulated/specialized."
+    },
+    {
+      "id": "ashby-tem-fractional-cfo",
+      "company": "tem",
+      "title": "Fractional CFO (6-month contract) at tem",
+      "portal": "ashbyhq.com",
+      "first_seen": "2026-07-19",
+      "status": "SKIPPED",
+      "notes": "AI-native energy transaction infrastructure. $75M Series B (Lightspeed). 6-month contract, VC-backed, complex investor relations."
     }
   ]
 }
