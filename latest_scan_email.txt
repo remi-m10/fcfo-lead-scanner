@@ -1,126 +1,78 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 7 new leads - 2026-07-17
+Subject: fCFO Scanner: 3 new leads - 2026-07-20
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-07-17
-Coverage: July 15–17, 2026 (picks up from July 14 email)
+fCFO Lead Scanner — 2026-07-20
+Coverage: July 18–20, 2026 (picks up from July 17 email)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-PIPELINE (5)
+PIPELINE (0)
 ------------
-
-1. The Pad Climbing — Fractional CFO
-   Portal: FractionalJobs.io
-   URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-the-pad-climbing
-   Found: 2026-07-16
-   Notes: Multi-location climbing gym chain founded 2002, currently 2 facilities
-   (San Luis Obispo CA + Henderson NV) with a third in planning. Female-led,
-   founder-run. Seeking fractional CFO as they enter a rapid expansion phase —
-   the role is scoped at 2–5 hrs/week. Brick-and-mortar, membership-based
-   fitness business, not fintech/SaaS/regulated. Classic founder-led company
-   adding financial infrastructure for growth. Strong fit.
-
-2. Pure Strategies — Fractional CFO
-   Portal: FractionalJobs.io
-   URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-pure-strategies
-   Found: 2026-07-16
-   Notes: 25-year-old sustainability consulting firm that has helped Fortune 500s
-   and growth companies capture the business benefits of sustainability
-   (strategy, operations, products, supply chain). Professional services
-   company, ~1.5 days/week expected commitment. Not SaaS, fintech, or regulated
-   finance — it's a consulting practice. Solid fit for fractional engagement.
-
-3. Align Social Impact — Fractional CFO
-   Portal: FractionalJobs.io
-   URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-align-social-impact
-   Found: 2026-07-16
-   Notes: Consulting/advisory firm with global operations focused on community,
-   business, and social outcomes. Part-time up to 10 hrs/week, remote,
-   $85–$100/hr. Requires 10+ years financial leadership, deep understanding of
-   nonprofit and social impact finance. Caution: one search result suggested
-   the role may already be filled — worth checking. If active, fits criteria
-   (founder-led, no mentioned existing CFO, professional services). Niche
-   expertise in nonprofit finance may be a filter.
-
-4. Foreign Venture Group — Fractional CFO
-   Portal: FractionalJobs.io
-   URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-foreign-venture-group
-   Found: 2026-07-16
-   Notes: Digital transformation company helping SMEs scale quickly and
-   cost-effectively. Seeking fractional CFO contractor for FVG's own
-   organization (not for placement with clients). Professional services /
-   technology consulting — not a regulated financial firm. Geography unclear.
-   Smaller company, founder-led profile. Note the phrasing "fractional CFO
-   contractors" — confirm the engagement is direct with FVG, not a placement
-   arrangement.
-
-5. ArcHaus — Fractional CFO, Path to Full-Time
-   Portal: Wellfound
-   URL: https://wellfound.com/jobs/4463451-fractional-cfo-path-to-full-time
-   Location: New York City / Remote
-   Found: 2026-07-17 (posted ~3 days ago)
-   Notes: NYC-based startup on Wellfound seeking a fractional CFO with a stated
-   path to full-time hire, suggesting early-stage with plans to scale. Company
-   appears to be an architecture/design studio or professional services startup.
-   Wellfound listing indicates venture/startup profile. "Path to full-time" is
-   unusual for fractional roles — could mean they anticipate revenue growth
-   that justifies a permanent hire, or they want someone to grow with the
-   company. Worth reviewing the listing for full detail. Not fintech/regulated.
-   New this scan.
+No new PIPELINE leads this scan.
 
 
-FLAGGED (2)
+FLAGGED (3)
 -----------
 
-1. MashUp Group (MashUp Ireland) — Fractional CFO
+1. Aspero Medical — Fractional CFO
    Portal: FractionalJobs.io
-   URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-mashup-group
-   Found: 2026-07-16
-   Notes: Dublin, Ireland-based investment group focused on Irish SMEs,
-   publicly listed on Nasdaq (Sweden). PE/investment firm that creates,
-   incubates, acquires, and turnarounds SME businesses and property assets.
-   Seeks hands-on fractional CFO for its own operations. Flagged because:
-   (a) Nasdaq-listed structure brings compliance obligations (financial
-   reporting, audits, investor relations) potentially outside standard
-   fractional scope; (b) PE/investment holding company rather than a
-   founder-led operating business; (c) Ireland-based. If comfortable
-   with listed-company finance and cross-border work, could be interesting.
+   URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-aspero-medical
+   Found: 2026-07-20
+   Notes: Medical device startup, spinout of the University of Colorado, Boulder
+   (2018), based in Broomfield CO. 9 staff, pre-profitable, investor- and
+   grant-funded. Seeking fractional CFO at ~20 hrs/month (mostly remote, with
+   occasional on-site in CO). Role covers accounting/finance ops, banking, cash
+   flow modeling, GAAP compliance, BOD packages, and investor updates. Flagged
+   because: (a) medical device sector has its own regulatory/financial reporting
+   norms (FDA, device classification, clinical-stage financials); (b) BOD and
+   investor relations suggest reporting complexity above typical fractional scope.
+   If you have experience with early-stage medtech or device company finance,
+   this is worth a look — otherwise, lower priority.
 
-2. West Hive Capital — Fractional CFO
-   Portal: FractionalJobs.io
-   URL: https://www.fractionaljobs.io/jobs/chief-finance-officer-at-west-hive-capital
-   Found: 2026-07-16
-   Notes: California-based private equity real estate firm (founded 2022)
-   that acquires, repositions, and manages retail shopping centers. Founder-
-   led by Kyle Gorman (construction management background, serial entrepreneur).
-   Completed $24.5M exit on first project. Now expanding. Flagged because:
-   (a) real estate investment / PE structure — finance-adjacent, may require
-   real estate accounting expertise (waterfall distributions, fund-level
-   reporting); (b) investor relationships may touch regulated territory.
-   If you have real estate PE or CRE experience, this could be a good fit.
-   Otherwise lower priority.
+2. Education Redefined Inc. — Founding CFO (Fractional or Full-Time)
+   Portal: LinkedIn
+   URL: https://www.linkedin.com/jobs/view/founding-cfo-%E2%80%94-fractional-or-full-time-at-education-redefined-inc-4436053181
+   Location: Austin, TX
+   Found: 2026-07-20 (posted ~2 weeks ago, ~July 6)
+   Notes: Early-stage edtech company seeking a Founding CFO. The "Fractional
+   or Full-Time" framing is common for very early-stage companies that need
+   executive finance leadership but haven't yet committed to a full-time hire.
+   No company website found in search, suggesting either very new or operating
+   quietly. Austin TX, so US-based. Flagged because: (a) company profile is
+   thin — unable to verify size, revenue stage, or founder background; (b) the
+   role could convert to full-time, which may or may not suit a fractional
+   engagement model. If you can verify the company and it's a founder-led
+   edtech startup pre-scale, this could move to PIPELINE.
+
+3. Anonymous — Fractional CFO (Consumer Goods Company)
+   Portal: GoFractional
+   URL: https://www.gofractional.com/job/fractional-chief-financial-officer-cmkmvb2g
+   Rate: $130–$230/hr | 10–25 hrs/week | Remote
+   Found: 2026-07-20 (posted July 13, 2026)
+   Notes: Anonymous company listed on GoFractional, described as a "Consumer
+   Goods Finance Company." Rate range and hour commitment are solid for a
+   fractional engagement. Flagged because: (a) company identity is masked —
+   unclear whether this is a consumer goods company seeking a CFO for its own
+   operations, or a financial services firm that serves consumer goods clients;
+   (b) the descriptor "Finance Company" in the label creates ambiguity. GoFractional
+   will reveal the company name to matched candidates. If consumer goods operating
+   company, this could be strong PIPELINE; if it's a finance/advisory firm for
+   unnamed clients, likely SKIPPED.
 
 
-SKIPPED (5)
------------
-- Evolv CFO (fractionalpulse.com): Competitor — fractional CFO provider itself.
-- A Boutique Fractional CFO Firm (fractionaljobs.io): Competitor — hiring
-  FP&A staff for their own fractional CFO practice.
-- Focused Energy (fractionus.com): Competitor model — fractional CFO firm.
-- The CFO Centre Canada (fractionus.com): Competitor — global fractional CFO
-  franchise, not a client.
-- A CPG, F&B, and Retail-focused Services Firm (fractionaljobs.io): Repeat
-  listing — already tracked and skipped in April/May 2026 (competitor model).
+SKIPPED (0 new)
+---------------
+No new SKIPPED items this scan. All results from DuckDuckGo scraper returned
+0 results (proxy blocked, HTTP 403). Web search API used as fallback.
 
 
 SCAN NOTES
 ----------
-- DuckDuckGo HTML scraper again blocked by proxy (HTTP 403). Web search API
-  used as primary fallback across all query categories.
-- This email covers July 15–17 (gap since July 14 email). July 16 entries were
-  found and classified in the database but not emailed; today's run surfaces
-  all unprocessed leads.
-- 230 total listings tracked in seen_listings.json (7 new actioned today).
-- ArcHaus (Wellfound) is the only net-new listing from today's scan; July 16
-  entries from the prior scraper run are the remaining 6.
-- 5 PIPELINE leads ready for review, 2 FLAGGED for consideration.
+- DuckDuckGo HTML scraper blocked by proxy (HTTP 403) — same issue as July 17.
+  Web search API used as primary fallback across all query categories.
+- This scan covers July 18–20 (3-day gap since July 17 email).
+- 235 total listings tracked in seen_listings.json (3 new actioned today).
+- No PIPELINE leads; 3 new FLAGGED leads requiring verification.
+- Reminder: 5 PIPELINE and 2 FLAGGED leads from the July 17 email are still
+  open for outreach (The Pad Climbing, Pure Strategies, Align Social Impact,
+  Foreign Venture Group, ArcHaus, MashUp Group, West Hive Capital).
