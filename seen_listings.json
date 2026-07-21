@@ -1,6 +1,6 @@
 {
-  "last_scan": "2026-07-20",
-  "total_seen": 195,
+  "last_scan": "2026-07-21",
+  "total_seen": 242,
   "seen": [
     {
       "id": "linkedin-4379881837",
@@ -1765,6 +1765,55 @@
       "first_seen": "2026-07-20",
       "status": "FLAGGED",
       "notes": "Posted July 13, 2026. $130-$230/hr, 10-25 hrs/week, remote. Company identity anonymous — 'Consumer Goods Finance Company'. Unclear if consumer goods firm or finance firm serving that sector."
+    },
+    {
+      "id": "gofractional-houndsy-cfo",
+      "company": "Houndsy",
+      "title": "Fractional CFO at Houndsy",
+      "portal": "GoFractional",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "securecare-omaha-fractional-cfo",
+      "company": "SecureCare",
+      "title": "Fractional CFO at SecureCare",
+      "portal": "Indeed/Glassdoor",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "gofractional-aphios-cfo",
+      "company": "Aphios Corporation",
+      "title": "Part-Time Fractional CFO at Aphios Corporation",
+      "portal": "GoFractional",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "workable-simply-nootropics-tmrw-group-cfo",
+      "company": "Simply Nootropics & TMRW",
+      "title": "Group CFO (Fractional) at Simply Nootropics & TMRW",
+      "portal": "Workable/GoFractional",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "ashbyhq-tem-fractional-cfo",
+      "company": "tem",
+      "title": "Fractional CFO (6-month contract) at tem",
+      "portal": "AshbyHQ",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "ashbyhq-10xteam-fractional-cfo",
+      "company": "10x Team",
+      "title": "Fractional CFO at 10x Team (marketplace)",
+      "portal": "AshbyHQ",
+      "first_seen": "2026-07-21"
+    },
+    {
+      "id": "gofractional-crews-co-cfo",
+      "company": "Crews & Co.",
+      "title": "Fractional CFO at Crews & Co. (competitor firm)",
+      "portal": "GoFractional",
+      "first_seen": "2026-07-21"
     }
   ]
 }
