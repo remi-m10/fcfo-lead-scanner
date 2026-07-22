@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-07-21",
+  "last_scan": "2026-07-22",
   "total_seen": 242,
   "seen": [
     {
@@ -1771,49 +1771,63 @@
       "company": "Houndsy",
       "title": "Fractional CFO at Houndsy",
       "portal": "GoFractional",
-      "first_seen": "2026-07-21"
+      "first_seen": "2026-07-21",
+      "status": "PIPELINE",
+      "notes": "D2C premium pet brand (dog feeders), Chicago IL. 4 employees, founder-led (Pavan Bapu & Luke Wilson). ~$15M lifetime revenue, pacing $15M in 2026. Raised $250K. No existing CFO. Fractional CFO to support unit economics, spend vs margin, channel profitability. Ideal fit: small founder-led consumer brand pre-scale."
     },
     {
       "id": "securecare-omaha-fractional-cfo",
       "company": "SecureCare",
       "title": "Fractional CFO at SecureCare",
       "portal": "Indeed/Glassdoor",
-      "first_seen": "2026-07-21"
+      "first_seen": "2026-07-21",
+      "status": "SKIPPED",
+      "notes": "URAC-accredited Independent Physicians Association (IPA), healthcare/insurance sector. Regulated finance — SKIP."
     },
     {
       "id": "gofractional-aphios-cfo",
       "company": "Aphios Corporation",
       "title": "Part-Time Fractional CFO at Aphios Corporation",
       "portal": "GoFractional",
-      "first_seen": "2026-07-21"
+      "first_seen": "2026-07-21",
+      "status": "FLAGGED",
+      "notes": "Emerging growth biotech (drug discovery, cancer/HIV/CNS), North Reading MA. Seeking part-time fractional CFO, posted on GoFractional. Biotech/pharma sector requires specialized financial reporting (clinical-stage, FDA, grant accounting). Flagged: strong fit if Remi has biotech finance experience; otherwise specialized niche."
     },
     {
       "id": "workable-simply-nootropics-tmrw-group-cfo",
       "company": "Simply Nootropics & TMRW",
       "title": "Group CFO (Fractional) at Simply Nootropics & TMRW",
       "portal": "Workable/GoFractional",
-      "first_seen": "2026-07-21"
+      "first_seen": "2026-07-21",
+      "status": "SKIPPED",
+      "notes": "Posting from March 2026 — over 3 months old. SKIP per date rule."
     },
     {
       "id": "ashbyhq-tem-fractional-cfo",
       "company": "tem",
       "title": "Fractional CFO (6-month contract) at tem",
       "portal": "AshbyHQ",
-      "first_seen": "2026-07-21"
+      "first_seen": "2026-07-21",
+      "status": "PIPELINE",
+      "notes": "AI-native energy transaction infrastructure startup. Raised $75M Series B (Lightspeed, late 2025). 6-month fractional CFO contract via Ashby. Energy sector (not regulated fintech). Well-funded startup, Series B stage — likely needs finance leadership without a full-time CFO yet. Strong founder-led startup signal."
     },
     {
       "id": "ashbyhq-10xteam-fractional-cfo",
       "company": "10x Team",
       "title": "Fractional CFO at 10x Team (marketplace)",
       "portal": "AshbyHQ",
-      "first_seen": "2026-07-21"
+      "first_seen": "2026-07-21",
+      "status": "FLAGGED",
+      "notes": "10x Team is an AI expert marketplace placing European experts at AI labs. This role is fractional CFO for \"AI model finetuning\" — likely an anonymous client company, not 10x itself. Client identity unclear. Could be SaaS/AI startup (potential PIPELINE) or a larger tech firm (SKIP). Flagged until client identity confirmed."
     },
     {
       "id": "gofractional-crews-co-cfo",
       "company": "Crews & Co.",
       "title": "Fractional CFO at Crews & Co. (competitor firm)",
       "portal": "GoFractional",
-      "first_seen": "2026-07-21"
+      "first_seen": "2026-07-21",
+      "status": "SKIPPED",
+      "notes": "Crews & Co. is a competitor fractional CFO firm — SKIP."
     }
   ]
 }
