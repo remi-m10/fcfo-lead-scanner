@@ -1,38 +1,5 @@
 {
-  "date": "2026-07-22",
-  "new_count": 4,
-  "results": [
-    {
-      "id": "gofractional-houndsy-cfo",
-      "title": "Fractional CFO at Houndsy",
-      "url": "https://www.gofractional.com/job/houndsy-fractional-cfo",
-      "portal": "GoFractional",
-      "first_seen": "2026-07-21",
-      "classification": "PIPELINE"
-    },
-    {
-      "id": "gofractional-aphios-cfo",
-      "title": "Part-Time Fractional CFO at Aphios Corporation",
-      "url": "https://www.gofractional.com/job/aphios-corporation-fractional-cfo",
-      "portal": "GoFractional / LinkedIn",
-      "first_seen": "2026-07-21",
-      "classification": "FLAGGED"
-    },
-    {
-      "id": "ashbyhq-tem-fractional-cfo",
-      "title": "Fractional CFO (6-month contract) at tem",
-      "url": "https://jobs.ashbyhq.com/tem/aec7cfa5-c639-4eb2-9762-600f2701d814",
-      "portal": "AshbyHQ",
-      "first_seen": "2026-07-21",
-      "classification": "PIPELINE"
-    },
-    {
-      "id": "ashbyhq-10xteam-fractional-cfo",
-      "title": "Fractional CFO at 10x Team (AI model finetuning client)",
-      "url": "https://jobs.ashbyhq.com/10xteam/4edbfb01-824e-4178-ad0f-4b26760e5df7",
-      "portal": "AshbyHQ",
-      "first_seen": "2026-07-21",
-      "classification": "FLAGGED"
-    }
-  ]
+  "date": "2026-07-23",
+  "new_count": 0,
+  "results": []
 }
