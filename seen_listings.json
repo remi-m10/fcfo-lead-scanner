@@ -1,6 +1,6 @@
 {
-  "last_scan": "2026-07-23",
-  "total_seen": 242,
+  "last_scan": "2026-07-24",
+  "total_seen": 245,
   "seen": [
     {
       "id": "linkedin-4379881837",
@@ -1828,6 +1828,33 @@
       "first_seen": "2026-07-21",
       "status": "SKIPPED",
       "notes": "Crews & Co. is a competitor fractional CFO firm — SKIP."
+    },
+    {
+      "id": "linkedin-allan-aircraft-supply-fractional-cfo",
+      "company": "Allan Aircraft Supply Co., LLC",
+      "title": "Fractional CFO",
+      "portal": "LinkedIn/Paylocity",
+      "first_seen": "2026-07-24",
+      "status": "PIPELINE",
+      "notes": "Family-owned aerospace parts manufacturer, North Hollywood CA. Since 1952, ~34-43 employees. SpaceX customer. Part-time $120-140K/yr. Seeking strategic financial leadership for profitability and cash flow. No existing CFO. Family-owned business, strong PIPELINE fit."
+    },
+    {
+      "id": "wellfound-wells-group-ny-fractional-cfo",
+      "company": "Wells Group of New York",
+      "title": "Fractional CFO",
+      "portal": "Wellfound",
+      "first_seen": "2026-07-24",
+      "status": "SKIPPED",
+      "notes": "Wells Group of New York is a modular finance department / fractional CFO platform (competitor). Hiring CFOs to work FOR their clients. SKIP."
+    },
+    {
+      "id": "linkedin-brand-k-partners-fractional-cfo",
+      "company": "Brand K Partners",
+      "title": "Fractional Non-Profit CFO",
+      "portal": "LinkedIn/ZipRecruiter",
+      "first_seen": "2026-07-24",
+      "status": "SKIPPED",
+      "notes": "Brand K Partners is a fractional CFO/accounting services firm for nonprofits. Hiring a CFO to serve their client base. Competitor firm — SKIP."
     }
   ]
 }
