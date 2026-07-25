@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-07-24",
+  "last_scan": "2026-07-25",
   "total_seen": 245,
   "seen": [
     {
@@ -1855,6 +1855,42 @@
       "first_seen": "2026-07-24",
       "status": "SKIPPED",
       "notes": "Brand K Partners is a fractional CFO/accounting services firm for nonprofits. Hiring a CFO to serve their client base. Competitor firm — SKIP."
+    },
+    {
+      "id": "himalayas-jeenka-fractional-cfo",
+      "company": "Jeenka + Sensory Design",
+      "title": "Fractional Chief Financial Officer at Jeenka",
+      "portal": "himalayas.app",
+      "first_seen": "2026-07-25",
+      "status": "FLAGGED",
+      "notes": "Jeenka (digital AI/avatar tech, Switzerland/Italy) + Sensory Design: two companies undergoing strategic relaunch. Seeking fractional CFO, 10-15 hrs/week. Freelance/contractor with results-based compensation (no guaranteed retainer). Date unclear — startup.jobs shows April 2026 company page (potentially >3 months old). Flag: non-standard pay structure + date uncertainty. If posting is <3 months old and retainer terms can be negotiated, evaluate further."
+    },
+    {
+      "id": "linkedin-4364769128",
+      "company": "Infinite Home Solutions LLC",
+      "title": "Fractional CFO (Part-Time) – Home Services Growth Company",
+      "portal": "LinkedIn",
+      "first_seen": "2026-07-25",
+      "status": "SKIPPED",
+      "notes": "Posted Feb 25 2026 — over 3 months old. SKIP per date rule."
+    },
+    {
+      "id": "linkedin-4437307366",
+      "company": "How to Manage a Small Law Firm",
+      "title": "Fractional CFO (Full-Time W-2 | Remote)",
+      "portal": "LinkedIn",
+      "first_seen": "2026-07-25",
+      "status": "SKIPPED",
+      "notes": "Law firm management coaching company. Full-Time W-2 role — not a fractional engagement. SKIP."
+    },
+    {
+      "id": "linkedin-4435635566",
+      "company": "CFS (Creative Financial Staffing)",
+      "title": "Fractional CFO - Part Time Contract",
+      "portal": "LinkedIn",
+      "first_seen": "2026-07-25",
+      "status": "SKIPPED",
+      "notes": "CFS is a financial staffing/recruiting firm. Competitor. SKIP."
     }
   ]
 }
