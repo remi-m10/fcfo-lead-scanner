@@ -1,9 +1,9 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 3 new leads - 2026-07-20
+Subject: fCFO Scanner: 2 new leads - 2026-07-26
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-07-20
-Coverage: July 18–20, 2026 (picks up from July 17 email)
+fCFO Lead Scanner — 2026-07-26
+Coverage: July 21–26, 2026 (picks up from July 20 email)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 PIPELINE (0)
@@ -11,68 +11,86 @@ PIPELINE (0)
 No new PIPELINE leads this scan.
 
 
-FLAGGED (3)
+FLAGGED (2)
 -----------
 
-1. Aspero Medical — Fractional CFO
-   Portal: FractionalJobs.io
-   URL: https://www.fractionaljobs.io/jobs/chief-financial-officer-at-aspero-medical
-   Found: 2026-07-20
-   Notes: Medical device startup, spinout of the University of Colorado, Boulder
-   (2018), based in Broomfield CO. 9 staff, pre-profitable, investor- and
-   grant-funded. Seeking fractional CFO at ~20 hrs/month (mostly remote, with
-   occasional on-site in CO). Role covers accounting/finance ops, banking, cash
-   flow modeling, GAAP compliance, BOD packages, and investor updates. Flagged
-   because: (a) medical device sector has its own regulatory/financial reporting
-   norms (FDA, device classification, clinical-stage financials); (b) BOD and
-   investor relations suggest reporting complexity above typical fractional scope.
-   If you have experience with early-stage medtech or device company finance,
-   this is worth a look — otherwise, lower priority.
+1. tem — Fractional CFO (6-month contract)
+   Portal: Ashby HQ
+   URL: https://jobs.ashbyhq.com/tem/aec7cfa5-c639-4eb2-9762-600f2701d814
+   Posted: July 9, 2026 | Deadline: August 8, 2026
+   Notes: tem is an energy startup rebuilding the electricity transaction model
+   to make it transparent and fair for customers. Closed a $75M Series B led
+   by Lightspeed Venture Partners in late 2025 following extraordinary growth.
+   Seeking a fractional CFO for a 6-month contract engagement. Flagged because:
+   (a) VC-backed at Series B — investor reporting requirements and board complexity
+   typical of funded scale-ups; (b) energy sector carries regulatory and compliance
+   dimensions that may fall outside standard fractional scope; (c) 6-month fixed
+   contract could be a bridge to a full-time hire rather than an ongoing fractional
+   relationship. If you have experience with VC-backed scale-ups or energy/utilities
+   and are comfortable with a term engagement, this is worth pursuing. Deadline is
+   tight — apply before August 8.
 
-2. Education Redefined Inc. — Founding CFO (Fractional or Full-Time)
-   Portal: LinkedIn
-   URL: https://www.linkedin.com/jobs/view/founding-cfo-%E2%80%94-fractional-or-full-time-at-education-redefined-inc-4436053181
-   Location: Austin, TX
-   Found: 2026-07-20 (posted ~2 weeks ago, ~July 6)
-   Notes: Early-stage edtech company seeking a Founding CFO. The "Fractional
-   or Full-Time" framing is common for very early-stage companies that need
-   executive finance leadership but haven't yet committed to a full-time hire.
-   No company website found in search, suggesting either very new or operating
-   quietly. Austin TX, so US-based. Flagged because: (a) company profile is
-   thin — unable to verify size, revenue stage, or founder background; (b) the
-   role could convert to full-time, which may or may not suit a fractional
-   engagement model. If you can verify the company and it's a founder-led
-   edtech startup pre-scale, this could move to PIPELINE.
-
-3. Anonymous — Fractional CFO (Consumer Goods Company)
-   Portal: GoFractional
-   URL: https://www.gofractional.com/job/fractional-chief-financial-officer-cmkmvb2g
-   Rate: $130–$230/hr | 10–25 hrs/week | Remote
-   Found: 2026-07-20 (posted July 13, 2026)
-   Notes: Anonymous company listed on GoFractional, described as a "Consumer
-   Goods Finance Company." Rate range and hour commitment are solid for a
-   fractional engagement. Flagged because: (a) company identity is masked —
-   unclear whether this is a consumer goods company seeking a CFO for its own
-   operations, or a financial services firm that serves consumer goods clients;
-   (b) the descriptor "Finance Company" in the label creates ambiguity. GoFractional
-   will reveal the company name to matched candidates. If consumer goods operating
-   company, this could be strong PIPELINE; if it's a finance/advisory firm for
-   unnamed clients, likely SKIPPED.
+2. Keen Software House / GoodAI — CFO (Fractional)
+   Portal: Greenhouse
+   URL: https://job-boards.greenhouse.io/keensoftwarehouseas/jobs/4930465101
+   Posted: ~July 23, 2026 | Start: September 2026
+   Notes: Keen Software House (Space Engineers, Medieval Engineers, VRAGE engine)
+   and GoodAI are two privately owned Czech technology companies both founded and
+   owned by Marek Rosa. Seeking a fractional CFO as a long-term financial partner
+   to the founder/CEO, covering the group's financial agenda across both entities
+   at approximately 30 hours per month. Role is primarily remote, with occasional
+   on-site visits to Prague. Flagged because: (a) explicitly requires knowledge of
+   Czech accounting, banking, and tax environment — significant geographic constraint
+   unless you operate in Central/Eastern Europe; (b) multi-entity group structure
+   (game dev + AI) adds complexity; (c) compensation not disclosed, applicants must
+   include indicative availability and pricing. If you have Czech financial expertise
+   or CEE connections, this is a strong PIPELINE candidate — otherwise lower priority.
 
 
-SKIPPED (0 new)
+SKIPPED (7 new)
 ---------------
-No new SKIPPED items this scan. All results from DuckDuckGo scraper returned
-0 results (proxy blocked, HTTP 403). Web search API used as fallback.
+- Calpion / Plutus Health — Fractional CFO (Dallas TX / Remote): Healthcare Revenue
+  Cycle Management company. Regulated industry, requires healthcare RCM expertise.
+- SPRCHRGR — Virtual/Fractional CFO (Greenhouse): SPRCHRGR is a fractional CFO
+  services provider — competitor firm, not end client.
+- Preferred CFO (Himalayas): Outsourced financial services firm hiring CFOs to
+  serve their own client portfolio. Competitor.
+- Mahway — Fractional CFO/Contractor (Ashby): Venture builder/startup studio.
+  Posting dated March 2025 — older than 3 months.
+- Jeenka — Fractional CFO (Himalayas/Workable): Digital agency, 10–15 hrs/week.
+  Posting dated July 2025 — older than 3 months. (Also already in seen_listings.)
+- Robert Half — Fractional CFO for International Non-Profit (remote, DC): Staffing
+  agency recruiting for unnamed client. $79–91/hr, posted July 23, 2026. Skipped
+  per rules (staffing agency for unnamed client).
+- Crete Professionals Alliance / Northstar Financial Advisory — Senior Fractional CFO:
+  Outsourced accounting firm hiring portfolio CFOs. Job removed May 2026; also a
+  competitor/staffing scenario.
 
 
 SCAN NOTES
 ----------
-- DuckDuckGo HTML scraper blocked by proxy (HTTP 403) — same issue as July 17.
-  Web search API used as primary fallback across all query categories.
-- This scan covers July 18–20 (3-day gap since July 17 email).
-- 235 total listings tracked in seen_listings.json (3 new actioned today).
-- No PIPELINE leads; 3 new FLAGGED leads requiring verification.
-- Reminder: 5 PIPELINE and 2 FLAGGED leads from the July 17 email are still
-  open for outreach (The Pad Climbing, Pure Strategies, Align Social Impact,
-  Foreign Venture Group, ArcHaus, MashUp Group, West Hive Capital).
+- DuckDuckGo HTML scraper blocked by proxy (HTTP 403) — same recurring issue as
+  July 17 and July 20. Web search API used as primary fallback across all query
+  categories. Coverage is best-effort under this constraint.
+- This scan covers July 21–26 (6-day gap since July 20 email).
+- 249 total listings tracked in seen_listings.json (0 added today by scraper).
+- 2 new FLAGGED leads found via web search fallback.
+- No PIPELINE leads this scan.
+
+OPEN FROM PRIOR EMAILS (still unactioned as of July 20)
+-------------------------------------------------------
+From July 17 email (PIPELINE):
+  - The Pad Climbing
+  - Pure Strategies
+  - Align Social Impact
+  - Foreign Venture Group
+  - ArcHaus
+
+From July 17 email (FLAGGED):
+  - MashUp Group
+  - West Hive Capital
+
+From July 20 email (FLAGGED):
+  - Aspero Medical — FractionalJobs.io
+  - Education Redefined Inc. — LinkedIn
+  - Anonymous Consumer Goods Finance Company — GoFractional ($130–230/hr)
