@@ -1,5 +1,6 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "new_count": 0,
-  "results": []
+  "results": [],
+  "scan_notes": "DuckDuckGo HTML endpoint blocked by proxy (HTTP 403 on CONNECT tunnel). Automated script returned 0 results. Manual WebSearch fallback performed across all query categories — all discovered leads were already present in seen_listings.json from prior scans (April-July 2026). Search script needs migration to a proxy-compatible API (Brave Search, SerpAPI, or similar)."
 }
