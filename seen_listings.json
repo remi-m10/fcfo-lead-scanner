@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-07-29",
+  "last_scan": "2026-07-30",
   "total_seen": 245,
   "seen": [
     {
@@ -1891,6 +1891,38 @@
       "first_seen": "2026-07-25",
       "status": "SKIPPED",
       "notes": "CFS is a financial staffing/recruiting firm. Competitor. SKIP."
+    },
+    {
+      "id": "fractionaljobs-netcoins-cfo",
+      "company": "Netcoins",
+      "title": "Fractional Chief Financial Officer at Netcoins",
+      "portal": "fractionaljobs.io",
+      "status": "SKIPPED",
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "fractionaljobs-high5games-cfo",
+      "company": "High 5 Games",
+      "title": "Fractional Chief Financial Officer at High 5 Games",
+      "portal": "fractionaljobs.io",
+      "status": "FLAGGED",
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "linkedin-cabrini-green-legal-aid-cfo-4442577552",
+      "company": "Cabrini Green Legal Aid",
+      "title": "Fractional CFO at Cabrini Green Legal Aid",
+      "portal": "linkedin",
+      "status": "FLAGGED",
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "fractionaljobs-procurityai-vp-finance",
+      "company": "Procurity.AI",
+      "title": "Fractional Vice President Finance at Procurity.AI",
+      "portal": "fractionaljobs.io",
+      "status": "SKIPPED",
+      "first_seen": "2026-07-30"
     }
   ]
 }
