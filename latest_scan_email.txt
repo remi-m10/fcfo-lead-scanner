@@ -1,96 +1,28 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 2 new leads - 2026-07-26
+Subject: fCFO Scanner: 0 new leads - 2026-08-01
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-07-26
-Coverage: July 21–26, 2026 (picks up from July 20 email)
+fCFO Lead Scanner — 2026-08-01
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 PIPELINE (0)
 ------------
 No new PIPELINE leads this scan.
 
-
-FLAGGED (2)
+FLAGGED (0)
 -----------
+No new FLAGGED leads this scan.
 
-1. tem — Fractional CFO (6-month contract)
-   Portal: Ashby HQ
-   URL: https://jobs.ashbyhq.com/tem/aec7cfa5-c639-4eb2-9762-600f2701d814
-   Posted: July 9, 2026 | Deadline: August 8, 2026
-   Notes: tem is an energy startup rebuilding the electricity transaction model
-   to make it transparent and fair for customers. Closed a $75M Series B led
-   by Lightspeed Venture Partners in late 2025 following extraordinary growth.
-   Seeking a fractional CFO for a 6-month contract engagement. Flagged because:
-   (a) VC-backed at Series B — investor reporting requirements and board complexity
-   typical of funded scale-ups; (b) energy sector carries regulatory and compliance
-   dimensions that may fall outside standard fractional scope; (c) 6-month fixed
-   contract could be a bridge to a full-time hire rather than an ongoing fractional
-   relationship. If you have experience with VC-backed scale-ups or energy/utilities
-   and are comfortable with a term engagement, this is worth pursuing. Deadline is
-   tight — apply before August 8.
-
-2. Keen Software House / GoodAI — CFO (Fractional)
-   Portal: Greenhouse
-   URL: https://job-boards.greenhouse.io/keensoftwarehouseas/jobs/4930465101
-   Posted: ~July 23, 2026 | Start: September 2026
-   Notes: Keen Software House (Space Engineers, Medieval Engineers, VRAGE engine)
-   and GoodAI are two privately owned Czech technology companies both founded and
-   owned by Marek Rosa. Seeking a fractional CFO as a long-term financial partner
-   to the founder/CEO, covering the group's financial agenda across both entities
-   at approximately 30 hours per month. Role is primarily remote, with occasional
-   on-site visits to Prague. Flagged because: (a) explicitly requires knowledge of
-   Czech accounting, banking, and tax environment — significant geographic constraint
-   unless you operate in Central/Eastern Europe; (b) multi-entity group structure
-   (game dev + AI) adds complexity; (c) compensation not disclosed, applicants must
-   include indicative availability and pricing. If you have Czech financial expertise
-   or CEE connections, this is a strong PIPELINE candidate — otherwise lower priority.
-
-
-SKIPPED (7 new)
----------------
-- Calpion / Plutus Health — Fractional CFO (Dallas TX / Remote): Healthcare Revenue
-  Cycle Management company. Regulated industry, requires healthcare RCM expertise.
-- SPRCHRGR — Virtual/Fractional CFO (Greenhouse): SPRCHRGR is a fractional CFO
-  services provider — competitor firm, not end client.
-- Preferred CFO (Himalayas): Outsourced financial services firm hiring CFOs to
-  serve their own client portfolio. Competitor.
-- Mahway — Fractional CFO/Contractor (Ashby): Venture builder/startup studio.
-  Posting dated March 2025 — older than 3 months.
-- Jeenka — Fractional CFO (Himalayas/Workable): Digital agency, 10–15 hrs/week.
-  Posting dated July 2025 — older than 3 months. (Also already in seen_listings.)
-- Robert Half — Fractional CFO for International Non-Profit (remote, DC): Staffing
-  agency recruiting for unnamed client. $79–91/hr, posted July 23, 2026. Skipped
-  per rules (staffing agency for unnamed client).
-- Crete Professionals Alliance / Northstar Financial Advisory — Senior Fractional CFO:
-  Outsourced accounting firm hiring portfolio CFOs. Job removed May 2026; also a
-  competitor/staffing scenario.
-
+SKIPPED (0)
+-----------
 
 SCAN NOTES
 ----------
-- DuckDuckGo HTML scraper blocked by proxy (HTTP 403) — same recurring issue as
-  July 17 and July 20. Web search API used as primary fallback across all query
-  categories. Coverage is best-effort under this constraint.
-- This scan covers July 21–26 (6-day gap since July 20 email).
-- 249 total listings tracked in seen_listings.json (0 added today by scraper).
-- 2 new FLAGGED leads found via web search fallback.
-- No PIPELINE leads this scan.
+- All 31 DuckDuckGo search queries returned 0 results today.
+- This is consistent with DuckDuckGo rate-limiting/blocking in this environment
+  (same issue noted on July 17, July 20, and July 26 scans).
+- 253 total listings tracked in seen_listings.json.
+- Gmail draft also created (id: r-7746773776177839158).
 
-OPEN FROM PRIOR EMAILS (still unactioned as of July 20)
--------------------------------------------------------
-From July 17 email (PIPELINE):
-  - The Pad Climbing
-  - Pure Strategies
-  - Align Social Impact
-  - Foreign Venture Group
-  - ArcHaus
-
-From July 17 email (FLAGGED):
-  - MashUp Group
-  - West Hive Capital
-
-From July 20 email (FLAGGED):
-  - Aspero Medical — FractionalJobs.io
-  - Education Redefined Inc. — LinkedIn
-  - Anonymous Consumer Goods Finance Company — GoFractional ($130–230/hr)
+If this persists, consider switching the search backend (e.g. SerpAPI, Brave Search API)
+or running the script from a different IP.
