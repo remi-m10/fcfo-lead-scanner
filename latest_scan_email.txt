@@ -1,8 +1,8 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 0 new leads - 2026-08-01
+Subject: fCFO Scanner: 0 new leads - 2026-08-02
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-08-01
+fCFO Lead Scanner — 2026-08-02
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 PIPELINE (0)
@@ -19,10 +19,16 @@ SKIPPED (0)
 SCAN NOTES
 ----------
 - All 31 DuckDuckGo search queries returned 0 results today.
-- This is consistent with DuckDuckGo rate-limiting/blocking in this environment
-  (same issue noted on July 17, July 20, and July 26 scans).
-- 253 total listings tracked in seen_listings.json.
-- Gmail draft also created (id: r-7746773776177839158).
+- Root cause confirmed: the agent proxy blocks DuckDuckGo (HTTP 403 at proxy level).
+- This issue has persisted since at least July 17. No new leads can be found until
+  the search backend is changed.
+- 253 total listings tracked in seen_listings.json (no change from yesterday).
+- Gmail draft created (id: r8360342374551975095).
 
-If this persists, consider switching the search backend (e.g. SerpAPI, Brave Search API)
-or running the script from a different IP.
+ACTION RECOMMENDED
+------------------
+Switch the search backend from DuckDuckGo HTML scraping to an API-based solution:
+  - Brave Search API (free tier: 2,000 req/month)
+  - SerpAPI (100 free searches/month)
+  - Google Custom Search JSON API (100 free queries/day)
+Any of these would work through the proxy without being blocked.
