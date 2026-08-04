@@ -1,8 +1,8 @@
 To: remi@remimouton.com
-Subject: fCFO Scanner: 0 new leads - 2026-08-03
+Subject: fCFO Scanner: 0 new leads - 2026-08-04
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-fCFO Lead Scanner — 2026-08-03
+fCFO Lead Scanner — 2026-08-04
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 PIPELINE (0)
@@ -24,7 +24,7 @@ SCAN NOTES
 - This issue has persisted since at least July 17. No new leads can be found until
   the search backend is changed.
 - 253 total listings tracked in seen_listings.json (no change from yesterday).
-- Gmail draft created (id: r-839721025293608936).
+- Gmail draft created (id: r-1958462785527296559).
 
 ACTION RECOMMENDED
 ------------------
